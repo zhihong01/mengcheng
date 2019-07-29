@@ -1,0 +1,464 @@
+<!DOCTYPE html>
+<html lang="zh-cn">
+<head>
+	<meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>蒙城县人民政府</title>
+    <link rel="shortcut icon" type="image/x-icon" href="../favicon.ico">
+    <link rel="stylesheet" href="../media/css/bootstrap.min.css">
+	<link rel="stylesheet" href="../media/font/iconfont.css">
+    <link rel="stylesheet" href="../media/css/public.css">
+    <link rel="stylesheet" href="../media/css/page.css">
+    <!--[if lt IE 9]>
+    <script src="../media/js/html5shiv.js"></script>
+    <script src="../media/js/respond.min.js"></script>
+    <![endif]-->
+</head>
+<body>
+<!-- 头部 on -->
+<div class="is-header">
+	<div class="top-wrapper">
+		<div class="top-content">
+			<div class="f-left">
+				<a href="http://www.mengcheng.gov.cn/" target="_blank">返回主站</a>
+				|
+				<a href="http://xxgk.bozhou.gov.cn" target="_blank">亳州市政府政务公开</a>
+			</div>
+			<div class="f-right">
+				<a href="javascript:StranBody()" id="StranLink" title="繁體版">繁體版</a>
+				|
+				<a href="javascript:;" title="无障碍浏览" onclick="kqNav();">无障碍浏览</a>
+			</div>
+		</div>
+	</div>
+	<div class="banner-wrapper">
+		<div class="banner-content">
+			<div class="banner-logo">
+				<img src="../media/images/common/logo.png" alt="">
+			</div>
+			<div class="banner-img">
+				<img src="../media/images/common/flv.png" alt="">
+			</div>
+		</div>
+	</div>
+	<div class="m-nav navbar navbar-default" role="navigation">
+		<div class="container-fluid"> 
+			<div class="navbar-header">
+				<button type="button" class="navbar-toggle" data-toggle="collapse"
+						data-target="#example-navbar-collapse">
+					<span class="sr-only">切换导航</span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+				</button>
+				<a class="navbar-brand" href="#">网站首页</a>
+			</div>
+			<div class="collapse navbar-collapse" id="example-navbar-collapse">
+				<ul class="nav navbar-nav row">
+					<li class="nav1"><a href="">网站首页</a></li>
+					<li class="nav2"><a href="">公开年报</a></li>
+					<li class="nav3">
+						<a href="">公开指南与目录</a>
+						<div class="subnav subnav1">
+						  <a href="" target="_blank">县政府部门公开指南与目录</a>
+						  <a href="" target="_blank">乡镇街道公开指南与目录</a>
+						</div>
+					</li>
+					<li class="nav4">
+						<a href="">政策解读</a>
+						<div class="subnav subnav2">
+						  <a href="" target="_blank">上级政策解读</a>
+						  <a href="" target="_blank">本级政策解读</a>         
+						</div>
+					</li>
+					<li class="nav5">
+						<a href="">回应关切</a>
+						<div class="subnav subnav3">
+						  <a href="" target="_blank">主动回应</a>
+						  <a href="" target="_blank">在线访谈</a>
+						  <a href="" target="_blank">县长信箱</a>
+						  <a href="" target="_blank">部门信箱</a>
+						  <a href="" target="_blank">新闻发布会</a>
+						</div>
+					</li>
+					<li class="nav6">
+						<a href="">依申请公开</a>
+						<div class="subnav subnav4">
+						  <a href="" target="_blank">公开目录</a>
+						  <a href="" target="_blank">网上申请</a>
+						  <a href="" target="_blank">办理流程</a>
+						  <a href="" target="_blank">收费标准</a>
+						</div>
+					</li>
+					<li class="nav7">
+						 <a href="">监督保障</a>
+						 <div class="subnav subnav5">
+						  <a href="" target="_blank">宣传培训</a>
+						  <a href="" target="_blank">主题活动</a>
+						  <a href="" target="_blank">工作动态</a>
+						</div>
+					</li>
+				</ul> 
+			</div>
+		</div>
+	</div>
+	<div class="notice-wrapper">
+		<div class="u-date">
+			<script type="text/javascript" src="../media/js/time.js"></script>
+		</div>
+		<div class="u-weather">
+			<iframe src="//www.seniverse.com/weather/weather.aspx?uid=UEE571E5B2&cid=CHAH080300&l=zh-CHS&p=SMART&a=0&u=C&s=4&m=0&x=1&d=0&fc=&bgc=&bc=&ti=0&in=0&li=" frameborder="0" scrolling="no" width="1000" height="27" allowTransparency="true"></iframe>
+		</div>
+
+		<div class="u-search">
+			<form action="/opennessSearch/">
+			  <input type="text" name="keywords" placeholder="--请输入搜索关键字--" class="text">
+			  <input type="submit" class="btn" value="">
+			</form>
+			<a href="/xxgkDeep/" class="deep-search">高级搜索</a>
+		</div>
+	</div>
+</div>
+<!-- 头部 end -->
+<!-- 主体 on -->
+<div class="is-main container">
+	<section class="m-location f-mb14">
+		<span><i class="iconfont">&#xe6ea;</i>您当前所在位置：</span>
+		<a href="">网站首页</a> &gt;
+		<span>依申请公开</span>
+	</section>
+	<section class="f-openbox1 f-mb14">
+		<div class="m-bminfo f-mb10">
+			<ul class="row">
+				<li class="col-md-12">公开单位：<strong>蒙城县政府（办公室）</strong></li>
+				<li class="col-md-6">办公地址：<strong>蒙城县世纪大道监察委大楼</strong></li>
+				<li class="col-md-6">联系电话：<strong>0558-8807896</strong></li>
+			</ul>
+		</div>
+		<div class="m-ysqtab f-clearfix">
+			<ul>
+				<li><a href="">依申请公开目录</a></li>
+				<li><a href="">申请表下载</a></li>
+				<li><a href="">申请信息流程图</a></li>
+				<li class="u-active"><a href="">在线申请</a></li>
+				<li><a href="">依申请公开查询</a></li>
+				<li><a href="">依申请公开统计</a></li>
+			</ul>
+		</div>
+	</section>
+	<section class="f-openbox1">
+		<div class="m-zxsqtext f-mb10">
+			<p>对于公开权利人的申请，能够当场答复或者提供政府信息的，当场予以答复或者提供政府信息；不能当场答复或者提供政府信息的，自收到申请之日起20个工作日内根据下列不同情况进行处理：</p>
+			<p>（一）属于依申请公开范围的，应当制作公开决定书，向公开权利人提供其所需要的政府信息；</p>
+			<p>（二）属于不予公开范围的，应当制作政府信息不予公开决定书，告知公开权利人；</p>
+			<p>（三）属于已主动公开的，应当告知公开权利人获取该政府信息的方式和途径；</p>
+			<p>（四）属于主动公开范围但尚未主动公开的，应当及时向公开权利人提供其所需要政府信息；</p>
+			<p>（五）申请公开的政府信息不存在的，应当书面告知公开权利人；</p>
+			<p>（六）申请公开的内容不明确的，应当告知公开权利人更改完善、补充申请。</p>
+			<p>（七）公开义务人应当建立政府信息公开审核制度，在向公开权利人提供政府信息前，应当依照《中华人民共和国保守国家秘密法》以及其他法律、法规和国家有关规定对拟公开的政府信息进行保密审查。对依申请公开的政府信息不能确定是否可以公开时，应当依照法律、法规和国家有关规定及时报有关主管部门或者保密工作部门确定。</p>
+			<p>（八）因正当理由不能在规定的期限内作出答复或者提供政府信息的，经单位负责人同意，可以将答复或者提供政府信息的期限适当延长并书面告知申请人，延长期限不得超过20个工作日。公开义务人征求第三方意见所需时间不计算在本条第一款规定的期限内。</p>
+		</div>
+		<div class="m-zxsqform">
+			<form action="">
+				<div class="g-zxsqform">
+					<table class="apply-wrapper">
+	                    <thead>
+	                        <tr>
+	                            <th colspan="4">政府信息公开申请表</th>
+	                        </tr>
+	                    </thead>
+	                    <tbody>
+	                        <tr>
+	                            <td>
+	                                <font>*</font>
+	                                您准备向：
+	                                <select name="datas[request_branch]" id="select2" class="org">
+	                                    <option value="">--请选择机构--</option>
+	                                    <option value="545214aaba6de118f0c2bde5">区政府(政府办公室)</option>
+	                                    <optgroup label="政府部门">
+	                                        <option value="523002707f8b9a1508ee347d">市住房城乡建设委</option>
+	                                    </optgroup>
+	                                    <optgroup label="乡镇">
+	                                        <option value="528188f0bed04bee4637fdd0">阜阳供电公司</option>
+	                                    </optgroup>
+	                                </select>
+	                                申请信息！
+	                            </td>
+	                        </tr>
+	                        <tr>
+	                            <td>
+	                                <font>*</font>
+	                                请选择您的身份：
+	                                <span style="padding:0 5px;"></span>
+	                                <input name="datas[as_type]" type="radio" value="1" onclick="setZL(1);" checked=""> 公民
+	                                <span style="padding:0 5px;"></span>
+	                                <input name="datas[as_type]" type="radio" value="2" onclick="setZL(2);"> 法人/其他组织
+	                                <span style="padding:0 70px;"></span>
+	                                是否公开信息：
+	                                <span style="padding:0 5px;"></span>
+	                                <input name="datas[author_open]" type="radio" value="1" checked=""> 是
+	                                <span style="padding:0 5px;"></span>
+	                                <input name="datas[author_open]" type="radio" value="0"> 否
+	                            </td>
+	                        </tr>
+	                        <tr>
+	                            <td class="apply-cell">
+	                                <table class="apply-person-info" id="zl_1">
+	                                    <tbody><tr>
+	                                        <td rowspan="5" class="name1 apply-person">申请人信息</td>
+	                                        <td rowspan="5" class="name1">公民</td>
+	                                        <td class="text-cell">
+	                                            <span class="name2"><font>*</font>姓名/名称</span>
+	                                            <input name="datas[name]" id="name" type="text" class="ipt1" value="">
+	                                        </td>
+	                                        <td class="text-cell">
+	                                            <span class="name2"><font>*</font>工作单位</span>
+	                                            <input name="datas[workunit]" id="workunit" type="text" class="ipt1" value="">
+	                                        </td>
+	                                    </tr>
+	                                    <tr>
+	                                        <td class="text-cell">
+	                                            <span class="name2"><font>*</font>证件名称</span>
+	                                            <input name="datas[paper_name]" id="paper_name" type="text" class="ipt1" value="">
+	                                        </td>
+	                                        <td class="text-cell">
+	                                            <span class="name2"><font>*</font>证件号码</span>
+	                                            <input name="datas[paper_id]" id="paper_id" type="text" class="ipt1" value="">
+	                                        </td>
+	                                    </tr>
+	                                    <tr>
+	                                        <td class="text-cell">
+	                                            <span class="name2"><font>*</font>电子邮箱</span>
+	                                            <input name="datas[email]" id="email" type="text" class="ipt1" value="">
+	                                        </td>
+	                                        <td class="text-cell">
+	                                            <span class="name2"><font>*</font>邮政编码</span>
+	                                            <input name="datas[post]" id="post" type="text" class="ipt1" value="">
+	                                        </td>
+	                                    </tr>
+	                                    <tr>
+	                                        <td class="text-cell">
+	                                            <span class="name2"><font>*</font>联系电话</span>
+	                                            <input name="datas[phone]" id="phone" type="text" class="ipt1" value="">
+	                                        </td>
+	                                        <td class="text-cell">
+	                                            <span class="name2"><font>*</font>传真</span>
+	                                            <input name="datas[fax]" id="fax" type="text" class="ipt1" value="">
+	                                        </td>
+	                                    </tr>
+	                                    <tr>
+	                                        <td class="text-cell">
+	                                            <span class="name2"><font>*</font>联系地址</span>
+	                                            <input name="datas[addr]" id="addr" type="text" class="ipt1" value="">
+	                                        </td>
+	                                        <td class="text-cell">
+	                                        </td>
+	                                    </tr>
+	                                </tbody></table>
+
+	                                <table class="apply-person-info" id="zl_2" style="display: none;">
+	                                    <tbody><tr>
+	                                        <td rowspan="5" class="name1 apply-person">申请人信息</td>
+	                                        <td rowspan="5" class="name1">公民</td>
+	                                        <td class="text-cell">
+	                                            <span class="name2"><font>*</font>姓名/名称</span>
+	                                            <input name="datas[unit_name]" id="unit_name" type="text" class="ipt1" value="">
+	                                        </td>
+	                                        <td class="text-cell">
+	                                            <span class="name2">组织机构代码</span>
+	                                            <input name="datas[unit_code]" id="unit_code" type="text" class="ipt1" value="">
+	                                        </td>
+	                                    </tr>
+	                                    <tr>
+	                                        <td class="text-cell">
+	                                            <span class="name2"><font>*</font>法人代表</span>
+	                                            <input name="datas[unit_legal]" id="unit_legal" type="text" class="ipt1" value="">
+	                                        </td>
+	                                        <td class="text-cell">
+	                                            <span class="name2"><font>*</font>联系人姓名</span>
+	                                            <input name="datas[unit_contact]" id="unit_contact" type="text" class="ipt1" value="">
+	                                        </td>
+	                                    </tr>
+	                                    <tr>
+	                                        <td class="text-cell">
+	                                            <span class="name2"><font>*</font>联系人电话</span>
+	                                            <input name="datas[unit_phone]" id="unit_phone" type="text" class="ipt1" value="">
+	                                        </td>
+	                                        <td class="text-cell">
+	                                            <span class="name2"><font>*</font>传真</span>
+	                                            <input name="datas[unit_fax]" id="unit_fax" type="text" class="ipt1" value="">
+	                                        </td>
+	                                    </tr>
+	                                    <tr>
+	                                        <td class="text-cell">
+	                                            <span class="name2"><font>*</font>联系地址</span>
+	                                            <input name="datas[unit_addr]" id="unit_addr" type="text" class="ipt1" value="">
+	                                        </td>
+	                                        <td class="text-cell"></td>
+	                                    </tr>
+	                                    <tr>
+	                                        <td class="text-cell">
+	                                            <span class="name2"><font>*</font>电子邮箱</span>
+	                                            <input name="datas[unit_email]" id="unit_email" type="text" class="ipt1" size="24" value="">
+	                                        </td>
+	                                        <td class="text-cell">
+	                                        </td>
+	                                    </tr>
+	                                </tbody></table>
+	                            </td>
+	                        </tr>
+	                        <tr>
+	                            <td class="infor-cell">
+	                                <table class="apply-need-info">
+	                                    <tbody><tr>
+	                                        <td rowspan="4" class="name1">所需信息情况</td>
+	                                        <td class="name2">
+	                                            <font>*</font>所需信息内容
+	                                        </td>
+	                                        <td>
+	                                            <textarea name="datas[content]" id="content" class="text-area"></textarea>
+	                                        </td>
+	                                    </tr>
+	                                    <tr>
+	                                        <td class="name2">
+	                                            <font>*</font>所需信息用途
+	                                        </td>
+	                                        <td>
+	                                            <textarea name="datas[usecontent]" id="usecontent" class="text-area"></textarea>
+	                                        </td>
+	                                    </tr>
+	                                    <tr>
+	                                        <td class="name2">
+	                                            <font>*</font>所需信息的指定提供载体形式（可多选）
+	                                        </td>
+	                                        <td class="carrier-sorts">
+	                                            <span><input type="checkbox" name="offer_type[]" value="1">纸面</span>
+	                                            <span><input type="checkbox" name="offer_type[]" value="2">电子邮件</span>
+	                                            <span><input type="checkbox" name="offer_type[]" value="3">光盘</span>
+	                                            <span><input type="checkbox" name="offer_type[]" value="4">磁盘</span>
+	                                        </td>
+	                                    </tr>
+	                                    <tr>
+	                                        <td class="name2">
+	                                            <font>*</font>获取信息的方式（可选）
+	                                        </td>
+	                                        <td class="carrier-sorts">
+	                                            <span><input name="for_type[]" type="checkbox" value="1">邮寄</span>
+	                                            <span><input name="for_type[]" type="checkbox" value="2">快递</span>
+	                                            <span><input name="for_type[]" type="checkbox" value="3">电子邮件</span>
+	                                            <span><input name="for_type[]" type="checkbox" value="4">传真</span>
+	                                            <span><input name="for_type[]" type="checkbox" value="5">自行领取</span>
+	                                        </td>
+	                                    </tr>
+	                                </tbody></table>
+	                            </td>
+	                        </tr>
+	                        <tr>
+	                        	<td class="infor-cell">
+	                        		<table class="apply-person-info">
+	                        			<tbody>
+	                        				<tr>
+	                        					<td class="text-cell">
+		                                            <span class="name2"><font>*</font>查询密码</span>
+		                                            <input name="" type="password" class="ipt1" value="">
+		                                        </td>
+		                                        <td class="text-cell">
+		                                            <span class="name2"><font>*</font>确认密码</span>
+		                                            <input name="" type="password" class="ipt1" value="">
+		                                        </td>
+	                        				</tr>
+	                        			</tbody>
+	                        		</table>
+	                        	</td>
+	                        </tr>
+	                    </tbody>
+	                </table>
+	                <div class="uploader">
+                        <input type="text" class="filename" readonly="">
+                        <input type="button" class="u-button" value="上传附件">
+                        <input type="file" name="upload">
+                    </div>
+                    <div class="submit-box">
+                        <button type="submit" class="btn btn-sub">提交申请</button>
+                        <button type="reset" class="btn">清空</button>
+                    </div>
+				</div>
+			</form>
+		</div>
+	</section>
+</div>
+<!-- 主体 end -->
+<!-- 底部 on -->
+<div class="is-foot">
+	 <div class="fxlist">
+		<ul>
+			<li class="fx1"><a href="" target="_blank"></a></li>
+			<li class="fx2"><a href="" target="_blank"></a></li>
+			<li class="fx3"><a href="" target="_blank"></a></li>
+			<li class="fx4"><a href="" target="_blank"></a></li>
+			<li class="fx5"><a href="" target="_blank"></a></li>
+			<li class="fx6"><a href="" target="_blank"></a></li>
+		</ul>
+	 </div>
+	<div class="m-footer">
+		<div class="m-middle">
+			<p class="fl"><p>版权所有：蒙城县人民政府   主办单位：蒙城县人民政府办公室 </p><p>E-mail： mcxzwgk@163.com  电话：0551-62663061 备案号：皖ICP备05015246号</p>  <p>网站标识码：3416220001<a class="wgw">皖公网安备34162202000016号</a></p>
+			<ul class="fl">
+				<li class="f1"><a href="">网站地图</a></li>
+				<li class="f2"><a href="">隐私申明</a></li>
+				<li class="f3"><a href="">使用说明</a></li>
+			   <!--  <li class="f4"><a href="">联系方式</a></li> -->
+			</ul>
+			<script id="_jiucuo_" sitecode='3416220001' src='http://pucha.kaipuyun.cn/exposure/jiucuo.js'></script>
+			<script type="text/javascript">document.write(unescape("%3Cspan id='_ideConac' %3E%3C/span%3E%3Cscript src='http://dcs.conac.cn/js/13/198/1564/60621165/CA131981564606211650001.js' type='text/javascript'%3E%3C/script%3E"));</script>
+		</div>
+	</div>
+ </div>
+<!-- 底部 end -->
+<!-- 右侧悬浮 on -->
+<div class="is-toolbar f-pf visible-md visible-lg">
+	<ul>
+		<li>
+			<a href="" target="_blank">
+				<span><i class="iconfont">&#xe603;</i></span>
+				<p>政务微博</p>
+				<img src="../media/images/public/pic-wbcode.png" alt="">
+			</a>
+		</li>
+		<li>
+			<a href="" target="_blank">
+				<span><i class="iconfont">&#xe60b;</i></span>
+				<p>政务微信</p>
+				<img src="../media/images/public/pic-wxcode.png" alt="">
+			</a>
+		</li>
+		<li>
+			<a href="" target="_blank">
+				<span><i class="iconfont">&#xe683;</i></span>
+				<p>县长信箱</p>
+			</a>
+		</li>
+		<li>
+			<a href="" target="_blank">
+				<span><i class="iconfont">&#xe67d;</i></span>
+				<p>县长热线</p>
+				<img src="../media/images/public/pic-xztel.png" alt="">
+			</a>
+		</li>
+	</ul>
+</div>
+<!-- 右侧悬浮 end -->
+<script src="../media/js/jquery.js"></script>
+<script src="../media/js/bootstrap.min.js"></script>
+<script src="../media/js/base.js"></script>
+<script>
+	$(function(){
+        $("input[type=file]").change(function(){$(this).parents(".uploader").find(".filename").val($(this).val());});
+        $("input[type=file]").each(function(){
+            if($(this).val()==""){$(this).parents(".uploader").find(".filename").val("--上传相关证明文件材料--");}
+        });
+    });
+</script>
+</body>
+</html>

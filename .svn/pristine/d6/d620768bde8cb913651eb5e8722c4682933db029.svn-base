@@ -1,0 +1,200 @@
+<!DOCTYPE html>
+<html lang="zh-cn">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>蒙城县人民政府</title>
+    <link rel="shortcut icon" type="image/x-icon" href="../favicon.ico">
+    <link rel="stylesheet" href="../media/css/bootstrap.min.css">
+    <link rel="stylesheet" href="../media/css/owl.carousel.min.css">
+	<link rel="stylesheet" href="../media/css/owl.theme.default.min.css">
+    <link rel="stylesheet" href="../media/css/public.css">
+    <link rel="stylesheet" href="../media/css/leader.css">
+    <!--[if lt IE 9]>
+    <script src="../media/js/html5shiv.js"></script>
+    <script src="../media/js/respond.min.js"></script>
+    <![endif]-->
+</head>
+<body>
+	<!-- 头部 end -->
+    <div class="is-header">
+		<div class="m-top">
+			<div class="logo"><img src="../media/images/public/logo.png" alt="" class="img-responsive"></div>
+			<div class="wt">
+				<span><script src="../media/js/time.js"></script></span>
+				<!-- <span><iframe allowtransparency="true" frameborder="0" width="180" height="36" scrolling="no" src="//tianqi.2345.com/plugin/widget/index.htm?s=3&z=2&t=0&v=0&d=3&bd=0&k=&f=&ltf=009944&htf=cc0000&q=1&e=1&a=0&c=60596&w=180&h=36&align=center"></iframe></span> -->
+			</div>
+			<div class="u-link">
+				<ul class="xian">
+					<li><a href="" target="_blank">县政协</a></li>
+					<li><a href="" target="_blank">县政府</a>|</li>
+					<li><a href="" target="_blank">县人大</a>|</li>
+					<li><a href="" target="_blank">县委</a>|</li>
+				</ul>
+				<ul class="fx">
+					<li class="fx1"><a href="">注册</a></li>
+					<li class="fx2"><a href="">登录</a></li>
+					<li class="fx3"><a href="">RSS订阅</a></li>
+					<li class="fx4"><a href="">无障碍浏览</a></li>
+					<li class="fx5"><a href="">简繁体</a></li>
+				</ul>
+			</div>
+		</div>
+		<div class="m-search">
+			<form method="GET" action="/index.php?c=search">
+				<input type="text" name="keywords" placeholder="-请输入检索关键字-" value="" class="u-searchtext fl" x-webkit-speech="" autocomplete="off">
+				<input name="" type="submit" value="" class="u-searchbtn fl">
+				<input name="c" type="hidden" value="search">
+				<a class="fl u-goodser" href="" title="" target="_blank">高级搜索</a>
+			</form>
+		</div>
+		<div class="m-nav navbar navbar-default" role="navigation">
+			<div class="container-fluid"> 
+				<div class="navbar-header">
+					<button type="button" class="navbar-toggle" data-toggle="collapse"
+							data-target="#example-navbar-collapse">
+						<span class="sr-only">切换导航</span>
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+					</button>
+					<a class="navbar-brand" href="#">网站首页</a>
+				</div>
+				<div class="collapse navbar-collapse" id="example-navbar-collapse">
+					<ul class="nav navbar-nav">
+						<li><a href=""><i class="u-icv1"></i> 网站首页</a></li>
+						<li><a href=""><i class="u-icv2"></i> 魅力蒙城</a></li>
+						<li><a href=""><i class="u-icv3"></i> 新闻中心</a></li>
+						<li><a href=""><i class="u-icv4"></i> 政务公开</a></li>
+						<li><a href=""><i class="u-icv5"></i> 解读回应</a></li>
+						<li><a href=""><i class="u-icv6"></i> 办事服务</a></li>
+						<li><a href=""><i class="u-icv7"></i> 互动交流</a></li>
+						<li><a href=""><i class="u-icv8"></i> 数据开放</a></li>
+					</ul> 
+				</div>
+			</div>
+		</div>
+	 </div>
+    <!-- 头部 end -->
+    <!-- 主体 on -->
+	<div class="is-main container f-mb20">
+		<section class="m-leaderbox">
+			<div class="m-location f-mb20">
+				<a href="">网站首页</a> &gt;
+				<span>县政府领导</span>
+			</div>
+			<div class="row">
+				<div class="col-md-3 m-leaderlf">
+					<div class="m-leadergp">
+						<h1>县政府领导</h1>
+						<div class="ld-img">
+						   <div><img src="../media/images/leader/ld_03.jpg"></div> 
+						   <span class="u-name">孔祥勇</span>
+						   <span>县长</span>
+						  
+						</div>
+						 <span class="u-xiexin"><a href=""><i></i>给我写信</a></span>
+						<ul class="u-leader">
+							<li class="u-active"><a href=""><span>孔祥勇</span><i>县长</i></a></li>
+							<li><a href=""><span>刘 卿</span><i>副县长</i></a></li>
+							<li><a href=""><span>罗立高</span><i>副县长（挂职）</i></a></li>
+							<li><a href=""><span>马德兵</span><i>副县长（挂职）</i></a></li>
+							<li><a href=""><span>卜晓峰</span><i>副县长（挂职）</i></a></li>
+							<li><a href=""><span>李红华</span><i>副县长</i></a></li>
+							<li><a href=""><span>于杰</span><i>副县长</i></a></li>
+							<li><a href=""><span>杨景欢</span><i>副县长</i></a></li>
+							<li><a href=""><span>张德银</span><i>副县长（挂职）</i></a></li>
+							<li><a href=""><span>史光荣</span><i>副县长（挂职）</i></a></li>
+							<li><a href=""><span>怀会议</span><i>副县长</i></a></li>
+						</ul>
+					</div>
+					
+				</div>
+				<div class="col-md-9 m-leaderrg">
+					<div class="m-ldgzjl">
+						<h1 class="m-titstyle3"><span class="u-tit f-fl">分管工作</span></h1>
+						<div class="m-ldgzjlbox text-justify">
+							<p>领导县政府全面工作。 负责审计等方面的工作。 分管审计局。</p>
+						</div>
+					</div>
+					<div class="m-ldgzjl f-mt10">
+						<h1 class="m-titstyle3"><span class="u-tit f-fl">工作简历</span></h1>
+						<div class="m-liststyle1 m-jianli">
+							<ul>
+								<li><a href="" title="" target="_blank">孔祥永，男，汉族，安徽亳州人，1971年1月出生，1991年7月参加工作，1991年7月入党。现任蒙城县委副书记、县长</a></li>
+								<li><a href="" title="" target="_blank">1989.09--1991.07   安徽建筑工业学院城建专业学习</a></li>
+								<li><a href="" title="" target="_blank">1991.07--2007.05   亳州市建委办公室主任</a></li>
+								<li><a href="" title="" target="_blank">2007.05--2009.11   亳州市建委副主任、党组成员</li>
+								<li><a href="" title="" target="_blank">2009.11--2010.05   亳州市住房和城乡建设委员会副主任、党组成员</a></li>
+								<li><a href="" title="" target="_blank">2010.05--2010.06   亳州市住房和城乡建设委员会党组书记</a></li>
+								<li><a href="" title="" target="_blank">2010.06--2012.07   亳州市住房和城乡建设委员会主任、党组书记</a></li>
+								<li><a href="" title="" target="_blank">2010.06--2012.07   亳州市住房和城乡建设委员会主任、党组书记</a></li>
+								<li><a href="" title="" target="_blank">2010.06--2012.07   亳州市住房和城乡建设委员会主任、党组书记</a></li>
+								<li><a href="" title="" target="_blank">2010.06--2012.07   亳州市住房和城乡建设委员会主任、党组书记</a></li>
+							</ul>
+						</div>
+					</div>
+					<div class="m-ldgzjl">
+						<h1 class="m-titstyle3"><span class="u-tit f-fl">领导活动</span></h1>
+						<div class="m-liststyle1 m-ldhd">
+							<ul>
+								<li><span>2019-05-07</span><a href="" title="" target="_blank">县委副书记、县长吴斌到中疃镇调研指导午季秸秆禁烧和综合利用工作</a></li>
+								<li><span>2019-05-07</span><a href="" title="" target="_blank">县委副书记、县长吴斌到中疃镇调研指导午季秸秆禁烧和综合利用工作</a></li>
+								<li><span>2019-05-07</span><a href="" title="" target="_blank">县委副书记、县长吴斌到中疃镇调研指导午季秸秆禁烧和综合利用工作</a></li>
+								<li><span>2019-05-07</span><a href="" title="" target="_blank">县委副书记、县长吴斌到中疃镇调研指导午季秸秆禁烧和综合利用工作</a></li>
+								<li><span>2019-05-07</span><a href="" title="" target="_blank">县委副书记、县长吴斌到中疃镇调研指导午季秸秆禁烧和综合利用工作</a></li>
+								<li><span>2019-05-07</span><a href="" title="" target="_blank">县委副书记、县长吴斌到中疃镇调研指导午季秸秆禁烧和综合利用工作</a></li>
+								<li><span>2019-05-07</span><a href="" title="" target="_blank">县委副书记、县长吴斌到中疃镇调研指导午季秸秆禁烧和综合利用工作</a></li>
+							</ul>
+						</div>
+					</div>
+					<div class="m-ldpics">
+						<h1 class="m-titstyle3"><span class="u-tit f-fl">图片集锦</span></h1>
+						<div class="m-ldhdjj owl-carousel">
+							<a href="" title="" target="">
+								<img src="../media/images/leader/ld_07.jpg" alt="">
+								<p class="text-center f-pa f-toe">县经开区赴芜湖市弋江...</p>
+							</a>
+							<a href="" title="" target="">
+								<img src="../media/images/leader/ld_07.jpg" alt="">
+								<p class="text-center f-pa f-toe">县经开区赴芜湖市弋江...</p>
+							</a>
+						</div>
+					</div>
+				</div>
+			</div>
+		</section>
+	</div>
+	<!-- 主体 end -->
+	<!-- 底部 on -->
+    <div class="is-footer">
+        
+    </div>
+    <!-- 底部 end -->
+	<script src="../media/js/jquery.js"></script>
+    <script src="../media//js/bootstrap.min.js"></script>
+    <script src="../media/js/owl.carousel.min.js"></script>
+	<script>
+		$('.m-ldhdjj').owlCarousel({
+		    loop:true,
+		    margin:20,
+		    nav:false,
+		    autoplay:true,
+		    autoplayTimeout:3500,
+		    autoplayHoverPause:true,
+		    responsive:{
+		        0:{
+		            items:2
+		        },
+		        600:{
+		            items:3
+		        },
+		        1000:{
+		            items:4
+		        }
+		    }
+		})
+	</script>
+</body>
+</html>

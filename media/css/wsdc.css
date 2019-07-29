@@ -1,0 +1,78 @@
+@charset "utf-8";
+/*
+* @Author: Tech050
+* @Date:   2019-06-27 08:36:47
+* @Last Modified by:   Tech050
+* @Last Modified time: 2019-06-27 10:26:36
+*/
+.is-main{font-size:16px;}
+.m-wsdcbox{padding: 6px 0px 20px; background: #fff;}
+.m-yjzjtit{padding: 8px 0 20px; font-size: 32px; font-weight: bold; color: #c50e1b;}
+.m-yjzjfuns{padding: 5px; border-bottom: 1px solid #ddd;}
+.m-dcfuns{line-height: 28px;margin-left:118px;}
+.m-dcfuns p{display: inline-block; margin: 0 30px; font-size: 14px; color: #999;}
+.m-dcfuns p span{color: #d00d0d;}
+.m-dczjtext{padding: 20px 5px; line-height: 188%; min-height: 164px;font-size:16px;}
+.m-dczjtext table{border-collapse: collapse;border:1px solid #333;}
+.m-dczjtext table td,.m-dczjtext table th{border: 1px solid #333;}
+.m-dczjtext img{max-width: 100%;}
+.g-zjbox{margin-bottom: 10px; padding: 15px; border: 1px solid #ddd;}
+.m-dczjform h1{font-size:16px;font-weight:bold;line-height:38px;}
+.m-dccode{padding: 10px 0;}
+.m-dccode .control-label span{color: #d00d0d;}
+.m-dccode .form-control{width: 25%;}
+.u-codeimg{margin: 0 5px;}
+.m-dcjsbd{margin-top: 15px; padding: 14px; line-height: 42px; background: #f5f5f5;}
+.m-dcjsbd span{margin-right: 20px; color: #d00d0d;}
+
+.u-dcjgtit{margin: 1px 0 2px; padding: 10px; background: #f5f5f5; font-size: 14px;}
+.g-dczjjg{margin-bottom: 20px; padding: 15px 15px 0; border: 1px solid #ddd;}
+.g-dczjjg h1{margin-bottom: 20px;font-size:16px;font-weight:bold;}
+.u-dcname{margin-bottom: 20px;}
+.progress{width: 50%;}
+
+.m-dwzsklf{width: 380px; margin-right: -380px;}
+.m-zskxz{margin-bottom: 20px; padding: 15px 0 5px; border: 1px solid #ddd;}
+.m-zskxz h1{height: 18px; line-height: 18px; padding-left: 11px; border-left: 4px solid #d00d0d; font-size: 18px; color: #d00d0d;}
+.m-zskxz .row{margin: 10px;}
+.m-zskxz .row li{padding: 5px; text-align: center; line-height: 40px;}
+.m-zskxz .row li a{display: block; background: #ebebeb;}
+.m-zskxz .row li a:hover,.m-zskxz .row li.u-active a{background: #d00d0d; color: #fff;}
+
+.m-dwzskrg{width: 100%;}
+.m-dwzskrgbox{margin-left: 400px;}
+.m-dwzskrgbox .m-liststyle1 li{line-height: 38px;}
+
+
+/*超大PC屏幕下的专用样式*/
+@media screen and (min-width:1200px) {
+
+
+}
+/*中等PC屏幕下的专用样式*/
+@media screen and (max-width: 1199px) {
+
+
+}
+/*PAD屏幕下的专用样式*/
+@media screen and (max-width: 991px ){
+	.m-dczjtext{padding: 15px;}
+	.g-zjbox{padding: 10px;}
+	.m-dccode .form-control{width: 35%;}
+	.m-dcjsbd span{margin: 0;}
+
+	.m-dwzsklf{width: 100%; margin: 0;}
+	.m-dwzskrgbox{margin-left: 0;}
+}
+/*PHONE屏幕下的专用样式*/
+@media screen and (max-width: 767px) {
+	.progress{width: 100%;}
+	.g-dczjjg{padding: 10px;}
+    
+}
+
+@media screen and (max-width: 638px) {
+	body{font-size: 14px;}
+    .m-dcfuns{margin-left:0px;}
+    
+}

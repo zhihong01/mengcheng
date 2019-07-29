@@ -1,0 +1,191 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">	
+		<meta name="SiteName" content="" />
+		<meta name="SiteDomain" content="" />
+		<meta name="SiteIDCode" content="" />
+		<meta name="keywords" content="" />
+		<meta name="description" content="" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+		<title>蒙城县人民政府 </title>
+		<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
+		<link rel="stylesheet" href="../media/css/bootstrap.min.css">
+		<link rel="stylesheet" href="../media/css/public.css">
+		<link rel="stylesheet" href="../media/css/home.css">
+		<link rel="stylesheet" href="../media/css/owl.carousel.min.css">
+		<link rel="stylesheet" href="../media/css/owl.theme.default.min.css">
+		<script src="../media/js/jquery.js"></script>
+		<script src="../media/js/owl.carousel.min.js"></script>
+		<style>
+		    
+		</style>
+	</head>
+	<body>
+		<div class="is-header">
+		 	<div class="m-top">
+		 		<div class="logo"><img src="../media/images/public/logo.png" alt="" class="img-responsive"></div>
+		 		<div class="wt">
+				    <span><script src="../media/js/time.js"></script></span>
+					<span><iframe allowtransparency="true" frameborder="0" width="180" height="36" scrolling="no" src="//tianqi.2345.com/plugin/widget/index.htm?s=3&z=2&t=0&v=0&d=3&bd=0&k=&f=&ltf=009944&htf=cc0000&q=1&e=1&a=0&c=60596&w=180&h=36&align=center"></iframe></span>
+				</div>
+		 		<div class="u-link">
+		 			<ul class="xian">
+		 				<li><a href="" target="_blank">县政协</a></li>
+		 				<li><a href="" target="_blank">县政府</a>|</li>
+		 				<li><a href="" target="_blank">县人大</a>|</li>
+		 				<li><a href="" target="_blank">县委</a>|</li>
+		 			</ul>
+		 			<ul class="fx">
+		 				<li class="fx1"><a href="" title="">注册</a></li>
+		 				<li class="fx2"><a href="" title="">用户登录</a></li>
+		 				<li class="fx3"><a href="" title="">RSS订阅</a></li>
+		 				<li class="fx4"><a href="" title="">无障碍</a></li>
+		 				<li class="fx5"><a href="" title="">简繁体</a></li>
+		 			</ul>
+		 		</div>
+		 	</div>
+	 		<div class="m-search">
+				<form method="GET" action="/index.php?c=search">
+					<input type="text" name="keywords" placeholder="-请输入检索关键字-" value="" class="u-searchtext fl" x-webkit-speech="" autocomplete="off">
+					<input name="" type="submit" value="" class="u-searchbtn fl">
+					<input name="c" type="hidden" value="search">
+					<a class="fl u-goodser" href="" title="" target="_blank">高级搜索</a>
+				</form>
+			</div>
+            <div class="m-nav navbar navbar-default" role="navigation">
+				<div class="container-fluid"> 
+					<div class="navbar-header">
+						<button type="button" class="navbar-toggle" data-toggle="collapse"
+								data-target="#example-navbar-collapse">
+							<span class="sr-only">切换导航</span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+						</button>
+						<a class="navbar-brand" href="#"><img src="../media/images/public/home.png" /></a>
+					</div>
+					<div class="collapse navbar-collapse" id="example-navbar-collapse">
+						<ul class="nav navbar-nav">
+				            <li class="current"><a href=""><i class="u-icv1"></i> 网站首页</a></li>
+				            <li><a href=""><i class="u-icv2"></i> 走进利辛</a></li>
+				            <li><a href=""><i class="u-icv3"></i> 新闻中心</a></li>
+				            <li><a href=""><i class="u-icv4"></i> 政务公开</a></li>
+				            <li><a href=""><i class="u-icv5"></i> 解读回应</a></li>
+				            <li><a href=""><i class="u-icv6"></i> 办事服务</a></li>
+				            <li><a href=""><i class="u-icv7"></i> 互动交流</a></li>
+				            <li><a href=""><i class="u-icv8"></i> 数据开放</a></li>
+				        </ul> 
+					</div>
+				</div>
+            </div>
+		 </div> 
+		 <div class="is-main container f-mb20">
+			<section class="m-detailbox">
+				<div class="m-location f-mb20">
+					<a href="">网站首页</a> &gt;
+					<span>办事服务</span> &gt;
+					<span>我要写信</span>
+				</div>
+			</section>
+			<div class="orderbox">
+			    <div class="m-leftrss fl">
+				    <div class="m-cont1">
+					    <h1>蒙城县政府门户网站</h1>
+						<ul class="menhu-list">
+						    <li><i>政务要闻</i><a href="" target="_blank">file:///E:/buozhou/mengcheng/template/home.html#</a>
+							   <span class="d1"><a href="">订阅</a></span><span class="d2"><em></em><a href="">Xml</a></span>
+							</li>
+						    <li><i>政务要闻</i><a href="" target="_blank">file:///E:/buozhou/mengcheng/template/home.html#</a>
+							<span class="d1"><a href="">订阅</a></span><span class="d2"><em></em><a href="">Xml</a></span>
+							</li>
+						    <li><i>政务要闻</i><a href="" target="_blank">file:///E:/buozhou/mengcheng/template/home.html#</a>
+							    <span class="d1"><a href="">订阅</a></span><span class="d2"><em></em><a href="">Xml</a></span>
+							</li>
+						    <li><i>政务要闻</i><a href="" target="_blank">file:///E:/buozhou/mengcheng/template/home.html#</a>
+							<span class="d1"><a href="">订阅</a></span><span class="d2"><em></em><a href="">Xml</a></span>
+							</li>
+						    <li><i>政务要闻</i><a href="" target="_blank">file:///E:/buozhou/mengcheng/template/home.html#</a>
+							<span class="d1"><a href="">订阅</a></span><span class="d2"><em></em><a href="">Xml</a></span>
+							</li>
+						</ul>
+					</div>
+					<div class="m-cont2">
+					    <h1>RSS订阅新闻阅读器的特点</h1>
+						<div class="tedian">
+						    <p>1、无图片、无广告，只包含图片的无障碍阅读</p>
+						    <p>2、RSS阅读器自动更新用户定制的网站和栏目内容，保持新闻的及时性，网站 提供"信息推送"服务，用户无需手动更新。</p>
+						    <p>3、用户可以订阅多个定制的栏目，RSS浏览器会 将用户订阅的内容整合在同一界面中，从而为用户提供"一站式"的浏览体验。</p>
+						</div>
+					</div>
+					<div class="m-cont3">
+					    <h1>新闻聚合列表</h1>
+						<div class="juhe">
+						    <p>为了使广大网民能够更方便、快捷地阅读到黄山市门户网站所提供的最新信息及相关新闻，及时了解黄山市及有关部门的政务动态，我们于新版网站改版之际隆重推出黄山市门户网站RSS新闻聚合服务。</p>
+							<div class="ts">
+							    <span class="fl" style="color:#d00d0d;">提示：</span>
+							    <p class="fl">用户下载按章开发地方JFK大概看了电视剧考虑房间昆仑山搭街坊飓风看到了实际付款了</p>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="m-rightrss fr">
+				    <h1><i></i>RSS订阅</h1>
+					<p><b style="color:#FE842E">RSS</b>是Really Simple Syndication的英文缩中文称作"简易新闻聚合"RSS是一种基于XML标准在互联网上被广泛采用的内容包装和投递协议。它为您提供传统互联网浏览方式以外的一个全新网站访问途经，使您无需进入网站便可随时看到网站的最新聚合新闻。</p>
+					<h1><i></i>RSS工具使用指南</h1>
+					<p>用户如安装IE7.0或其他支持RSS信息聚合的浏览器软件，可直接点击右侧的地址阅读信息，如安装的IE版本为6.0或更低，可通过安装RSS聚合信息软件来实现阅 读功能，此外，用户可以在不打开网站页面的情况下订阅我们提供的RSS内容，以"新浪点点通"为例，在软件界面中点击"添加频道"再输入网页中所提供的服务项目的名称和地址即可订阅相应的内容，软件可对订阅的项目内容定时更新，无需用户手动更新。</p>
+					<h1><i></i>RSS阅读软件下载</h1>
+					<p>如果您想订制本站的最信息RSS，您必需下载如下两种中任意一个RSS阅读器才能够阅读您在本站中订制的新闻信息。</p>
+					<a class="xz" href="" target="_blank"><img src="../media/images/public/sina.jpg"></a>
+					<a class="xz" href="" target="_blank"><img src="../media/images/public/zbt.jpg"></a>
+				</div>
+			</div>
+		 </div>
+		 <!--底部-->
+		 <div class="is-foot">
+			 <div class="fxlist">
+			    <div class="u-shou"></div>
+				<ul>
+					<li class="fx1"><a href="" target="_blank"></a><img src="../media/images/public/ucode.png"></li>
+					<li class="fx2"><a href="" target="_blank"></a><img src="../media/images/public/ucode.png"></li>
+					<li class="fx3"><a href="" target="_blank"></a><img src="../media/images/public/ucode.png"></li>
+					<li class="fx4"><a href="" target="_blank"></a></li>
+					<li class="fx5"><a href="" target="_blank"></a>
+						<div class="m-bshare bshare-custom">
+							<a style="margin-bottom: 5px;" title="分享到微信" class="bshare-weixin"></a>
+							<a style="margin-bottom: 5px" title="分享到新浪微博" class="bshare-sinaminiblog"></a>
+							<a style="margin-bottom: 5px;" title="分享到QQ空间" class="bshare-qzone"></a>
+							<a title="分享到人人网" class="bshare-renren"></a>
+							<a title="分享到豆瓣" class="bshare-douban"></a>
+							<a style="display:none;" title="更多平台" class="bshare-more bshare-more-icon more-style-addthis"></a>
+							<script type="text/javascript" charset="utf-8" src="http://static.bshare.cn/b/buttonLite.js#style=-1&amp;uuid=&amp;pophcol=1&amp;lang=zh"></script>
+							<script type="text/javascript" charset="utf-8" src="http://static.bshare.cn/b/bshareC0.js"></script>
+						</div>
+				    </li>
+					<li class="fx6"><a href="" target="_blank"></a></li>
+				</ul>
+			 </div>
+			<div class="m-footer">
+				<div class="m-middle">
+					<div class="fl"><p>版权所有：蒙城县人民政府   主办单位：蒙城县人民政府办公室 </p><p>E-mail： mcxzwgk@163.com 备案号：皖ICP备05015246号 网站标识码：3416220001</p>  <p><a class="wgw">皖公网安备34162202000016号</a></p></div>
+					<ul class="fl">
+						<li class="f1"><a href="">网站地图</a></li>
+						<li class="f2"><a href="">隐私申明</a></li>
+						<li class="f3"><a href="">使用说明</a></li>
+					    <li class="f4"><a href="">联系我们</a></li>
+					</ul>
+					<div>
+					    <script id="_jiucuo_" sitecode='3416220001' src='http://pucha.kaipuyun.cn/exposure/jiucuo.js'></script>
+					<script type="text/javascript">document.write(unescape("%3Cspan id='_ideConac' %3E%3C/span%3E%3Cscript src='http://dcs.conac.cn/js/13/198/1564/60621165/CA131981564606211650001.js' type='text/javascript'%3E%3C/script%3E"));</script>
+					</div>
+					
+				</div>
+			</div>
+		 </div>
+		 <!--底部end-->
+		 <script src="../media/js/base.js"></script>
+	     <script src="../media/js/bootstrap.min.js"></script>
+		 <script src="../media/js/jquery.SuperSlide.2.1.js"></script>
+	</body>
+</html>

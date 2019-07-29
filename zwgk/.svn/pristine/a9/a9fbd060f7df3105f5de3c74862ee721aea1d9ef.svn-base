@@ -1,0 +1,387 @@
+<!DOCTYPE html>
+<html lang="zh-cn">
+<head>
+	<meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>蒙城县人民政府</title>
+    <link rel="shortcut icon" type="image/x-icon" href="../favicon.ico">
+    <link rel="stylesheet" href="../media/css/bootstrap.min.css">
+	<link rel="stylesheet" href="../media/zTree/css/zTreeStyle.css">
+	<link rel="stylesheet" href="../media/font/iconfont.css">
+    <link rel="stylesheet" href="../media/css/public.css">
+    <link rel="stylesheet" href="../media/css/page.css">
+    <!--[if lt IE 9]>
+    <script src="../media/js/html5shiv.js"></script>
+    <script src="../media/js/respond.min.js"></script>
+    <![endif]-->
+</head>
+<body>
+<!-- 头部 on -->
+<div class="is-header">
+	<div class="top-wrapper">
+		<div class="top-content">
+			<div class="f-left">
+				<a href="http://www.mengcheng.gov.cn/" target="_blank">返回主站</a>
+				|
+				<a href="http://xxgk.bozhou.gov.cn" target="_blank">亳州市政府政务公开</a>
+			</div>
+			<div class="f-right">
+				<a href="javascript:StranBody()" id="StranLink" title="繁體版">繁體版</a>
+				|
+				<a href="javascript:;" title="无障碍浏览" onclick="kqNav();">无障碍浏览</a>
+			</div>
+		</div>
+	</div>
+	<div class="banner-wrapper">
+		<div class="banner-content">
+			<div class="banner-logo">
+				<img src="../media/images/common/logo.png" alt="">
+			</div>
+			<div class="banner-img">
+				<img src="../media/images/common/flv.png" alt="">
+			</div>
+		</div>
+	</div>
+	<div class="m-nav navbar navbar-default" role="navigation">
+		<div class="container-fluid"> 
+			<div class="navbar-header">
+				<button type="button" class="navbar-toggle" data-toggle="collapse"
+						data-target="#example-navbar-collapse">
+					<span class="sr-only">切换导航</span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+				</button>
+				<a class="navbar-brand" href="#">网站首页</a>
+			</div>
+			<div class="collapse navbar-collapse" id="example-navbar-collapse">
+				<ul class="nav navbar-nav row">
+					<li class="nav1"><a href="">网站首页</a></li>
+					<li class="nav2"><a href="">公开年报</a></li>
+					<li class="nav3">
+						<a href="">公开指南与目录</a>
+						<div class="subnav subnav1">
+						  <a href="" target="_blank">县政府部门公开指南与目录</a>
+						  <a href="" target="_blank">乡镇街道公开指南与目录</a>
+						</div>
+					</li>
+					<li class="nav4">
+						<a href="">政策解读</a>
+						<div class="subnav subnav2">
+						  <a href="" target="_blank">上级政策解读</a>
+						  <a href="" target="_blank">本级政策解读</a>         
+						</div>
+					</li>
+					<li class="nav5">
+						<a href="">回应关切</a>
+						<div class="subnav subnav3">
+						  <a href="" target="_blank">主动回应</a>
+						  <a href="" target="_blank">在线访谈</a>
+						  <a href="" target="_blank">县长信箱</a>
+						  <a href="" target="_blank">部门信箱</a>
+						  <a href="" target="_blank">新闻发布会</a>
+						</div>
+					</li>
+					<li class="nav6">
+						<a href="">依申请公开</a>
+						<div class="subnav subnav4">
+						  <a href="" target="_blank">公开目录</a>
+						  <a href="" target="_blank">网上申请</a>
+						  <a href="" target="_blank">办理流程</a>
+						  <a href="" target="_blank">收费标准</a>
+						</div>
+					</li>
+					<li class="nav7">
+						 <a href="">监督保障</a>
+						 <div class="subnav subnav5">
+						  <a href="" target="_blank">宣传培训</a>
+						  <a href="" target="_blank">主题活动</a>
+						  <a href="" target="_blank">工作动态</a>
+						</div>
+					</li>
+				</ul> 
+			</div>
+		</div>
+	</div>
+	<div class="notice-wrapper">
+		<div class="u-date">
+			<script type="text/javascript" src="../media/js/time.js"></script>
+		</div>
+		<div class="u-weather">
+			<iframe src="//www.seniverse.com/weather/weather.aspx?uid=UEE571E5B2&cid=CHAH080300&l=zh-CHS&p=SMART&a=0&u=C&s=4&m=0&x=1&d=0&fc=&bgc=&bc=&ti=0&in=0&li=" frameborder="0" scrolling="no" width="1000" height="27" allowTransparency="true"></iframe>
+		</div>
+
+		<div class="u-search">
+			<form action="/opennessSearch/">
+			  <input type="text" name="keywords" placeholder="--请输入搜索关键字--" class="text">
+			  <input type="submit" class="btn" value="">
+			</form>
+			<a href="/xxgkDeep/" class="deep-search">高级搜索</a>
+		</div>
+	</div>
+</div>
+<!-- 头部 end -->
+<!-- 主体 on -->
+<div class="is-main container">
+	<section class="m-location f-mb14">
+		<span><i class="iconfont">&#xe6ea;</i>您当前所在位置：</span>
+		<a href="">网站首页</a> &gt;
+		<span>利辛县政府（办公室）</span>
+	</section>
+	<section class="row f-mlr7 m-openlistbox">
+		<div class="col-sm-12 col-md-4 col-lg-3 f-plr m-openlslf">
+			<div class="f-openbox1 f-mb14">
+				<!-- <div class="m-openbtns f-mb10">
+					<ul>
+						<li>
+							<a href="" target="_blank">
+								<span class="iconfont">&#xe693;</span>
+								县政府信息公开指南
+							</a>
+						</li>
+						<li>
+							<a href="" target="_blank">
+								<span class="iconfont">&#xe601;</span>
+								县政府信息公开制度
+							</a>
+						</li>
+						<li>
+							<a href="" target="_blank">
+								<span class="iconfont">&#xe6d1;</span>
+								县政府信息公开年报
+							</a>
+						</li>
+					</ul>
+				</div> -->
+				<div class="m-openmenu">
+					<div class="u-tit"><span class="iconfont">&#xe6d7;</span>政务公开目录</div>
+					<div class="m-menuform">
+						<form class="form-horizontal" role="form" action="">
+							<div class="form-group f-mlr7">
+							    <div class="col-sm-8 col-lg-9 f-plr">
+							    	<input type="text" class="form-control" placeholder="--信息公开目录检索--">
+							    </div>
+							    <div class="col-sm-4 col-lg-3 f-plr">
+							      	<button type="submit" class="btn btn-default">检索</button>
+							    </div>
+							</div>
+						</form>
+					</div>
+					<div class="m-menutree f-pr">
+						<div class="m-menutreetab f-pa">
+							<ul>
+								<li class="u-active">全部</li>
+								<li>决策</li>
+								<li>执行</li>
+								<li>管理</li>
+								<li>服务</li>
+								<li>结果</li>
+								<li>政策解读</li>
+								<li>回应关切</li>
+							</ul>
+						</div>
+						<div class="m-menutreebox">
+							<ul id="tree1" class="ztree">
+								
+							</ul>
+							<ul id="tree2" class="ztree f-dn">
+
+							</ul>
+							<ul id="tree3" class="ztree f-dn">
+								<li>33</li>
+							</ul>
+							<ul id="tree4" class="ztree f-dn">
+								<li>44</li>
+							</ul>
+							<ul id="tree5" class="ztree f-dn">
+								<li>55</li>
+							</ul>
+							<ul id="tree6" class="ztree f-dn">
+								<li>66</li>
+							</ul>
+							<ul id="tree7" class="ztree f-dn">
+								<li>77</li>
+							</ul>
+							<ul id="tree8" class="ztree f-dn">
+								<li>88</li>
+							</ul>
+						</div>
+					</div>
+				</div>
+				<div class="m-lstysq">
+					<h1 class="m-titstyle1 f-clearfix"><a class="u-tit f-fl" href="" target="_blank">依申请公开</a></h1>
+					<ul class="row">
+						<li class="col-xs-6"><a href="" target="_blank"><span class="iconfont">&#xe693;</span>申请指南</a></li>
+						<li class="col-xs-6"><a href="" target="_blank"><span class="iconfont">&#xe626;</span>网上申请</a></li>
+						<li class="col-xs-6"><a href="" target="_blank"><span class="iconfont">&#xe6d7;</span>办理流程</a></li>
+						<li class="col-xs-6"><a href="" target="_blank"><span class="iconfont">&#xe607;</span>受理机构</a></li>
+					</ul>
+				</div>
+				<div class="m-lsbjcx">
+					<h1>办理查询</h1>
+					<form class="form-horizontal" role="form">
+						<div class="form-group">
+						    <label for="num" class="col-sm-2 col-md-3 control-label">查询码：</label>
+						    <div class="col-sm-10 col-md-9">
+						    	<input type="text" class="form-control input-sm" id="num" placeholder="请输入查询码">
+						    </div>
+						</div>
+						<div class="form-group">
+						    <label for="num" class="col-sm-2 col-md-3 control-label">验证码：</label>
+						    <div class="col-sm-10 col-md-9 u-code f-clearfix">
+						    	<input type="text" class="form-control input-sm f-fl" id="num" placeholder="请输入验证码">
+						    	<img class="f-fl" src="../media/images/home/pic-code.png" alt="">
+						    </div>
+						</div>
+						<div class="form-group">
+						    <div class="col-sm-offset-2 col-md-offset-3 col-sm-10">
+							    <button type="submit" class="btn btn-sm u-search">查询</button>
+						   	</div>
+						</div>
+					</form>
+				</div>
+			</div>
+			<div class="f-openbox m-lstjsj">
+				<h1 class="m-titstyle1 f-clearfix"><a class="u-tit f-fl" href="" target="_blank">统计数据</a></h1>
+				<div class="m-lstjsjtabs f-clearfix tit-switch">
+					<ul>
+						<li class="u-active"><span>按月份统计</span></li>
+						<li><span>按年份统计</span></li>
+					</ul>
+				</div>
+				<div class="m-lstjsjbox list-switch">
+					<ul>
+						<li><span>1380</span><a href="" target="_blank">县教育局</a></li>
+						<li><span>1380</span><a href="" target="_blank">县市场监督管理局</a></li>
+						<li><span>1380</span><a href="" target="_blank">县教育局</a></li>
+						<li><span>1380</span><a href="" target="_blank">县经济开发区</a></li>
+						<li><span>1380</span><a href="" target="_blank">县经济开发区</a></li>
+					</ul>
+				</div>
+				<div class="m-lstjsjbox list-switch f-dn">
+					<ul>
+						<li><span>1380</span><a href="" target="_blank">县文体旅游局</a></li>
+						<li><span>1380</span><a href="" target="_blank">县市场监督管理局</a></li>
+						<li><span>1380</span><a href="" target="_blank">县教育局</a></li>
+						<li><span>1380</span><a href="" target="_blank">县安监局</a></li>
+						<li><span>1380</span><a href="" target="_blank">县教育局</a></li>
+					</ul>
+				</div>
+			</div>
+		</div>
+		<div class="col-sm-12 col-md-8 col-lg-9 f-plr m-openlsrg">
+			<section class="f-openbox1 f-mb10">
+				<div class="m-bminfo">
+					<ul class="row">
+						<li class="col-md-12">公开单位：<strong>利辛县政府（办公室）</strong></li>
+						<li class="col-md-6">办公地址：<strong>利辛县世纪大道监察委大楼</strong></li>
+						<li class="col-md-6">联系电话：<strong>0558-8807896</strong></li>
+					</ul>
+				</div>
+			</section>
+			<section class="f-openbox">
+				<h1 class="m-titstyle1 f-clearfix">
+					<span class="u-tit f-fl">信息公开指南</span>
+				</h1>
+				<div class="m-listone">
+					<!--富文本输出 on -->
+					<p>利辛县政府办公室政府信息公开指南</p>
+					<p>为更好地提供政府信息公开服务，便于公民、法人或者其他组织依法获取利辛县政府和利辛县政府办公室的政府信息，根据《中华人民共和国政府信息公开条例》（国务院令第492号公布，国务院令第711号修订，以下简称《条例》），编制本指南。</p>
+					<!--富文本输出 end -->
+				</div>
+			</section>
+		</div>
+	</section>
+</div>
+<!-- 主体 end -->
+<!-- 底部 on -->
+<div class="is-foot">
+	 <div class="fxlist">
+		<ul>
+			<li class="fx1"><a href="" target="_blank"></a></li>
+			<li class="fx2"><a href="" target="_blank"></a></li>
+			<li class="fx3"><a href="" target="_blank"></a></li>
+			<li class="fx4"><a href="" target="_blank"></a></li>
+			<li class="fx5"><a href="" target="_blank"></a></li>
+			<li class="fx6"><a href="" target="_blank"></a></li>
+		</ul>
+	 </div>
+	<div class="m-footer">
+		<div class="m-middle">
+			<p class="fl"><p>版权所有：蒙城县人民政府   主办单位：蒙城县人民政府办公室 </p><p>E-mail： mcxzwgk@163.com  电话：0551-62663061 备案号：皖ICP备05015246号</p>  <p>网站标识码：3416220001<a class="wgw">皖公网安备34162202000016号</a></p>
+			<ul class="fl">
+				<li class="f1"><a href="">网站地图</a></li>
+				<li class="f2"><a href="">隐私申明</a></li>
+				<li class="f3"><a href="">使用说明</a></li>
+			   <!--  <li class="f4"><a href="">联系方式</a></li> -->
+			</ul>
+			<script id="_jiucuo_" sitecode='3416220001' src='http://pucha.kaipuyun.cn/exposure/jiucuo.js'></script>
+			<script type="text/javascript">document.write(unescape("%3Cspan id='_ideConac' %3E%3C/span%3E%3Cscript src='http://dcs.conac.cn/js/13/198/1564/60621165/CA131981564606211650001.js' type='text/javascript'%3E%3C/script%3E"));</script>
+		</div>
+	</div>
+ </div>
+<!-- 底部 end -->
+<!-- 右侧悬浮 on -->
+<div class="is-toolbar f-pf visible-md visible-lg">
+	<ul>
+		<li>
+			<a href="" target="_blank">
+				<span><i class="iconfont">&#xe603;</i></span>
+				<p>政务微博</p>
+				<img src="../media/images/public/pic-wbcode.png" alt="">
+			</a>
+		</li>
+		<li>
+			<a href="" target="_blank">
+				<span><i class="iconfont">&#xe60b;</i></span>
+				<p>政务微信</p>
+				<img src="../media/images/public/pic-wxcode.png" alt="">
+			</a>
+		</li>
+		<li>
+			<a href="" target="_blank">
+				<span><i class="iconfont">&#xe683;</i></span>
+				<p>县长信箱</p>
+			</a>
+		</li>
+		<li>
+			<a href="" target="_blank">
+				<span><i class="iconfont">&#xe67d;</i></span>
+				<p>县长热线</p>
+				<img src="../media/images/public/pic-xztel.png" alt="">
+			</a>
+		</li>
+	</ul>
+</div>
+<!-- 右侧悬浮 end -->
+<script src="../media/js/jquery.js"></script>
+<script src="../media/js/bootstrap.min.js"></script>
+<script src="../media/zTree/js/jquery.ztree.core.min.js"></script>
+<script src="../media/js/base.js"></script>
+<script>
+	$(function(){
+		$('.m-menutreetab li').click(function(){
+			$(this).addClass('u-active').siblings().removeClass();
+			$('.m-menutreebox .ztree').hide().eq($(this).index()).show();
+		});
+	});
+
+	var zTreeObj;
+   	var setting = {};
+    var zNodes1 = [
+   		{name:"政府领导",open:true},
+   		{name:"政府机构",open:true,children:[{name:"政府办公室"},{name:"政府组成部门"},{name:"政府直属机构"},{name:"政府派出机构"}]}
+   	];
+	var zNodes2 = [
+   		{name:"规范性文件",open:true},
+   		{name:"意见征集",open:true},
+   		{name:"重大建设项目",open:true},
+   	];
+	$(document).ready(function(){
+   		zTreeObj = $.fn.zTree.init($("#tree1"), setting, zNodes1);
+   		zTreeObj = $.fn.zTree.init($("#tree2"), setting, zNodes2);
+   	});
+</script>
+</body>
+</html>

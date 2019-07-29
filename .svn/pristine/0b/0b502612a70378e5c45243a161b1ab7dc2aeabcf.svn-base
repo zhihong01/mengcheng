@@ -1,0 +1,277 @@
+<!doctype html> 
+<html>
+<head>
+	<meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="renderer" content="webkit"> 
+    <meta name="SiteName" content="蒙城县政府千人千网个性化页面" />
+    <meta name="SiteDomain" content="" />
+    <meta name="SiteIDCode" content="" />
+    <meta name="keywords" content="蒙城县政府千人千网个性化页面" />
+    <meta name="description" content="蒙城县政府千人千网个性化页面" />
+    <title>蒙城县政府千人千网个性化页面</title>
+	<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
+	<link rel="stylesheet" href="../media/font/iconfont.css">
+    <link rel="stylesheet" type="text/css" href="../media/css/home.css">
+    <link rel="stylesheet" type="text/css" href="../media/css/public.css">
+    <link rel="stylesheet" type="text/css" href="../media/css/page.css">
+</head>
+<body onload="startTime()">
+<div class="is-header">
+    <div class="top">
+        <a href="/" class="left"><img src="../media/images/logo.png" alt=""></a>
+        <div class="m-nav fr">
+            <div class="nav">
+                <ul>                                         
+                    <li class="m"><a href="http://www.luan.gov.cn/" target="_blank">首页</a></li>
+                    <li class="m"><a href="http://www.luan.gov.cn/content/channel/5211d754682e091fbc77a512/" target="_blank">政务资讯</a>
+                        <!-- <ul class="sub" style="display: none;">
+                            <li><a href="#">政务资讯</a></li>
+                            <li><a href="#">政务资讯</a></li>
+                            <li><a href="#">政务资讯</a></li>
+                        </ul> -->
+                    </li>
+                    <li class="m"><a href="http://www.luan.gov.cn/openness/" target="_blank">信息公开</a></li>
+                    <li class="m"><a href="http://la.ahzwfw.gov.cn/" target="_blank">办事服务</a></li>
+                    <li class="m"><a href="http://www.luan.gov.cn/jiedu/?type=shangji" target="_blank">解读回应</a></li>
+                    <li class="m"><a href="http://data.luan.gov.cn:8081/dop/" target="_blank">数据开放</a></li>
+                    <li class="m"><a href="http://www.luan.gov.cn/leader/" target="_blank">领导之窗</a></li>
+                    <li class="m"><a href="http://www.luan.gov.cn/about/" target="_blank">走进六安</a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="is-main">
+    <!-- 左侧 -->
+		<div class="list-left fl">
+        <div class="listleft-top">
+             <img src="../media/images/yx.png" alt="">
+            <h2>欢迎您！usnybi3w</h2>
+            <p>登录次数：1次</p>
+            <p>登录IP：117.21.219.66</p>
+            <p>访问天数：0天</p>
+			<p>登录时长：<span id="demo" style="display: none;"></span><span id="txt"></span></p>
+        </div>
+        <div class="listleft-box">
+            <ul>
+                <li class="nav_grzy"><a href="/userCenter/" title="我的主页" class="11"><i class="iconfont">&#xe635;</i>我的主页</a></li>
+                <li class="nav_myNews"><a href="/userCenter/myNews/" title="我的资讯"  class="22"><i class="iconfont">&#xe635;</i>我的资讯</a></li>
+                <li><a class="l3"> 
+                    <button  class="xq" type="button"><i class="iconfont">&#xe635;</i>办事服务平台</button><span class="iconfont">&#xe735;</span></a></li>
+                    <ul class="bspt" style="display:none;">
+						<li class="nav_bsfw"><a href="https://la.ahzwfw.gov.cn/bsdt/userCenter/basicFacts.do" target="_blank"><i class="iconfont">&#xe635;</i>首页</a></li>
+						<li class="nav_myEvents"><a href="https://la.ahzwfw.gov.cn/bsdt/userCenter/myEvents.do" target="_blank"><i class="iconfont">&#xe635;</i>我的办件</a></li>
+						<li class="nav_myAppointment"><a href="https://la.ahzwfw.gov.cn/bsdt/userCenter/myAppointment.do" target="_blank"><i class="iconfont">&#xe635;</i>我的预约</a></li>
+						<li><a href="https://la.ahzwfw.gov.cn/unitypaywb-web/pages/my-pay/index.do" target="_blank"><i class="iconfont">&#xe635;</i>我的缴费</a></li>
+						<li class="nav_myEvaluate"><a href="https://la.ahzwfw.gov.cn/bsdt/userCenter/myEvaluate.do" target="_blank"><i class="iconfont">&#xe635;</i>我的评价</a></li>
+						<li class="nav_myConsult"><a href="https://la.ahzwfw.gov.cn/bsdt/userCenter/myConsult.do" target="_blank"><i class="iconfont">&#xe635;</i>我的诉求</a></li>
+						<li class="nav_myLogistics"><a href="https://la.ahzwfw.gov.cn/bsdt/userCenter/myLogistics.do" target="_blank"><i class="iconfont">&#xe635;</i>我的物流</a></li>
+						<li class="nav_mysc"><a href="https://la.ahzwfw.gov.cn/bsdt/userCenter/myCollection.do" target="_blank"><i class="iconfont">&#xe635;</i>我的收藏</a></li>
+						<li class="nav_mywj"><a href="https://la.ahzwfw.gov.cn/bsdt/userCenter/myFiles.do" target="_blank"><i class="iconfont">&#xe635;</i>我的文件</a></li>
+						<!-- <li class="nav_mybjcx"><a href="">办件查询</a></li> -->
+                    </ul>   
+                <li class="nav_mySupervision"><a href="/userCenter/mySupervision/" title="我的信件" class="l4"><i class="iconfont">&#xe635;</i>我的信件</a></li>
+                <li class="nav_myForum"><a href="/userCenter/myForum/" title="我的网贴" class="l5"><i class="iconfont">&#xe635;</i>我的网贴</a></li>
+				<li class="nav_myForumThread"><a href="/userCenter/myForumThread/" title="我的跟帖" class="l5"><i class="iconfont">&#xe635;</i>我的跟帖</a></li>
+                <li class="nav_myCollect"><a href="/userCenter/myCollect/" title="我的收藏" class="l6"><i class="iconfont">&#xe635;</i>我的收藏</a></li>
+                <li><a href="http://la.ahzwfw.gov.cn/bsdt/workService/detail.do?ssqdCode=10380c7ebdd240deb048da759b317b85" title="公积金查询" class="l7"><i class="iconfont">&#xe635;</i>公积金查询</a></li>
+                <li><a href="https://sso.ahzwfw.gov.cn/uccp-server/login?appCode=5726e0d8f15047a09237ff5c98a9414f&service=http%3A%2F%2F218.23.88.205%3A6005%2Fuaa%2Fapi%2Fsso%2Fperson%2Flogin%3Fclient_id%3Dacme%26redirect_uri%3Dhttp%253A%252F%252F218.23.88.205%253A6005%252Fehrss%252Fsi%252Fperson%252Fui%252F%26response_type%3Dcode" title="社保查询" class="l8"><i class="iconfont">&#xe635;</i>社保查询</a></li>
+            </ul>
+        </div>
+    </div>
+	<script type="text/javascript" src="../media/js/jquery.min.js"></script>
+	<script type="text/javascript">
+        $(function(){
+            $(".nav_").addClass('hover');
+			
+        });
+		
+		var j="39";
+		window.setInterval(function() {
+		j++;
+		document.getElementById('demo').innerHTML=j;}, 1000);
+	  function startTime() {
+	  	var result = document.getElementById("demo").innerHTML;
+		    var h = Math.floor(result / 3600);
+		    var m = Math.floor((result / 60 % 60));
+		    var s = Math.floor((result % 60));
+		    h = checkTime(h);
+		    m = checkTime(m);
+		    s = checkTime(s);
+		    document.getElementById("txt").innerHTML = h + ":" + m + ":" + s;
+		    var t = setTimeout(function(){ startTime() }, 500);
+		}
+		function checkTime(i) {
+		    if (i < 10) {
+		        i = "0" + i;
+		    }
+		    return i;
+		}
+		
+    </script>
+    <div class="m-right fr">
+        <div class="m-box1 fl">
+            <div class="m-tit"><a href="http://www.luan.gov.cn/content/channel/5211d754682e091fbc77a512/" target="_blank">热门资讯</a></div>
+            <div class="m-txt">
+                <ul>
+                    <li><span>07-04</span><a href="http://www.luan.gov.cn/content/detail/5d1d69136eb33e2c02000032.html" target="_blank" title="标题：2019年裕安区财政局面向区外公开选调乡镇财政所工作人员公告<br/>发布时间：07-04<br/>点击量：93">2019年裕安区财政局面向区外公开选调乡镇财...</a></li>
+                    <li><span>07-03</span><a href="http://www.luan.gov.cn/content/detail/5d1c02c56eb33e54e5000030.html" target="_blank" title="标题：叶露中主持召开市政府党组会、党组理论学习中心组学习会<br/>发布时间：07-03<br/>点击量：676">叶露中主持召开市政府党组会、党组理论学习中心...</a></li>
+                    <li><span>07-03</span><a href="http://www.luan.gov.cn/content/detail/5d1c75c66eb33ed068000030.html" target="_blank" title="标题：王岚调研市城乡居民医保待遇新政策实施情况<br/>发布时间：07-03<br/>点击量：346">王岚调研市城乡居民医保待遇新政策实施情况</a></li>
+                    <li><span>07-01</span><a href="http://www.luan.gov.cn/content/detail/5d195d8e6eb33e9077000029.html" target="_blank" title="标题：叶露中到裕安暗访调研脱贫攻坚工作<br/>发布时间：07-01<br/>点击量：1387">叶露中到裕安暗访调研脱贫攻坚工作</a></li>
+                    <li><span>06-29</span><a href="http://www.luan.gov.cn/content/detail/5d15856d6eb33e8cd500002c.html" target="_blank" title="标题：叶露中在全市大气污染防治“六个专项行动”专题推进会上强调
+巩固成果 严防反弹
+坚决打赢大气污染防治攻坚战<br/>发布时间：06-29<br/>点击量：1261">叶露中在全市大气污染防治“六个专项行动”专题...</a></li>
+                    <li><span>06-28</span><a href="http://www.luan.gov.cn/content/detail/5d157dd26eb33eecb000002e.html" target="_blank" title="标题：叶露中专题调研工程建设项目审批制度改革工作<br/>发布时间：06-28<br/>点击量：736">叶露中专题调研工程建设项目审批制度改革工作</a></li>
+                </ul>
+            </div>
+        </div>
+        <div class="m-box1 fr">
+            <div class="m-tit"><a href="http://www.luan.gov.cn/openness/" target="_blank">信息公开</a></div>
+            <div class="m-txt">
+                <ul>
+                    <li><span>2019-07-04 15:55</span><a href="http://www.luan.gov.cn/openness/detail/5d1db1406eb33ec88600002b.html" target="_blank" title="标题：2019年6月蒙城县城镇职工社会保险参保人数统计报表<br/>发布时间：2019-07-04 15:55<br/>点击量：5">2019年6月蒙城县城镇职工社会保险参保...</a></li>
+                    <li><span>2019-07-04 15:53</span><a href="http://www.luan.gov.cn/openness/detail/5d1db1dd6eb33e3cf8000031.html" target="_blank" title="标题：2019年6月蒙城县空气质量<br/>发布时间：2019-07-04 15:53<br/>点击量：0">2019年6月蒙城县空气质量</a></li>
+                    <li><span>2019-07-04 15:27</span><a href="http://www.luan.gov.cn/openness/detail/5cf726306eb33e1c82000029.html" target="_blank" title="标题：2019年1-5月份蒙城县社会保险基金征缴计划任务进度完成表<br/>发布时间：2019-07-04 15:27<br/>点击量：98">2019年1-5月份蒙城县社会保险基金征...</a></li>
+                    <li><span>2019-07-04 15:16</span><a href="http://www.luan.gov.cn/openness/detail/5d1daa036eb33e585200002b.html" target="_blank" title="标题：关于印发六安城区防汛排涝应急预案的通知<br/>发布时间：2019-07-04 15:16<br/>点击量：13">关于印发六安城区防汛排涝应急预案的通知</a></li>
+                    <li><span>2019-07-04 15:13</span><a href="http://www.luan.gov.cn/openness/detail/5d1da7476eb33e60fe00002c.html" target="_blank" title="标题：蒙城县政务中心城管局窗口2019年6月行政审批公示表<br/>发布时间：2019-07-04 15:13<br/>点击量：12">蒙城县政务中心城管局窗口2019年6月行...</a></li>
+                    <li><span>2019-07-04 15:08</span><a href="http://www.luan.gov.cn/openness/detail/5d1da63e6eb33e7c5e000029.html" target="_blank" title="标题：霍邱县乌龙镇农委专项资金配套项目松树庙村工程施工简易程序发包公告
+<br/>发布时间：2019-07-04 15:08<br/>点击量：10">霍邱县乌龙镇农委专项资金配套项目松树庙村...</a></li>
+                </ul>
+            </div>
+        </div>
+        <div class="m-box1 fl">
+            <div class="m-tit"><a href="http://www.luan.gov.cn/content/channel/58451ac61ea8ac6c13000004/" target="_blank">回应关切</a></div>
+            <div class="m-txt">
+                <ul>
+                    <li><span>04-02</span><a href="http://bbs.luan.gov.cn/thread/detail/5ca2fcd67f8b9ae651eedbbb.html" target="_blank" title="标题：六安站站台新增完成后具体台数是多少呢<br/>发布时间：04-02">六安站站台新增完成后具体台数是多少呢</a></li>
+                    <li><span>03-11</span><a href="http://bbs.luan.gov.cn/thread/detail/5c85faa97f8b9ab10e5221b8.html" target="_blank" title="标题：关于被辞退单位补缴社保问题<br/>发布时间：03-11">关于被辞退单位补缴社保问题</a></li>
+                    <li><span>03-10</span><a href="http://bbs.luan.gov.cn/thread/detail/5c8493947f8b9ad1756b5146.html" target="_blank" title="标题：桃花节何时举办<br/>发布时间：03-10">桃花节何时举办</a></li>
+                    <li><span>03-08</span><a href="http://bbs.luan.gov.cn/thread/detail/5c822a0c7f8b9a6b74a470ec.html" target="_blank" title="标题：汽车免检合格标志换领<br/>发布时间：03-08">汽车免检合格标志换领</a></li>
+                    <li><span>03-07</span><a href="http://bbs.luan.gov.cn/thread/detail/5c80c3fc7f8b9a59763ae182.html" target="_blank" title="标题：公寓楼办理房产证缴纳税费问题<br/>发布时间：03-07">公寓楼办理房产证缴纳税费问题</a></li>
+                    <li><span>03-07</span><a href="http://bbs.luan.gov.cn/thread/detail/5c8081857f8b9ad175ac8924.html" target="_blank" title="标题：关于拆迁安置补助的咨询<br/>发布时间：03-07">关于拆迁安置补助的咨询</a></li>
+                </ul>
+            </div>
+        </div>
+        <div class="m-box1 fr">
+            <div class="m-tit"><a href="http://www.luan.gov.cn/knowledge/" target="_blank">知识问答库</a></div>
+            <div class="m-txt">
+                <ul>
+                    <li><span>2019-03-12</span><a href="http://www.luan.gov.cn/nocache/supervision/detail/5c6281fc7f8b9ab41f63bf94.html" target="_blank" title="标题：商业用地民用标准住宅40年产权未来到期后该如何续期？续期缴纳的土地出让金应是多少？<br/>发布时间：2019-03-12">商业用地民用标准住宅40年产权未来到期后该...</a></li>
+                    <li><span>2019-03-12</span><a href="http://www.luan.gov.cn/nocache/supervision/detail/5c655c0b7f8b9ae72520578b.html" target="_blank" title="标题：2008-2017六安年统计年鉴数据如何查询？<br/>发布时间：2019-03-12">2008-2017六安年统计年鉴数据如何查...</a></li>
+                    <li><span>2019-03-12</span><a href="http://www.luan.gov.cn/nocache/supervision/detail/5c6507187f8b9aec07a04d54.html" target="_blank" title="标题：农村养老保险的办事流程？<br/>发布时间：2019-03-12">农村养老保险的办事流程？</a></li>
+                    <li><span>2019-03-12</span><a href="http://www.luan.gov.cn/nocache/supervision/detail/5c74dd457f8b9a1352042eff.html" target="_blank" title="标题：民办辅导机构办学许可办理流程是什么？<br/>发布时间：2019-03-12">民办辅导机构办学许可办理流程是什么？</a></li>
+                    <li><span>2019-03-12</span><a href="http://www.luan.gov.cn/nocache/supervision/detail/5c7dccd27f8b9a083439ae2a.html" target="_blank" title="标题：地震预测与地震预报是否一个概念？主要区别是什么？ <br/>发布时间：2019-03-12">地震预测与地震预报是否一个概念？主要区别是...</a></li>
+                    <li><span>2019-03-12</span><a href="http://bbs.luan.gov.cn/thread/detail/5c81d2807f8b9a850e0a5cce.html" target="_blank" title="标题：蒙城县旅游行业协会在哪里？什么时间可以办理领取电子导游证？<br/>发布时间：2019-03-12">蒙城县旅游行业协会在哪里？什么时间可以办理...</a></li>
+                </ul>
+            </div>
+        </div>
+        <div class="clear"></div>
+        <div class="m-box2">
+            <div class="m-tit"><a href="http://bbs.luan.gov.cn/" target="_blank">热门网帖</a></div>
+            <div class="m-txt2">
+				<ul>
+                    <li><span>2019-07-04</span><a href="http://bbs.luan.gov.cn/thread/detail/5d1d53597f8b9a8c3e8c145f.html" target="_blank" title='标题：请问位于金桂香满园和鼎邦御庭小区之间的空地怎么规划的？<br/>发布时间：2019-07-04<br/>点击量：36'>请问位于金桂香满园和鼎邦御庭小区之间的空地...</a></li>
+                    <li><span>2019-07-04</span><a href="http://bbs.luan.gov.cn/thread/detail/5d1d4c127f8b9a44198bd59f.html" target="_blank" title='标题：明都阳光水岸部分业主常年用电动车占车位，电动车飞线充电！！！<br/>发布时间：2019-07-04<br/>点击量：29'>明都阳光水岸部分业主常年用电动车占车位，电...</a></li>
+                    <li><span>2019-07-04</span><a href="http://bbs.luan.gov.cn/thread/detail/5d1d45997f8b9ad33d8c12f8.html" target="_blank" title='标题：大家来看看市公安局这种回复有何意义？？？？？？？？？？？<br/>发布时间：2019-07-04<br/>点击量：266'>大家来看看市公安局这种回复有何意义？？？？...</a></li>
+                    <li><span>2019-07-03</span><a href="http://bbs.luan.gov.cn/thread/detail/5d1cc9717f8b9a033f8c0fc5.html" target="_blank" title='标题：香榭花城停车位问题<br/>发布时间：2019-07-03<br/>点击量：24'>香榭花城停车位问题</a></li>
+                    <li><span>2019-07-03</span><a href="http://bbs.luan.gov.cn/thread/detail/5d1cc1e07f8b9a9c5b8c0b61.html" target="_blank" title='标题：平安东苑c区午夜扰民<br/>发布时间：2019-07-03<br/>点击量：55'>平安东苑c区午夜扰民</a></li>
+                    <li><span>2019-07-03</span><a href="http://bbs.luan.gov.cn/thread/detail/5d1cbfda7f8b9a702f8b5363.html" target="_blank" title='标题：暑假班该不该办<br/>发布时间：2019-07-03<br/>点击量：72'>暑假班该不该办</a></li>
+                    <li><span>2019-07-03</span><a href="http://bbs.luan.gov.cn/thread/detail/5d1cb3a67f8b9adb3e8c068d.html" target="_blank" title='标题：关于社会上假期衔接班泛滥的问题<br/>发布时间：2019-07-03<br/>点击量：58'>关于社会上假期衔接班泛滥的问题</a></li>
+                    <li><span>2019-07-03</span><a href="http://bbs.luan.gov.cn/thread/detail/5d1c9d947f8b9a786d8c2aa3.html" target="_blank" title='标题：商品房客厅现浇板贯穿性裂纹<br/>发布时间：2019-07-03<br/>点击量：44'>商品房客厅现浇板贯穿性裂纹</a></li>
+                    <li><span>2019-07-03</span><a href="http://bbs.luan.gov.cn/thread/detail/5d1c857e7f8b9a85078c22d8.html" target="_blank" title='标题：六安毛坦厂中学实验学校<br/>发布时间：2019-07-03<br/>点击量：64'>六安毛坦厂中学实验学校</a></li>
+                    <li><span>2019-07-03</span><a href="http://bbs.luan.gov.cn/thread/detail/5d1c847c7f8b9a762f8b4f25.html" target="_blank" title='标题：霍邱县双湖东路平安保险公司电缆井盖<br/>发布时间：2019-07-03<br/>点击量：7'>霍邱县双湖东路平安保险公司电缆井盖</a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="is-footer">
+    <div class="m-footer">
+		<div class="m-middle">
+			<div class="fl"><p>版权所有：蒙城县人民政府   主办单位：蒙城县人民政府办公室 </p><p>E-mail： mcxzwgk@163.com 备案号：皖ICP备05015246号 网站标识码：3416220001</p>  <p><a class="wgw">皖公网安备34162202000016号</a></p></div>
+			<ul class="fl">
+				<li class="f1"><a href="">网站地图</a></li>
+				<li class="f2"><a href="">隐私申明</a></li>
+				<li class="f3"><a href="">使用说明</a></li>
+				<li class="f4"><a href="">联系我们</a></li>
+			</ul>
+			<div>
+				<script id="_jiucuo_" sitecode='3416220001' src='http://pucha.kaipuyun.cn/exposure/jiucuo.js'></script>
+			<script type="text/javascript">document.write(unescape("%3Cspan id='_ideConac' %3E%3C/span%3E%3Cscript src='http://dcs.conac.cn/js/13/198/1564/60621165/CA131981564606211650001.js' type='text/javascript'%3E%3C/script%3E"));</script>
+			</div>
+			
+		</div>
+	</div>
+</div>
+
+<div class="tk">
+	<div class="title">
+		<div class="gb" style="height: 40px;line-height: 40px; font-size: 14px; font-family: 微软雅黑;">关闭</div>
+		<b style="font-family: 微软雅黑;color: #cc0c0d;">智能推送</b>
+	</div>
+	<div style="height: 30px;line-height: 39px;font-size: 16px;font-family: 微软雅黑;margin-left: 12px;color: #cc0c0d;">猜你想了解</div>
+	<ul>
+		<li>
+			<a style="font-family: 微软雅黑;" href="http://www.luan.gov.cn/content/detail/5c217eb06eb33e3410000000.html" title="孙云飞在蒙城县科学技术协会第四次代表大会开幕时强调
+推动科协事业发展 推进科技创新进步 为幸福六安建设作出新的更大贡献" target="_blank">孙云飞在蒙城县科学技术协会第四次代表大会...</a>
+		</li>
+		<li>
+			<a style="font-family: 微软雅黑;" href="http://www.luan.gov.cn/content/detail/5c202d6d6eb33e5810000002.html" title="措美县人大代表来我市考察学习" target="_blank">措美县人大代表来我市考察学习</a>
+		</li>
+		<li>
+			<a style="font-family: 微软雅黑;" href="http://www.luan.gov.cn/content/detail/5c107d2f6eb33e9404000000.html" title="蒙城县职工劳动竞赛表彰候选名单公示" target="_blank">蒙城县职工劳动竞赛表彰候选名单公示</a>
+		</li>
+		<li>
+			<a style="font-family: 微软雅黑;" href="http://www.luan.gov.cn/content/detail/5ba2eb9dfbe7d0a40600000c.html" title="市人大常委会召开代表议案办理情况通报会" target="_blank">市人大常委会召开代表议案办理情况通报会</a>
+		</li>
+		<li>
+			<a style="font-family: 微软雅黑;" href="http://www.luan.gov.cn/content/detail/5b985dd7fbe7d0a014000025.html" title="省长李国英在我市金寨县走访慰问乡村教师时强调
+全面落实教育优先发展战略 促进教育更加公平优质发展" target="_blank">省长李国英在我市金寨县走访慰问乡村教师时...</a>
+		</li>
+	</ul>
+	<div style="height: 30px;line-height: 39px;font-size: 16px;font-family: 微软雅黑;margin-left: 12px;color: #cc0c0d;">猜你想咨询</div>
+	<ul>
+		<li>
+			<a style="font-family: 微软雅黑;" href="http://www.luan.gov.cn/nocache/supervision/detail/5c6281fc7f8b9ab41f63bf94.html" title="商业用地民用标准住宅40年产权未来到期后该如何续期？续期缴纳的土地出让金应是多少？" target="_blank">商业用地民用标准住宅40年产权未来到期后该如何续期？续期缴纳...</a>
+		</li>
+		<li>
+			<a style="font-family: 微软雅黑;" href="http://www.luan.gov.cn/nocache/supervision/detail/5c655c0b7f8b9ae72520578b.html" title="2008-2017六安年统计年鉴数据如何查询？" target="_blank">2008-2017六安年统计年鉴数据如何查询？</a>
+		</li>
+		<li>
+			<a style="font-family: 微软雅黑;" href="http://www.luan.gov.cn/nocache/supervision/detail/5c6507187f8b9aec07a04d54.html" title="农村养老保险的办事流程？" target="_blank">农村养老保险的办事流程？</a>
+		</li>
+		<li>
+			<a style="font-family: 微软雅黑;" href="http://www.luan.gov.cn/nocache/supervision/detail/5c74dd457f8b9a1352042eff.html" title="民办辅导机构办学许可办理流程是什么？" target="_blank">民办辅导机构办学许可办理流程是什么？</a>
+		</li>
+		<li>
+			<a style="font-family: 微软雅黑;" href="http://www.luan.gov.cn/nocache/supervision/detail/5c7dccd27f8b9a083439ae2a.html" title="地震预测与地震预报是否一个概念？主要区别是什么？ " target="_blank">地震预测与地震预报是否一个概念？主要区别是什么？ </a>
+		</li>
+	</ul>
+</div>
+
+</body>
+<script type="text/javascript" src="../media/js/jquery.min.js"></script>
+<script type="text/javascript" src="../media/js/jquery.SuperSlide.2.1.js"></script>
+<script type="text/javascript" src="../media/js/common.js"></script>
+<style>
+.tk{position:fixed;right:0; bottom:0; height:400px; z-index:999;background:#fff;width:400px;font-size:12px;display:none;}
+.title {line-height:42px;background:#f6f0f3;border-bottom:1px solid #e0e0e0;position:relative;font-size:14px;padding:0 10px 0 10px;font-size:18px;color:#666;line-height:42px;height:42px; position:relative;}
+.title .gb{position:absolute;right:10px;top:5px;cursor:pointer;}
+.tk ul{ padding:0 0 0 30px;}
+.tk ul li{ line-height:30px; height:30px; overflow:hidden; font-size:14px;}
+.tk ul li a{color:#666;}
+.layui-layer-title{background-color: #009f95;color:#fff;}
+.layui-layer-btn .layui-layer-btn0{background-color: #009f95;border-color: #009f95;}
+</style>
+<script>
+jQuery(".nav").slide({ type:"menu",  titCell:".m", targetCell:".sub", effect:"slideDown", delayTime:100, triggerTime:100,returnDefault:true  });
+    $(".tk").slideDown("slow");
+	$(".gb").click(function(){
+	  $(".tk").hide(1000);
+	});
+	 
+</script>
+ 
+</html>

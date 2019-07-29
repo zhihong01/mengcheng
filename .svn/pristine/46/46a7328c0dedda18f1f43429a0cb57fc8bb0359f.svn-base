@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="zh-cn">
+	<head>
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<meta http-equiv="X-UA-Compatible" content="ie=edge">
+		<title>蒙城县人民政府</title>
+		<link rel="shortcut icon" type="image/x-icon" href="../../favicon.ico">
+		<link rel="stylesheet" href="media/css/search.css">
+		<!--[if lt IE 9]>
+		<script src="media/js/html5shiv.js"></script>
+		<script src="media/js/respond.min.js"></script>
+		<![endif]-->
+	</head>
+	<body>
+	    <div class="is-header">
+		    <div class="m-top">
+		        <img src="media/images/logo.png" class="logo">
+		    </div>
+		</div>
+		<div class="is-top">
+		    <form class="m-form">
+			    <div class="sertext"><label for="">包含以下全部的关键词:</label> <input type="text" value=""/></div>
+			    <div class="sertext"><label for="">包含以下任意一个关键词:</label> <input type="text" value=""/></div>
+			    <div class="sertext"><label for="">不包括以下关键词:</label> <input type="text" value=""/></div>
+				<div class="serselect" style="margin-top:50px;">
+				    <span>查询字段: </span>
+					<select>
+				        <option>全部范围</option>
+				        <option>全部范围</option>
+				        <option>全部范围</option>
+				        <option>全部范围</option>
+				    </select>
+				</div>
+				<div class="serselect wjgs">
+				    <span>文件格式:</span>
+					<select>
+				        <option>全部范围</option>
+				        <option>全部范围</option>
+				        <option>全部范围</option>
+				        <option>全部范围</option>
+				    </select>
+				</div>
+				<div class="serselect">
+				    <span>时间:</span>
+					<select>
+				        <option>全部范围</option>
+				        <option>全部范围</option>
+				        <option>全部范围</option>
+				        <option>全部范围</option>
+				    </select>
+				</div>
+				<div class="sercheck">
+				    <span class="spantext">搜索结果显示条数: </span>
+					<label>
+					    <span><input type="radio" value="option1" checked> 每页显示10条</span>
+					    <span><input type="radio" value="option1" checked> 每页显示20条</span>
+					    <span><input type="radio" value="option1" checked> 每页显示30条</span>
+					</label>
+				</div>
+				<div class="serselect">
+				    <span>搜索范围: </span>
+					<select>
+				        <option>全部范围</option>
+				        <option>全部范围</option>
+				        <option>全部范围</option>
+				        <option>全部范围</option>
+				    </select>
+				</div>
+				<div class="serselect">
+				    <span>检索频道: </span>
+					<select>
+				        <option>全部范围</option>
+				        <option>全部范围</option>
+				        <option>全部范围</option>
+				        <option>全部范围</option>
+				    </select>
+				</div>
+				<div class="serbtn">
+				    <input type="submit" value="开始检索" class="sub"/>
+				    <input type="reset" value="重新填写" class="ret"/>
+				</div>
+			</form>
+		</div>
+		<footer class="is-footer">
+			<div class="m-footer">
+				<div class="container f-pr">
+					<div class="m-ftfuns f-tac">
+						<a href="">网站地图</a> |
+						<a href="">隐私声明</a> |
+						<a href="">使用说明</a> |
+						<a href="">联系我们</a>
+					</div>
+					<div class="m-copyright f-tac">
+						<p>版权所有：xx人民政府&nbsp;&nbsp;主办单位：蒙城县人民政府&nbsp;&nbsp;承办单位：蒙城县信息化工作办公室&nbsp;&nbsp;</p>
+						<p>网站标识码：3416230019&nbsp;&nbsp;皖ICP备05005579号&nbsp;&nbsp;<a href="" target="_blank"><img src="media/images/ga.png" alt=""> 皖公网安备 34162302000005号</a></p>
+					</div>
+					<!-- <script src="http://dcs.conac.cn/js/13/198/1566/60632341/CA131981566606323410001.js" type="text/javascript"></script> -->
+					<script id="_jiucuo_" sitecode="3416230019" src="http://pucha.kaipuyun.cn/exposure/jiucuo.js"></script>
+				</div>
+			</div>
+		</footer>
+	</body>
+	<script src="media/js/jquery.js"></script>
+	<script src="media/js/search.js"></script>
+</html>

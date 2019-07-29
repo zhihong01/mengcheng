@@ -1,0 +1,66 @@
+
+/****头部header****/
+.is-header{width: 100%;height: 83px;background:#bd1011;}
+.top{width:1200px;margin:auto;}
+.m-nav{position: relative;}
+.m-nav .nav ul li{float: left;position: relative;}
+.m-nav .nav ul li a{color:#fff;height: 83px;width:92px;text-align:center;display: block;line-height:83px;
+font-weight:bold;font-size:16px;}
+.m-nav .nav ul li a:hover{background:#df2425;}
+.m-nav .nav .sub{position: absolute;top:83px;left: 0px;z-index: 10;background:#bd1011;}
+.m-nav .nav .sub li a{width: 92px;height:40px;line-height: 40px;font-weight:normal; }
+/*中间*/
+.is-main{width:1200px;margin:auto;margin-top: 20px;overflow:hidden;}
+.m-left{width:220px;height: 460px;background:url(../images/home-dl.png) #fff center 10px no-repeat;padding:0 15px;}
+.m-left span{width:200px;display: block;line-height: 25px;color:#bfbfbf;margin:auto;margin-top: 165px;}
+.m-input{border:none;background:#fff;border:1px solid #ddd;width:160px;height: 28px;margin-top: 15px;text-indent:5px;}
+.m-dl{width:125px;height: 40px;background:url(../images/m-dl.png) center no-repeat;border:none;margin: 20px 48px;}
+.m-left a{color:#bfbfbf;}
+.m-right{width:900px;height: 606px;padding:15px;background:#fff;}
+/*热门资讯*/
+.m-box1{width:436px;height: 230px;overflow:hidden;margin-bottom:10px;}
+.m-tit{border-bottom: 1px solid #ddd;height: 40px;}
+.m-tit a{color:#cc0c0d; display: block;width:100px;font-size:16px;height: 40px;line-height: 40px;text-align:center;border-bottom: 2px solid #cc0c0d;}
+.m-txt ul li{line-height: 32px;background:url(../images/d.png) left no-repeat;padding-left:15px;}
+.m-txt ul li span{float: right;font-size:13px;color:#999999;}
+.m-txt2 ul{width:1000px;}
+.m-txt2 ul li{width:421px;margin-right: 27px; float:left; line-height: 32px;background:url(../images/d.png) left no-repeat;padding-left:15px;}
+.m-txt2 ul li span{float: right;font-size:13px;color:#999999;}
+
+
+/*title提示 on*/
+.tooltip {
+    font-size: 13px;
+    line-height: 1.5;
+    position: absolute;
+    padding: 5px;
+    z-index: 100003;
+    opacity: .9
+}
+.tipsy-arrow {
+    position: absolute;
+    width: 0;
+    height: 0;
+    line-height: 0;
+    border: 8px dashed #333333;
+    top: 0;
+    left: 20px;
+    margin-left: -5px;
+    margin-left: -3px;
+    border-bottom-style: solid;
+    border-top: 0;
+    border-left-color: transparent;
+    border-right-color: transparent
+}
+.tipsy-arrow-n {
+    border-bottom-color:  #333333;
+}
+.tipsy-inner {
+    background-color:  #333333;
+    color: #fff;
+    max-width: 400px;
+    padding: 5px 8px 4px 8px;
+    text-align: left;
+    border-radius: 3px
+}
+/*title提示 end*/

@@ -1,0 +1,47 @@
+@charset "utf-8";
+/*
+* @Author: Tech050
+* @Date:   2019-06-14 15:08:10
+* @Last Modified by:   Tech050
+* @Last Modified time: 2019-06-14 15:59:54
+*/
+.is-main{font-size:16px;}
+.m-sjfbbox{padding: 6px 0px 20px; background: #fff;}
+.m-sjfbtab1{margin: 1px 0; padding: 10px 5px; background: #f5f5f5;}
+.m-sjfbtab1 li{float: left; margin: 0 30px; line-height: 32px;}
+.m-sjfbtab1 li a{display: block;}
+.m-sjfbtab1 li.u-active a{color: #cd0000;}
+.m-sjfbtab2{margin: 10px -10px;}
+.m-sjfbtab2 li{float: left; padding: 5px 10px; width: 224px;}
+.m-sjfbtab2 li a{display: block; line-height: 40px; text-align: center; border: 1px solid #ddd; border-radius: 8px;}
+.m-sjfbtab2 li.u-active a{background: #ff8383; color: #fff;}
+.m-chart{height: 460px;}
+
+
+
+/*超大PC屏幕下的专用样式*/
+@media screen and (min-width:1200px) {
+    
+
+}
+/*中等PC屏幕下的专用样式*/
+@media screen and (min-width:992px) and (max-width: 1199px) {
+	
+}
+/*PAD屏幕下的专用样式*/
+@media screen and (min-width: 768px) and (max-width: 991px ){
+	
+
+}
+/*PHONE屏幕下的专用样式*/
+@media screen and (min-width: 639px) and (max-width: 767px) {
+	
+
+}
+
+@media screen and (max-width: 638px) {
+	body{font-size: 14px;}
+	.m-sjfbtab1 li{margin: 0 15px;}
+	.m-sjfbtab2 li{width: 50%;}
+
+}

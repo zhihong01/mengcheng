@@ -1,0 +1,644 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">	
+		<meta name="SiteName" content="" />
+		<meta name="SiteDomain" content="" />
+		<meta name="SiteIDCode" content="" />
+		<meta name="keywords" content="" />
+		<meta name="description" content="" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+		<title>蒙城县人民政府 </title>
+		<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
+		<link rel="stylesheet" href="../media/css/bootstrap.min.css">
+		<link rel="stylesheet" href="../media/css/public.css">
+		<link rel="stylesheet" href="../media/css/home.css">
+		<link rel="stylesheet" href="../media/css/owl.carousel.min.css">
+		<link rel="stylesheet" href="../media/css/owl.theme.default.min.css">
+		<script src="../media/js/jquery.js"></script>
+		<script src="../media/js/owl.carousel.min.js"></script>
+	</head>
+	<body>
+		<div class="is-header">
+		 	<div class="m-top">
+		 		<div class="logo"><img src="../media/images/public/logo.png" alt="" class="img-responsive"></div>
+		 		<div class="wt">
+				    <span><script src="../media/js/time.js"></script></span>
+					<span><iframe allowtransparency="true" frameborder="0" width="180" height="36" scrolling="no" src="//tianqi.2345.com/plugin/widget/index.htm?s=3&z=2&t=0&v=0&d=3&bd=0&k=&f=&ltf=009944&htf=cc0000&q=1&e=1&a=0&c=60596&w=180&h=36&align=center"></iframe></span>
+				</div>
+		 		<div class="u-link">
+		 			<ul class="xian">
+		 				<li><a href="" target="_blank">县政协</a></li>
+		 				<li><a href="" target="_blank">县政府</a>|</li>
+		 				<li><a href="" target="_blank">县人大</a>|</li>
+		 				<li><a href="" target="_blank">县委</a>|</li>
+		 			</ul>
+		 			<ul class="fx">
+		 				<li class="fx1"><a href="">注册</a></li>
+		 				<li class="fx2"><a href="">登录</a></li>
+		 				<li class="fx3"><a href="">RSS订阅</a></li>
+		 				<li class="fx4"><a href="">无障碍</a></li>
+		 				<li class="fx5"><a href="">简繁体</a></li>
+		 			</ul>
+		 		</div>
+		 	</div>
+	 		<div class="m-search">
+				<form method="GET" action="/index.php?c=search">
+					<input type="text" name="keywords" placeholder="-请输入检索关键字-" value="" class="u-searchtext fl" x-webkit-speech="" autocomplete="off">
+					<input name="" type="submit" value="" class="u-searchbtn fl">
+					<input name="c" type="hidden" value="search">
+					<a class="fl u-goodser" href="" title="" target="_blank">高级搜索</a>
+				</form>
+			</div>
+            <div class="m-nav navbar navbar-default" role="navigation">
+				<div class="container-fluid"> 
+					<div class="navbar-header">
+						<button type="button" class="navbar-toggle" data-toggle="collapse"
+								data-target="#example-navbar-collapse">
+							<span class="sr-only">切换导航</span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+						</button>
+						<a class="navbar-brand" href="#"><img src="../media/images/public/home.png" /></a>
+					</div>
+					<div class="collapse navbar-collapse" id="example-navbar-collapse">
+						<ul class="nav navbar-nav">
+				            <li class="current"><a href=""><i class="u-icv1"></i> 网站首页</a></li>
+				            <li><a href=""><i class="u-icv2"></i> 走进利辛</a></li>
+				            <li><a href=""><i class="u-icv3"></i> 新闻中心</a></li>
+				            <li><a href=""><i class="u-icv4"></i> 政务公开</a></li>
+				            <li><a href=""><i class="u-icv5"></i> 解读回应</a></li>
+				            <li><a href=""><i class="u-icv6"></i> 办事服务</a></li>
+				            <li><a href=""><i class="u-icv7"></i> 互动交流</a></li>
+				            <li><a href=""><i class="u-icv8"></i> 数据开放</a></li>
+				        </ul> 
+					</div>
+				</div>
+            </div>
+		 </div> 
+		 <div class="is-main">
+		     <div class="m-content1">
+				 <h1>我县收听收看市委理论学习中心组学习（扩大）会议暨...</h1>
+				 <ul>
+					
+					 <li><a href="">市政协主席汤涌来我县调研农业产业转型升级工作</a></li>
+					 <li><a href="">市人大常委会检查组检查我县《水污染防治法...</a></li>
+					 <li><a href="">省人大工作研究会调研组来蒙调研脱贫攻坚工作</a></li>
+				
+				 </ul>
+			 
+			 </div>
+			 <div class="m-content2">
+				<div class="m-flash fl">
+					<div class="bd">
+						<ul>
+							<li>
+								<a href="" target="_blank">
+									<img src="../media/images/home/flash1.jpg"/>
+									<p>虞爱华到市图书馆调研</p>
+								</a>
+							</li>
+							<li>
+								<a href="" target="_blank">
+									<img src="../media/images/home/flash1.jpg" />
+									<p>虞爱华到市图书馆调研</p>
+								</a>
+							</li>
+							<li>
+								<a href="" target="_blank">
+									<img src="../media/images/home/flash1.jpg"/>
+									<p>虞爱华到市图书馆调研</p>
+								</a>
+							</li>
+							<li>
+								<a href="" target="_blank">
+									<img src="../media/images/home/flash1.jpg"/>
+									<p>虞爱华到市图书馆调研</p>
+								</a>
+							</li>
+						</ul>
+					</div>
+					<div class="hd">
+						<ul>
+							<li></li>
+							<li></li>
+							<li></li>
+							<li></li>
+							<li></li>
+						</ul>
+					</div>
+				</div>
+				<div class="m-news fr">
+					<div class="hd">
+						<ul><li class="on"><a href="">政务要闻</a></li><li><a href="">部门传真</a></li><li><a href="">乡镇广角</a></li><li><a href="">重要转载</a></li></ul>
+					</div>
+					<div class="bd">
+						<ul>
+							<li><span class="date">2011-11-11</span><a href="#">宣州｜水东镇坚持全域全景 推进古镇旅游新发展   </a></li>
+							<li><span class="date">2011-11-11</span><a href="#">宣城市召开2019年“扫黄打非”工作会议</a></li>
+							<li><span class="date">2011-11-11</span><a href="#">我市深入推进旅游厕所建设</a></li>
+							<li><span class="date">2011-11-11</span><a href="#">我市开展全国,数理化老师竟也看学习资料？</a></li>
+							<li><span class="date">2011-11-11</span><a href="#">宣城市召开2019年“扫黄打非”工作会议</a></li>
+							<li><span class="date">2011-11-11</span><a href="#">我市深入推进旅游厕所建设</a></li>
+							<li><span class="date">2011-11-11</span><a href="#">我市开展全国,数理化老师竟也看学习资料？</a></li>
+							<li><span class="date">2011-11-11</span><a href="#">宣城市召开2019年“扫黄打非”工作会议</a></li>
+							<li><span class="date">2011-11-11</span><a href="#">我市深入推进旅游厕所建设</a></li>
+						</ul>
+						<ul>
+							
+							<li><span class="date">2011-11-11</span><a href="#">名师教作文：３妙招巧写高分</a></li>
+							<li><span class="date">2011-11-11</span><a href="#">耶鲁小子：教你备考SAT</a></li>
+							<li><span class="date">2011-11-11</span><a href="#">施强：高端专业语言教学</a></li>
+							<li><span class="date">2011-11-11</span><a href="#">数理化老师竟也看学习资料？</a></li>
+						</ul>
+						<ul>
+							
+							<li><span class="date">2011-11-11</span><a href="#">澳大利亚八大名校招生说明会</a></li>
+							<li><span class="date">2011-11-11</span><a href="#">2012世界大学排名新鲜出炉</a></li>
+							<li><span class="date">2011-11-11</span><a href="#">新加坡留学，国际双语课程</a></li>
+							<li><span class="date">2011-11-11</span><a href="#">高考后留学日本名校随你选</a></li>
+						</ul>
+						<div class="u-zhuanzai">
+						    <h3>国务院重要信息转载</h3>
+							<ul class="gwy">
+							    <li><span class="date">2011-11-11</span><a href="#">名师教作文：３妙招巧写高分</a></li>
+								<li><span class="date">2011-11-11</span><a href="#">耶鲁小子：教你备考SAT</a></li>
+								<li><span class="date">2011-11-11</span><a href="#">施强：高端专业语言教学</a></li>
+								<li><span class="date">2011-11-11</span><a href="#">数理化老师竟也看学习资料？</a></li>   
+							</ul>
+							<h3>省政府重要信息转载</h3>
+							<ul class="szf">
+							    <li><span class="date">2011-11-11</span><a href="#">名师教作文：３妙招巧写高分</a></li>
+								<li><span class="date">2011-11-11</span><a href="#">耶鲁小子：教你备考SAT</a></li>
+								<li><span class="date">2011-11-11</span><a href="#">施强：高端专业语言教学</a></li>
+								<li><span class="date">2011-11-11</span><a href="#">数理化老师竟也看学习资料？</a></li>   
+							</ul>
+						</div>
+					</div>
+				</div>
+				<div class="m-notice fl">
+				    <div class="tzgg"><a href=""></a></div>
+				    <ul>
+					    <li><span class="date">2011-11-11</span><a href="">市政协主席汤涌来我县调研农业产业转型升级工作 </a></li>
+						<li><span class="date">2011-11-11</span><a href="">市人大常委会检查组检查我县《水污染防治法》贯彻落实... </a></li>
+					</ul>
+				</div>
+				<div class="m-notice2">
+				    <ul>
+					    <li><a href=""><img src="../media/images/home/mcx_24.jpg" alt=""></a></li>
+						<li><a href=""><img src="../media/images/home/mcx_28.jpg" alt=""></a></li>
+					</ul>
+				</div>
+			</div>
+			<div class="m-advert"><img class="img-responsive" src="../media/images/home/mcx_36.jpg" alt=""></div>
+			<div class="m-content2">
+			    <div class="m-listbox2">
+					<div class="u-hd">
+						<ul><li class="on tab1"><a href=""><i></i> 政务公开</a></li><li class="tab2"><a href=""><i></i> 办事服务</a></li><li class="tab3"><a href=""><i></i> 互动交流</a></li></ul>
+					</div>
+					<div class="u-bd">
+					    <div class="u-zw bdcont">
+						    <div class="u-zw1 fl">
+							    <ul>
+								    <li class="gk1"><i></i><a href="">信息公开指南</a></li>
+									<li class="gk2"><i></i><a href="">信息公开目录</a></li>
+									<li class="gk3"><i></i><a href="">信息公开制度</a></li>
+									<li class="gk4"><i></i><a href="">信息公开年报</a></li>
+									<li class="gk5"><i></i><a href="">依申请公开</a></li>
+								</ul>
+								<div class="u-lb">
+								    <a class="xwfb" href="" target="_blank"><img src="../media/images/home/mcx_43.jpg"></a>
+								    <a class="zdly" href="" target="_blank"><img src="../media/images/home/mcx_45.jpg"></a>
+								</div>
+							</div>
+							<div class="u-zw2 fr">
+							    <ul class="wgk">
+								    <li class="wgk1"><i></i><a href="">决策公开</a></li>
+								    <li class="wgk2"><i></i><a href="">执行公开</a></li>
+								    <li class="wgk3"><i></i><a href="">管理公开</a></li>
+								    <li class="wgk4"><i></i><a href="">服务公开</a></li>
+								    <li class="wgk5"><i></i><a href="">结果公开</a></li>
+								</ul>
+								<div class="m-listbox fl">
+									<div class="hd">
+										<ul><li><a href="">最新公开</a></li><li><a href="">政府文件</a></li><li><a href="">人事信息</a></li><li><a href="">政策法规</a></li></ul>
+									</div>
+									<div class="bd">
+										<ul>
+											<li><span class="date">2011-11-11</span><a href="#">宣州｜水东镇坚持全域全景 推进古镇旅游新发展   </a></li>
+											<li><span class="date">2011-11-11</span><a href="#">宣城市召开2019年“扫黄打非”工作会议</a></li>
+											<li><span class="date">2011-11-11</span><a href="#">我市深入推进旅游厕所建设</a></li>
+											<li><span class="date">2011-11-11</span><a href="#">我市开展全国,数理化老师竟也看学习资料？</a></li>
+											<li><span class="date">2011-11-11</span><a href="#">宣城市召开2019年“扫黄打非”工作会议</a></li>
+											<li><span class="date">2011-11-11</span><a href="#">我市深入推进旅游厕所建设</a></li>
+											<li><span class="date">2011-11-11</span><a href="#">我市开展全国,数理化老师竟也看学习资料？</a></li>
+											
+										</ul>
+										<ul>
+											
+											<li><span class="date">2011-11-11</span><a href="#">名师教作文：３妙招巧写高分</a></li>
+											<li><span class="date">2011-11-11</span><a href="#">耶鲁小子：教你备考SAT</a></li>
+											<li><span class="date">2011-11-11</span><a href="#">施强：高端专业语言教学</a></li>
+											<li><span class="date">2011-11-11</span><a href="#">数理化老师竟也看学习资料？</a></li>
+										</ul>
+										<ul>
+											
+											<li><span class="date">2011-11-11</span><a href="#">澳大利亚八大名校招生说明会</a></li>
+											<li><span class="date">2011-11-11</span><a href="#">2012世界大学排名新鲜出炉</a></li>
+											<li><span class="date">2011-11-11</span><a href="#">新加坡留学，国际双语课程</a></li>
+											<li><span class="date">2011-11-11</span><a href="#">高考后留学日本名校随你选</a></li>
+										</ul>
+										<ul>
+											
+											<li><span class="date">2011-11-11</span><a href="#">名师教作文：３妙招巧写高分</a></li>
+											<li><span class="date">2011-11-11</span><a href="#">耶鲁小子：教你备考SAT</a></li>
+											<li><span class="date">2011-11-11</span><a href="#">施强：高端专业语言教学</a></li>
+											<li><span class="date">2011-11-11</span><a href="#">数理化老师竟也看学习资料？</a></li>
+										</ul>
+									</div>
+								</div>
+								<div class="m-listbox fr">
+									<div class="hd">
+										<ul><li><a href="">政策解读</a></li><li><a href="">回应关切</a></li></ul>
+									</div>
+									<div class="bd">
+										<ul>
+											<li><span class="date">2011-11-11</span><a href="#">宣州｜水东镇坚持全域全景 推进古镇旅游新发展   </a></li>
+											<li><span class="date">2011-11-11</span><a href="#">宣城市召开2019年“扫黄打非”工作会议</a></li>
+											<li><span class="date">2011-11-11</span><a href="#">我市深入推进旅游厕所建设</a></li>
+											<li><span class="date">2011-11-11</span><a href="#">我市开展全国,数理化老师竟也看学习资料？</a></li>
+											<li><span class="date">2011-11-11</span><a href="#">宣城市召开2019年“扫黄打非”工作会议</a></li>
+											<li><span class="date">2011-11-11</span><a href="#">我市深入推进旅游厕所建设</a></li>
+											<li><span class="date">2011-11-11</span><a href="#">我市开展全国,数理化老师竟也看学习资料？</a></li>
+										
+										</ul>
+										<ul>
+											
+											<li><span class="date">2011-11-11</span><a href="#">名师教作文：３妙招巧写高分</a></li>
+											<li><span class="date">2011-11-11</span><a href="#">耶鲁小子：教你备考SAT</a></li>
+											<li><span class="date">2011-11-11</span><a href="#">施强：高端专业语言教学</a></li>
+											<li><span class="date">2011-11-11</span><a href="#">数理化老师竟也看学习资料？</a></li>
+										</ul>	
+									</div>
+								</div>
+							</div>
+						</div>
+						<div class="bdcont">
+							<div class="bdcont1 fl">
+								<ul class="c-hd">
+									<li><a href="">个人办事</a></li>
+									<li><a href="">法人办事</a></li>
+									<li><a href="">部门服务</a></li>
+									<li class="hotserve"><a href="">热点事项</a></li>
+								</ul>
+								<div class="c-bd">
+								    <ul>
+										<li class="bcont1"><a href=""><i></i>生育收养</a></li>
+										<li class="bcont2"><a href=""><i></i>户籍办理</a></li>
+										<li class="bcont3"><a href=""><i></i>民族宗教</a></li>
+										<li class="bcont4"><a href=""><i></i>教育科研</a></li>
+										<li class="bcont5"><a href=""><i></i>就业创业</a></li>
+										<li class="bcont6"><a href=""><i></i>设立变更</a></li>
+										<li class="bcont7"><a href=""><i></i>准营准办</a></li>
+										<li class="bcont8"><a href=""><i></i>抵押质押</a></li>
+										<li class="bcont9"><a href=""><i></i>职业资格</a></li>
+										<li class="bcont10"><a href=""><i></i>行政缴费</a></li>
+										<li class="bcont11"><a href=""><i></i>婚姻登记</a></li>
+										<li class="bcont12"><a href=""><i></i>优待抚恤</a></li>
+										<li class="bcont13"><a href=""><i></i>规划建设</a></li>
+										<li class="bcont14"><a href=""><i></i>住房保障</a></li>
+										<li class="bcont15"><a href=""><i></i>更多</a></li>
+									</ul>
+									<ul class="u-frbs">
+										<li class="frbs1"><a href=""><i></i>生育收养</a></li>
+										<li class="frbs2"><a href=""><i></i>户籍办理</a></li>
+										<li class="frbs3"><a href=""><i></i>民族宗教</a></li>
+										<li class="frbs4"><a href=""><i></i>教育科研</a></li>
+										<li class="frbs5"><a href=""><i></i>就业创业</a></li>
+										<li class="frbs6"><a href=""><i></i>设立变更</a></li>
+										<li class="frbs7"><a href=""><i></i>准营准办</a></li>
+										<li class="frbs8"><a href=""><i></i>抵押质押</a></li>
+										<li class="frbs9"><a href=""><i></i>职业资格</a></li>
+										<li class="frbs10"><a href=""><i></i>行政缴费</a></li>
+										<li class="frbs11"><a href=""><i></i>婚姻登记</a></li>
+										<li class="frbs12"><a href=""><i></i>优待抚恤</a></li>
+										<li class="frbs13"><a href=""><i></i>规划建设</a></li>
+										<li class="frbs14"><a href=""><i></i>住房保障</a></li>
+										<li class="frbs15"><a href=""><i></i>更多</a></li>
+									</ul>
+									<ul class="u-bmfw">
+										<li><a href="">生育收养</a></li>
+										<li><a href="">户籍办理</a></li>
+										<li><a href="">民族宗教</a></li>
+										<li><a href="">教育科研</a></li>
+										<li><a href="">就业创业</a></li>
+										<li><a href="">设立变更</a></li>
+										<li><a href="">准营准办</a></li>
+										<li><a href="">抵押质押</a></li>
+										<li><a href="">职业资格</a></li>
+										<li><a href="">行政缴费</a></li>
+										<li><a href="">婚姻登记</a></li>
+										<li><a href="">优待抚恤</a></li>
+										<li><a href="">规划建设</a></li>
+										<li><a href="">住房保障</a></li>
+										<li><a href="">婚姻登记</a></li>
+										<li><a href="">优待抚恤</a></li>
+										<li><a href="">规划建设</a></li>
+										<li><a href="">住房保障</a></li>
+										<li><a href="">优待抚恤</a></li>
+										<li><a href="">规划建设</a></li>
+										<li><a href="">住房保障</a></li>
+										<li><a href="">婚姻登记</a></li>
+										<li><a href="">优待抚恤</a></li>
+										<li><a href="">优待抚恤</a></li>
+										<li><a href="">更多</a></li>
+									</ul>
+									<ul class="hotserve-list">
+										<li><a href="">企业退休人员养老金资格认证</a></li>
+										<li><a href="">货运车辆年审</a></li>
+										<li><a href="">企业名称预先核准</a></li>
+										<li><a href="">道路货物运输驾驶员从业资格证诚信考核</a></li>
+										<li><a href="">个体工商户注册登记</a></li>
+										<li><a href="">计生家庭个体工商户注册登记</a></li>
+									</ul>
+								</div>
+							</div>
+							<div class="bdcont2 fr">
+							    <h3><a href="">热点事项</a></h3>
+                                <ul>
+								    <li class="hot1"><a href="">企业退休人员养老金资格认证</a></li>
+									<li class="hot2"><a href="">货运车辆年审</a></li>
+									<li class="hot3"><a href="">企业名称预先核准</a></li>
+									<li class="hot4"><a href="">道路货物运输驾驶员从业资格证诚信考核</a></li>
+									<li class="hot5"><a href="">个体工商户注册登记</a></li>
+									<li class="hot6"><a href="">计生家庭个体工商户注册登记</a></li>
+								</ul>
+							</div>
+						</div>
+						<div class="bdcont">
+						    <div class="jaoliu1 fl">
+							    <div class="m-listbox fl">
+									<div class="hd">
+										<ul><li class="on"><a href="">来信选登</a></li><li class="u-wq"><a href="">往期回顾</a></li></ul>
+									</div>
+									<div class="bd">
+										<ul>
+											<li><span class="date">未回复</span><a href="#">宣州｜水东镇坚持全域全景 推进古镇  </a></li>
+											<li><span class="date">未回复</span><a href="#">宣城市召开2019年“扫黄打非”工作会议</a></li>
+											<li><span class="date">未回复</span><a href="#">我市深入推进旅游厕所建设</a></li>
+											<li><span class="date">已回复</span><a href="#">我市开展全国,数理化老师竟也看学习资料？</a></li>
+											<li><span class="date">已回复</span><a href="#">宣城市召开2019年“扫黄打非”工作会议</a></li>
+										</ul>
+										<ul>
+											<li><span class="date">未回复</span><a href="#">宣州｜水东镇坚持全域全景 推进古镇  </a></li>
+											<li><span class="date">未回复</span><a href="#">宣城市召开2019年“扫黄打非”工作会议</a></li>
+											<li><span class="date">未回复</span><a href="#">我市深入推进旅游厕所建设</a></li>
+											<li><span class="date">已回复</span><a href="#">我市开展全国,数理化老师竟也看学习资料？</a></li>
+											<li><span class="date">已回复</span><a href="#">宣城市召开2019年“扫黄打非”工作会议</a></li>
+										</ul>	
+									</div>
+								</div>
+								<div class="m-listbox fr">
+									<div class="hd">
+										<ul><li class="on"><a href="">征集调查</a></li><li class="hd-zx"><a href="">在线访谈</a></li></ul>
+									</div>
+									<div class="bd">
+										<ul>
+											<li><span class="date zj1">征集中</span><a href="#">名师教作文：３妙招巧写高分</a></li>
+											<li><span class="date zj1">征集中</span><a href="#">耶鲁小子：教你备考SAT</a></li>
+											<li><span class="date zj1">征集中</span><a href="#">施强：高端专业语言教学</a></li>
+											<li><span class="date zj2">已结束</span><a href="#">数理化老师竟也看学习资料？</a></li>
+										</ul>
+										<div class="zxft">
+											<a href="" class="fl fangt"><img src="../media/images/home/ft.jpg"></a>
+											<div class="u-intro fr">
+												<p class="tit">2019《百姓对话》县安监局</p>
+												<p>访谈日期：2019年3月15日</p>
+												<p>访谈嘉宾：县安监局党组书...</p>
+												<p>直播地点：百姓对话演播厅</p>
+											</div>
+										</div>
+									</div>
+								</div>
+								<ul class="kuozhan">
+								    <li class="kz1"><i></i><a href="">咨询投诉</a></li>
+								    <li class="kz2"><i></i><a href="">网上信访</a></li>
+								    <li class="kz3"><i></i><a href="">12345热线</a></li>
+								    <li class="kz4"><i></i><a href="">答问知识库</a></li>
+								</ul>
+							</div>
+						    <div class="jaoliu2 fr">
+							    <div class="m-listbox">
+									<div class="hd">
+										<ul><li class="on"><a href="">在线访谈</a></li></ul>
+									</div>
+									<a href="" class="fl fangt"><img src="../media/images/home/ft.jpg"></a>
+									<div class="u-intro fr">
+										<p class="tit">2019《百姓对话》县安监局</p>
+										<p>访谈日期：2019年3月15日</p>
+										<p>访谈嘉宾：县安监局党组书...</p>
+										<p>直播地点：百姓对话演播厅</p>
+									</div>
+								</div>
+								<div class="huigu">
+								    <div>
+									    <a href="">往期回顾</a>
+									</div>
+									<ul>
+										<li><a>我县召开扫黑除恶专项斗争领导小组... </a></li>
+										<li><a>2019年度全县党政信息培训暨办公室主....</a></li>
+										<li><a>中央扫黑除恶第14督导组第5小组下沉..</a></li>
+									</ul>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="m-ztbox">
+			    <div class="m-zhuanti">
+					<h1>专题专栏</h1>
+					<ul class="m-special owl-carousel">
+						<li class="item"><a><img src="../media/images/home/mcx_50.jpg"></a></li>
+						<li class="item"><a><img src="../media/images/home/mcx_50.jpg"></a></li>
+						<li class="item"><a><img src="../media/images/home/mcx_50.jpg"></a></li>
+						<li class="item"><a><img src="../media/images/home/mcx_50.jpg"></a></li>
+						<li class="item"><a><img src="../media/images/home/mcx_50.jpg"></a></li>
+					</ul>
+				</div>
+			</div>
+		 </div>
+		 
+		 <div class="gygk">
+		     <img src="../media/images/home/gy.jpg">
+		 </div>
+		  <div class="container m-links2">
+                <div class="u-piclink fl f-clearfix">
+                    <span style="color:#d00d0d;font-weight:bold;font-size:18px;">友情链接</span>
+                </div>
+                <div class="m-ftlink fl f-clearfix">
+                    <div class="m-links fl">
+                        <p class="">国家部委网站</p>
+                        <div class="m-linkbox f-pa f-dn f-clearfix" style="display: none;">
+                            <ul>
+                                <li><a href="" title="" target="_blank">国家部委网站</a></li>
+                                <li><a href="" title="" target="_blank">国家部委网站</a></li>
+                                <li><a href="" title="" target="_blank">国家部委网站</a></li>
+                                <li><a href="" title="" target="_blank">国家部委网站</a></li>
+                                <li><a href="" title="" target="_blank">国家部委网站</a></li>
+                                <li><a href="" title="" target="_blank">国家部委网站</a></li>
+                                <li><a href="" title="" target="_blank">国家部委网站</a></li>
+                                <li><a href="" title="" target="_blank">国家部委网站</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="m-links fl">
+                        <p class="">省级政府网站</p>
+                        <div class="m-linkbox f-pa f-dn f-clearfix" style="display: none;">
+                            <ul>
+                                <li><a href="" title="" target="_blank">省级政府网站</a></li>
+                                <li><a href="" title="" target="_blank">省级政府网站</a></li>
+                                <li><a href="" title="" target="_blank">省级政府网站</a></li>
+                                <li><a href="" title="" target="_blank">省级政府网站</a></li>
+                                <li><a href="" title="" target="_blank">省级政府网站</a></li>
+                                <li><a href="" title="" target="_blank">省级政府网站</a></li>
+                                <li><a href="" title="" target="_blank">省级政府网站</a></li>
+                                <li><a href="" title="" target="_blank">省级政府网站</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="m-links fl">
+                        <p class="">市级政府网站</p>
+                        <div class="m-linkbox f-pa f-dn f-clearfix" style="display: none;">
+                            <ul>
+                                <li><a href="" title="" target="_blank">市级政府网站</a></li>
+                                <li><a href="" title="" target="_blank">市级政府网站</a></li>
+                                <li><a href="" title="" target="_blank">市级政府网站</a></li>
+                                <li><a href="" title="" target="_blank">市级政府网站</a></li>
+                                <li><a href="" title="" target="_blank">市级政府网站</a></li>
+                                <li><a href="" title="" target="_blank">市级政府网站</a></li>
+                                <li><a href="" title="" target="_blank">市级政府网站</a></li>
+                                <li><a href="" title="" target="_blank">市级政府网站</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="m-links fl">
+                        <p class="">县区政府网站</p>
+                        <div class="m-linkbox f-pa f-dn f-clearfix" style="display: none;">
+                            <ul>
+                                <li><a href="" title="" target="_blank">县区政府网站</a></li>
+                                <li><a href="" title="" target="_blank">县区政府网站</a></li>
+                                <li><a href="" title="" target="_blank">县区政府网站</a></li>
+                                <li><a href="" title="" target="_blank">县区政府网站</a></li>
+                                <li><a href="" title="" target="_blank">县区政府网站</a></li>
+                                <li><a href="" title="" target="_blank">县区政府网站</a></li>
+                                <li><a href="" title="" target="_blank">县区政府网站</a></li>
+                                <li><a href="" title="" target="_blank">县区政府网站</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="m-links fl">
+                        <p class="">党群部门网站</p>
+                        <div class="m-linkbox f-pa f-dn f-clearfix" style="display: none;">
+                            <ul>
+                                <li><a href="" title="" target="_blank">党群部门网站</a></li>
+                                <li><a href="" title="" target="_blank">党群部门网站</a></li>
+                                <li><a href="" title="" target="_blank">党群部门网站</a></li>
+                                <li><a href="" title="" target="_blank">党群部门网站</a></li>
+                                <li><a href="" title="" target="_blank">党群部门网站</a></li>
+                                <li><a href="" title="" target="_blank">党群部门网站</a></li>
+                                <li><a href="" title="" target="_blank">党群部门网站</a></li>
+                                <li><a href="" title="" target="_blank">党群部门网站</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+		 <div class="is-foot">
+			 <div class="fxlist">
+			    <div class="u-shou"></div>
+				<ul>
+					<li class="fx1"><a href="" target="_blank"></a><img src="../media/images/public/ucode.png"></li>
+					<li class="fx2"><a href="" target="_blank"></a><img src="../media/images/public/ucode.png"></li>
+					<li class="fx3"><a href="" target="_blank"></a><img src="../media/images/public/ucode.png"></li>
+					<li class="fx4"><a href="" target="_blank"></a></li>
+					<li class="fx5"><a href="" target="_blank"></a>
+						<div class="m-bshare bshare-custom">
+							<a style="margin-bottom: 5px;" title="分享到微信" class="bshare-weixin"></a>
+							<a style="margin-bottom: 5px" title="分享到新浪微博" class="bshare-sinaminiblog"></a>
+							<a style="margin-bottom: 5px;" title="分享到QQ空间" class="bshare-qzone"></a>
+							<a title="分享到人人网" class="bshare-renren"></a>
+							<a title="分享到豆瓣" class="bshare-douban"></a>
+							<a style="display:none;" title="更多平台" class="bshare-more bshare-more-icon more-style-addthis"></a>
+							<script type="text/javascript" charset="utf-8" src="http://static.bshare.cn/b/buttonLite.js#style=-1&amp;uuid=&amp;pophcol=1&amp;lang=zh"></script>
+							<script type="text/javascript" charset="utf-8" src="http://static.bshare.cn/b/bshareC0.js"></script>
+						</div>
+				    </li>
+					<li class="fx6"><a href="" target="_blank"></a></li>
+				</ul>
+			 </div>
+			<div class="m-footer">
+				<div class="m-middle">
+					<div class="fl"><p>版权所有：蒙城县人民政府   主办单位：蒙城县人民政府办公室 </p><p>E-mail： mcxzwgk@163.com 备案号：皖ICP备05015246号 网站标识码：3416220001</p>  <p><a class="wgw">皖公网安备34162202000016号</a></p></div>
+					<ul class="fl">
+						<li class="f1"><a href="">网站地图</a></li>
+						<li class="f2"><a href="">隐私申明</a></li>
+						<li class="f3"><a href="">使用说明</a></li>
+					    <li class="f4"><a href="">联系我们</a></li>
+					</ul>
+					<div>
+					    <script id="_jiucuo_" sitecode='3416220001' src='http://pucha.kaipuyun.cn/exposure/jiucuo.js'></script>
+					<script type="text/javascript">document.write(unescape("%3Cspan id='_ideConac' %3E%3C/span%3E%3Cscript src='http://dcs.conac.cn/js/13/198/1564/60621165/CA131981564606211650001.js' type='text/javascript'%3E%3C/script%3E"));</script>
+					</div>
+					
+				</div>
+			</div>
+		 </div>
+		 <script src="../media/js/base.js"></script>
+	     <script src="../media/js/bootstrap.min.js"></script>
+		 <script src="../media/js/jquery.SuperSlide.2.1.js"></script>
+		 
+		 <script>
+		     jQuery(".m-flash").slide({mainCell:".bd ul",effect:"fold",autoPlay:true,interTime:4500});
+			 jQuery(".m-news").slide({ titCell:".hd li", mainCell:".bd", targetCell:".more a", autoPlay:false});
+			 jQuery(".m-listbox").slide({ titCell:".hd li", mainCell:".bd", targetCell:".more a", autoPlay:false});
+			 jQuery(".m-listbox2").slide({ titCell:".u-hd li", mainCell:".u-bd", targetCell:".more a", autoPlay:false});
+			 jQuery(".bdcont1").slide({ titCell:".c-hd li", mainCell:".c-bd", targetCell:".more a", autoPlay:false});
+			 jQuery(".m-notice").slide({mainCell:"ul",autoPage:true,effect:"topLoop",autoPlay:true,vis:2});
+			 $(function(){
+				$('.m-links').hover(function(){
+					$(this).children('.m-linkbox').show();
+					$(this).children('p').addClass('u-active');
+				},function(){
+					$(this).children('.m-linkbox').hide();
+					$(this).children('p').removeClass('u-active');
+				})
+				$(".fxlist .fx6").click(function(){
+				    $("html,body").animate({scrollTop:0},500); 
+				})
+				$('.m-special').owlCarousel({
+					loop:true,
+					margin:20,
+					nav:true,
+					autoplay: true,
+                    autoplayTimeout: 1500,
+					responsive:{
+						0:{
+							items:2
+						},
+						600:{
+							items:3
+						},
+						1000:{
+							items:5
+						}
+					}
+				})
+			})
+			
+		 </script>
+		 
+	</body>
+</html>

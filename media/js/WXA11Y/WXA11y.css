@@ -1,0 +1,69 @@
+
+.a11ytoolbar{background:url(WXA11YBG.png) repeat-x bottom left;min-width:100%;padding: 6px 0 12px;position:fixed;top:0;z-index:999999;}
+.WXA11Y{width:1032px;margin:0 auto;min-height:50px;}
+.WXA11Y:after{content:".";display:block;height:0;clear:both;visibility:hidden;}
+.WXA11Y a.fun{width: 71px;height: 72px;display:block;float:left;border-radius:10px;overflow:hidden;background-image:url(WXA11y.gif);background-repeat:no-repeat;background-color:transparent;margin: 0 3px;}
+.WXA11Y a.fun:hover{transition: all 0.3s;}
+.WXA11Y span.wx-space{display:block;float:left;width:15px;height:10px;}
+.WXA11Y a#tool-line{background-position:0 0;}
+.WXA11Y a#tool-screen{background-position: -74px 0;}
+.WXA11Y a#tool-contrast{background-position: -146px 0;}
+.WXA11Y a#font-lagre{background-position: -365px 0;}
+.WXA11Y a#font-small{background-position: -438px 0;}
+.WXA11Y a#page-zoomin{background-position: -219px 0;}
+.WXA11Y a#page-zoomout{background-position: -292px 0;}
+.WXA11Y a#tts-single{background-position: -512px 0;}   
+.WXA11Y a#tts-screenread{background-position: -585px 0;}
+.WXA11Y a#WXA11y-fold{background-position: -658px 0;}
+.WXA11Y a#WXA11y-help{background-position: -804px 0;}
+.WXA11Y a#WX-easyRead-Smooth{background-position: -731px 0;}
+
+.WXA11Y a#tool-line.active,.WXA11Y a#tool-line:hover{background-position: 0 -73px;}
+.WXA11Y a#tool-screen.active,.WXA11Y a#tool-screen:hover{background-position: -74px -73px;}
+.WXA11Y a#tool-contrast.active,.WXA11Y a#tool-contrast:hover	{background-position: -146px -73px;}
+.WXA11Y a#font-lagre.active,.WXA11Y a#font-lagre:hover{background-position: -365px -73px;}
+.WXA11Y a#font-small.active,.WXA11Y a#font-small:hover{background-position: -438px -73px;}
+.WXA11Y a#page-zoomin.active,.WXA11Y a#page-zoomin:hover{background-position: -219px -73px;}
+.WXA11Y a#page-zoomout.active,.WXA11Y a#page-zoomout:hover{background-position: -292px -73px;}
+.WXA11Y a#tts-single.active,.WXA11Y a#tts-single:hover{background-position: -512px -73px;}
+.WXA11Y a#tts-screenread.active,.WXA11Y a#tts-screenread:hover{background-position: -585px -73px;}
+.WXA11Y a#WXA11y-fold.active,.WXA11Y a#WXA11y-fold:hover{background-position: -658px -73px;}
+.WXA11Y a#WXA11y-help.active,.WXA11Y a#WXA11y-help:hover{background-position: -804px -73px;}
+.WXA11Y a#WX-easyRead-Smooth.active,.WXA11Y a#WX-easyRead-Smooth:hover{background-position: -731px -73px;}
+
+.WXA11Y-MIN{width:760px;}
+.WXA11Y-MIN a.fun{width:50px;height:50px;margin:0 4px;}
+.WXA11Y-MIN span.wx-space{width:15px;}
+.WXA11Y-MIN a#tool-line{background-position: 0px -164px;}    
+.WXA11Y-MIN a#tool-screen{background-position: -51px -164px;}
+.WXA11Y-MIN a#tool-contrast  {background-position: -102px -164px;}
+.WXA11Y-MIN a#font-lagre {background-position: -254px -164px;}
+.WXA11Y-MIN a#font-small {background-position: -307px -164px;}
+.WXA11Y-MIN a#page-zoomin{background-position: -153px -164px;}
+.WXA11Y-MIN a#page-zoomout   {background-position: -205px -164px;}
+.WXA11Y-MIN a#tts-single {background-position: -359px -164px;}
+.WXA11Y-MIN a#tts-screenread {background-position: -409px -164px;}
+.WXA11Y-MIN a#WXA11y-fold{background-position: -459px -164px;}
+.WXA11Y-MIN a#WXA11y-help{background-position: -563px -164px;}
+.WXA11Y-MIN a#WX-easyRead-Smooth   {background-position: -512px -164px;}
+
+.WXA11Y-MIN a#tool-line.active,.WXA11Y-MIN a#tool-line:hover{background-position: 1px  -215px;}
+.WXA11Y-MIN a#tool-screen.active,.WXA11Y-MIN a#tool-screen:hover	{background-position: -50px  -215px;}
+.WXA11Y-MIN a#tool-contrast.active,.WXA11Y-MIN a#tool-contrast:hover{background-position: -101px -215px;}
+.WXA11Y-MIN a#font-lagre.active,.WXA11Y-MIN a#font-lagre:hover{background-position: -254px -215px;}
+.WXA11Y-MIN a#font-small.active,.WXA11Y-MIN a#font-small:hover   {background-position: -306px -215px;}
+.WXA11Y-MIN a#page-zoomin.active,.WXA11Y-MIN a#page-zoomin:hover {background-position: -153px -215px;}
+.WXA11Y-MIN a#page-zoomout.active,.WXA11Y-MIN a#page-zoomout:hover {background-position: -205px -215px;}
+.WXA11Y-MIN a#tts-single.active,.WXA11Y-MIN a#tts-single:hover   {background-position: -359px -215px;}
+.WXA11Y-MIN a#tts-screenread.active,.WXA11Y-MIN a#tts-screenread:hover{background-position: -409px -215px;}
+.WXA11Y-MIN a#WXA11y-fold.active,.WXA11Y-MIN a#WXA11y-fold:hover  {background-position: -460px -215px;}
+.WXA11Y-MIN a#WXA11y-help.active,.WXA11Y-MIN a#WXA11y-help:hover  {background-position: -562px -215px;}
+.WXA11Y-MIN a#WX-easyRead-Smooth.active,.WXA11Y-MIN a#WX-easyRead-Smooth:hover {background-position: -511px -215px;}
+
+#a11ydisplay {color:#FFF;background-color:#333;position:fixed;left:0px;bottom:0px;width:100%;padding:15px 0;cursor:normal;}
+#a11ydisplay span {padding:0 5px;margin:-10px 0 0 5px;cursor:pointer;float:left;}
+#a11ydisplay span:hover {background-color:#fff;color:#000;}
+#a11ydisplay center {font-size:48px;}
+.mask {position:absolute;top:0;left:0;width:100%;height:100%;opacity:0.7;background:#333;filter:alpha(opacity=70);}
+.WXA11y-hover {background-color:#000!important;color:#fff!important;cursor:pointer!important;}
+.selectedEle {background-color:#000;color:#fff;}

@@ -1,0 +1,658 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">	
+		<meta name="SiteName" content="" />
+		<meta name="SiteDomain" content="" />
+		<meta name="SiteIDCode" content="" />
+		<meta name="keywords" content="" />
+		<meta name="description" content="" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+		<title>蒙城县人民政府 </title>
+		<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
+		<link rel="stylesheet" href="../media/css/bootstrap.min.css">
+		<link rel="stylesheet" href="../media/css/public.css">
+        <link rel="stylesheet" href="../media/css/home.css">
+        <script type="text/javascript" src="../media/js/jquery.js"></script>
+		<link rel="stylesheet" href="../media/css/owl.carousel.min.css">
+		<link rel="stylesheet" href="../media/css/owl.theme.default.min.css">
+		<script src="../media/js/owl.carousel.min.js"></script>
+	</head>
+	<body>
+	    <div class="is-header">
+			<div class="top-wrapper">
+			    <div class="top-content">
+				    <div class="f-left">
+				        <a href="http://www.mengcheng.gov.cn/" target="_blank">返回主站</a>
+				        |
+				        <a href="http://xxgk.bozhou.gov.cn" target="_blank">亳州市政府政务公开</a>
+				    </div>
+				    <div class="f-right">
+				        <a href="javascript:StranBody()" id="StranLink" title="繁體版">繁體版</a>
+				        |
+				        <a href="javascript:;" title="无障碍浏览" onclick="kqNav();">无障碍浏览</a>
+				    </div>
+			    </div>
+			</div>
+			<div class="banner-wrapper">
+				<div class="banner-content">
+					<div class="banner-logo">
+					    <img src="../media/images/common/logo.png" alt="">
+					</div>
+					<div class="banner-img">
+					    <img src="../media/images/common/flv.png" alt="">
+					</div>
+				</div>
+			</div>
+			<div class="m-nav navbar navbar-default" role="navigation">
+				<div class="container-fluid"> 
+					<div class="navbar-header">
+						<button type="button" class="navbar-toggle" data-toggle="collapse"
+								data-target="#example-navbar-collapse">
+							<span class="sr-only">切换导航</span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+						</button>
+						<a class="navbar-brand" href="#">网站首页</a>
+					</div>
+					<div class="collapse navbar-collapse" id="example-navbar-collapse">
+						<ul class="nav navbar-nav row">
+				            <li class="nav1"><a href="">网站首页</a></li>
+				            
+				            <li class="nav2">
+							    <a href="">公开指南与目录</a>
+							    <div class="subnav subnav1">
+								  <a href="" target="_blank">县政府部门公开指南与目录</a>
+								  <a href="" target="_blank">乡镇街道公开指南与目录</a>
+								</div>
+							</li>
+							
+				            <li class="nav3">
+							    <a href="">政策解读</a>
+								<div class="subnav subnav2">
+								  <a href="" target="_blank">上级政策解读</a>
+								  <a href="" target="_blank">本级政策解读</a>         
+								</div>
+							</li>
+				            <li class="nav4">
+							    <a href="">回应关切</a>
+								<div class="subnav subnav3">
+								  <a href="" target="_blank">主动回应</a>
+								  <a href="" target="_blank">在线访谈</a>
+								  <a href="" target="_blank">县长信箱</a>
+								  <a href="" target="_blank">部门信箱</a>
+								  <a href="" target="_blank">新闻发布会</a>
+								</div>
+							</li>
+				            <li class="nav5">
+							    <a href="">依申请公开</a>
+								<div class="subnav subnav4">
+								  <a href="" target="_blank">公开目录</a>
+								  <a href="" target="_blank">网上申请</a>
+								  <a href="" target="_blank">办理流程</a>
+								  <a href="" target="_blank">收费标准</a>
+								</div>
+							</li>
+				            <li class="nav6">
+							     <a href="">监督保障</a>
+								 <div class="subnav subnav5">
+								  <a href="" target="_blank">宣传培训</a>
+								  <a href="" target="_blank">主题活动</a>
+								  <a href="" target="_blank">工作动态</a>
+								</div>
+							</li>
+							<li class="nav7"><a href="">专题专栏</a></li>
+				        </ul> 
+					</div>
+				</div>
+            </div>
+			<div class="notice-wrapper">
+				<div class="u-date">
+				    <script type="text/javascript" src="../media/js/time.js"></script>
+				</div>
+				<div class="u-weather">
+					<iframe src="//www.seniverse.com/weather/weather.aspx?uid=UEE571E5B2&cid=CHAH080300&l=zh-CHS&p=SMART&a=0&u=C&s=4&m=0&x=1&d=0&fc=&bgc=&bc=&ti=0&in=0&li=" frameborder="0" scrolling="no" width="1000" height="27" allowTransparency="true"></iframe>
+				</div>
+
+				<div class="u-search">
+					<form action="/opennessSearch/">
+					  <input type="text" name="keywords" placeholder="--请输入搜索关键字--" class="text">
+					  <input type="submit" class="btn" value="">
+					</form>
+					<a href="/xxgkDeep/" class="deep-search">高级搜索</a>
+				</div>
+			</div>
+		</div>
+		<div class="is-main" id="container">
+		    <div class="gkfb-wrapper">
+			    <div class="hd">
+					<div class="title-icon"></div>
+					<h2>公开·发布</h2>
+					<ul>
+					  <li class="col-xs-2"><a href="" target="_blank">决策公开<i></i></a></li>
+					  <li class="col-xs-2"><a href="" target="_blank">执行公开<i></i></a></li>
+					  <li class="col-xs-2"><a href="" target="_blank">管理公开<i></i></a></li>
+					  <li class="col-xs-2"><a href="" target="_blank">服务公开<i></i></a></li>
+					  <li class="col-xs-2"><a href="" target="_blank">结果公开<i></i></a></li>
+					  <li class="col-xs-2"><a href="" target="_blank">新闻发布<i></i></a></li>
+					</ul>
+			    </div>
+
+			    <div class="bd">
+					<div class="gkfb-box row">
+					    <div class="list-box col-xs-12 col-sm-7">
+							<ul class="f-list">
+								<li><span>2019-05-24</span><a href="" target="_blank" title="关于印发《2019年教育系统文明创建暨未成年人思想道德建设工作实施方案》的通知">关于印发《2019年教育系统文明创建暨未成年人思想道德建设工作实施方案...</a></li>
+								<li><span>2019-05-21</span><a href="" target="_blank" title="蒙城县人民政府办公室关于印发蒙城县2019年度地质灾害防治方案的通知">蒙城县人民政府办公室关于印发蒙城县2019年度地质灾害防治方案的通知</a></li>
+								<li><span>2019-05-20</span><a href="" target="_blank" title="蒙城县人民政府办公室关于印发蒙城经济开发区“一区多园”管理暂行办法的通知">蒙城县人民政府办公室关于印发蒙城经济开发区“一区多园”管理暂行办法的通...</a></li>
+								<li><span>2019-05-18</span><a href="" target="_blank" title="蒙城县人民政府办公室关于印发蒙城县公共租赁住房运营管理实施细则的通知">蒙城县人民政府办公室关于印发蒙城县公共租赁住房运营管理实施细则的通知</a></li>
+								<li><span>2019-05-10</span><a href="" target="_blank" title="蒙城县人民政府办公室关于印发蒙城县河道管理范围和国有水利工程管理与保护范围划界确权登记工作方案的通知">蒙城县人民政府办公室关于印发蒙城县河道管理范围和国有水利工程管理与保护...</a></li>
+								<li><span>2019-05-10</span><a href="" target="_blank" title="图解：蒙城县“十三五”规划">图解：蒙城县“十三五”规划</a></li>
+								<li><span>2019-05-06</span><a href="" target="_blank" title="蒙城县人民政府办公室关于调整蒙城县防汛抗旱指挥部组成人员的通知">蒙城县人民政府办公室关于调整蒙城县防汛抗旱指挥部组成人员的通知</a></li>
+							</ul>
+					    </div>
+					    <div class="btn-box col-xs-12 col-sm-5">
+							<ul class="gkfb-btns row">
+								<li class="b1 col-xs-6 col-xs-4"><a href="" target="_blank"><div class="icon"><i></i></div>法规规章</a></li>
+								<li class="b2 col-xs-6 col-xs-4"><a href="" target="_blank"><div class="icon"><i></i></div>规范性文件发布</a></li>
+								<li class="b3 col-xs-6 col-xs-4"><a href="" target="_blank"><div class="icon"><i></i></div>国民经济和社会发展规划</a></li>
+								<li class="b4 col-xs-6 col-xs-4"><a href="" target="_blank"><div class="icon"><i></i></div>重大项目</a></li>
+								<li class="b5 col-xs-6 col-xs-4"><a href="" target="_blank"><div class="icon"><i></i></div>意见征集</a></li>
+							</ul>
+					    </div>
+					</div>
+					<div class="gkfb-box row">
+					    <div class="list-box col-xs-12 col-sm-7">
+							<ul class="f-list">
+								<li><span>2019-06-14</span><a href="" target="_blank" title="开发区组织召开2019年第二季度在建项目安全生产暨扬尘治理专项工作会议">开发区组织召开2019年第二季度在建项目安全生产暨扬尘治理专项工作会议</a></li>
+								<li><span>2019-06-06</span><a href="" target="_blank" title="关于印发《2019年省级流通业发展专项资金项目申报指南》的通知">关于印发《2019年省级流通业发展专项资金项目申报指南》的通知</a></li>
+								<li><span>2019-06-05</span><a href="" target="_blank" title="中共蒙城县委审计委员会第一次会议举行">中共蒙城县委审计委员会第一次会议举行</a></li>
+								<li><span>2019-06-04</span><a href="" target="_blank" title="县委副书记怀颖带队赴江苏招商引资">县委副书记怀颖带队赴江苏招商引资</a></li>
+								<li><span>2019-05-31</span><a href="" target="_blank" title="蒙城县商务局深入推进农村电商发展">蒙城县商务局深入推进农村电商发展</a></li>
+								<li><span>2019-05-31</span><a href="" target="_blank" title="我县1-4月份实际利用外资取得好成绩">我县1-4月份实际利用外资取得好成绩</a></li>
+								<li><span>2019-05-31</span><a href="" target="_blank" title="蒙城县审计局积极开展动物防疫专项资金审计调查">蒙城县审计局积极开展动物防疫专项资金审计调查</a></li>
+							</ul>
+					    </div>
+					    <div class="btn-box col-xs-12 col-sm-5">
+							<ul class="gkfb-btns gkfb-btns1 row">
+								<li class="b1 col-xs-4"><a href="" target="_blank"><div class="icon"><i></i></div>政府年度重点工作任务分解</a></li>
+								<li class="b2 col-xs-4"><a href="" target="_blank"><div class="icon"><i></i></div>决策部署落实情况</a></li>
+								<li class="b3 col-xs-4"><a href="" target="_blank"><div class="icon"><i></i></div>年度重点工作进展和完成情况</a></li>
+							</ul>
+					    </div>
+					</div>
+					<div class="gkfb-box row">
+					    <div class="list-box col-xs-12 col-sm-7">
+							<ul class="f-list">
+								<li><span>2019-05-29</span><a href="" target="_blank" title="关于2019年上半年中介服务清单的情况说明">关于2019年上半年中介服务清单的情况说明</a></li>
+								<li><span>2019-05-29</span><a href="" target="_blank" title="关于2019年上半年涉企收费清单的情况说明">关于2019年上半年涉企收费清单的情况说明</a></li>
+								<li><span>2019-05-29</span><a href="" target="_blank" title="蒙城县2018年审计整改情况说明">蒙城县2018年审计整改情况说明</a></li>
+								<li><span>2019-05-29</span><a href="" target="_blank" title="蒙城县2018年财政审计情况说明">蒙城县2018年财政审计情况说明</a></li>
+								<li><span>2019-05-24</span><a href="" target="_blank" title="关于2019年上半年权责清单的情况说明">关于2019年上半年权责清单的情况说明</a></li>
+								<li><span>2019-05-21</span><a href="" target="_blank" title="蒙城县审计局关于蒙城县2016年全面改薄项目（吕望、范集张集二个学区）第二标段工程价款结算意见的函">蒙城县审计局关于蒙城县2016年全面改薄项目（吕望、范集张集二个学区）...</a></li>
+								<li><span>2019-05-21</span><a href="" target="_blank" title="蒙城县审计局对蒙城县改善农村人居环境建设项目庄周街道办事处马店美丽乡村广场及附属绿化工程价款结算意见的函">蒙城县审计局对蒙城县改善农村人居环境建设项目庄周街道办事处马店美丽乡村...</a></li>
+							</ul>
+					    </div>
+					    <div class="btn-box col-xs-12 col-sm-5">
+							<ul class="gkfb-btns gkfb-btns1 gkfb-btns2 row">
+							  <li class="b1 col-xs-4"><a href="" target="_blank"><div class="icon"><i></i></div>审计公开</a></li>
+							  <li class="b2 col-xs-4"><a href="" target="_blank"><div class="icon"><i></i></div>行政权力</a></li>
+							  <li class="b3 col-xs-4"><a href="" target="_blank"><div class="icon"><i></i></div>双公示</a></li>
+					 		</ul>
+					    </div>
+					</div>
+					<div class="gkfb-box row">
+					    <div class="list-box col-xs-12 col-sm-7">
+							<ul class="f-list">
+								<li><span>2019-05-29</span><a href="" target="_blank" title="关于2019年上半年公共服务清单的情况说明">关于2019年上半年公共服务清单的情况说明</a></li>
+								<li><span>2018-12-11</span><a href="" target="_blank" title="蒙城县人民政府关于公布蒙城县县级政府公共服务清单目录（2018年本）的通知">蒙城县人民政府关于公布蒙城县县级政府公共服务清单目录（2018年本）的...</a></li>
+								<li><span>2018-07-16</span><a href="" target="_blank" title="蒙城县县级中介服务清单汇总表">蒙城县县级中介服务清单汇总表</a></li>
+								<li><span>2018-07-16</span><a href="" target="_blank" title="蒙城县乡镇政府（街道办事处）公共服务清单汇总表">蒙城县乡镇政府（街道办事处）公共服务清单汇总表</a></li>
+								<li><span>2017-11-30</span><a href="" target="_blank" title="蒙城县乡镇（街道）公共服务办事指南">蒙城县乡镇（街道）公共服务办事指南</a></li>
+								<li><span>2017-11-21</span><a href="" target="_blank" title="蒙城县人社局县级政府公共服务清单目录（2017年本）">蒙城县人社局县级政府公共服务清单目录（2017年本）</a></li>
+								<li><span>2017-11-03</span><a href="" target="_blank" title="蒙城县人民政府关于公布蒙城县县级政府公共服务清单目录（2017年本）的通知">蒙城县人民政府关于公布蒙城县县级政府公共服务清单目录（2017年本）的...</a></li>
+							</ul>
+					    </div>
+					    <div class="btn-box col-xs-12 col-sm-5">
+							<ul class="gkfb-btns gkfb-btns1 gkfb-btns3 row">
+							  <li class="b1 col-xs-4"><a href="" target="_blank"><div class="icon"><i></i></div>公共服务清单</a></li>
+							  <li class="b2 col-xs-4"><a href="" target="_blank"><div class="icon"><i></i></div>网上办事大厅</a></li>
+							  <li class="b3 col-xs-4"><a href="" target="_blank"><div class="icon"><i></i></div>行政权力集中展示</a></li>
+							</ul>
+					    </div>
+					</div>
+				<div class="gkfb-box row">
+				  <div class="list-box col-xs-12 col-sm-7">
+					<ul class="f-list">
+					  <!-- BEGIN xxgkfive-all_result_7_0_35_1_0_0 -->
+					  <li><span>2019-06-18</span><a href="" target="_blank" title="六月份我县申报项目入库情况">六月份我县申报项目入库情况</a></li>
+					  <li><span>2019-06-18</span><a href="" target="_blank" title="我县五月份固定资产投资增幅全市第二">我县五月份固定资产投资增幅全市第二</a></li>
+					  <li><span>2019-06-18</span><a href="" target="_blank" title=" 1-5月份我县限上消费品零售额平稳增长"> 1-5月份我县限上消费品零售额平稳增长</a></li>
+					  <li><span>2019-05-23</span><a href="" target="_blank" title="四月份，我县三大主导产业累计完成产值占比达到74.4%">四月份，我县三大主导产业累计完成产值占比达到74.4%</a></li>
+					  <li><span>2019-05-20</span><a href="" target="_blank" title="2019年四月规模以上工业产值完成情况">2019年四月规模以上工业产值完成情况</a></li>
+					  <li><span>2019-05-20</span><a href="" target="_blank" title="1-4月全县主要经济指标完成情况">1-4月全县主要经济指标完成情况</a></li>
+					  <li><span>2019-05-20</span><a href="" target="_blank" title="五月份我县申报项目入库情况">五月份我县申报项目入库情况</a></li>
+					</ul>
+				  </div>
+				  <div class="btn-box col-xs-12 col-sm-5">
+					<ul class="gkfb-btns gkfb-btns1 gkfb-btns4 row">
+					  <li class="b1 col-xs-4"><a href="" target="_blank"><div class="icon"><i></i></div>政府工作报告</a></li>
+					  <li class="b2 col-xs-4"><a href="" target="_blank"><div class="icon"><i></i></div>信息公开年报</a></li>
+					  <li class="b3 col-xs-4"><a href="" target="_blank"><div class="icon"><i></i></div>统计信息</a></li>
+					</ul>
+				  </div>
+				</div>
+				<div class="gkfb-box row">
+				 <div class="xwfb-panel col-xs-12 col-sm-7">
+					<img src="http://www.bozhou.gov.cn/upload3//5c01f4967f8b9a6a384e2a18/201812/20181228103033217_id8rTufZ_258x193.jpg">
+					<div>
+					  <h4><a href="/openness/detail/content/5c232888da32936a2cb210f0.html" target="_blank" title="【发布实录】蒙城县2018年公共资源交易监管工作成效新闻发布会">【发布实录】蒙城县2018年公共资...</a></h4>
+					  <span><b>时间：</b>2018-12-23</span>
+					  <p><b>概述：</b>蒙城县2018年公共资源交易监管工作成效新闻发布会<a href="/openness/detail/content/5c232888da32936a2cb210f0.html" target="_blank">【查看详细】</a></p><p>
+					</p></div>
+				  </div>
+				  <div class="list-box xwfb-list col-xs-12 col-sm-5 f-br0 f-bl1">
+					<ul class="f-list">
+					  <li><span>2019-04-18</span><a href="/openness/detail/content/5cbfb6e6da32930c7c8213cf.html" target="_blank" title="【发布实录】 蒙城县扫黑办召开扫黑除恶专项斗争新闻发布会">【发布实录】 蒙城县扫黑办召开扫黑除恶专项斗争新闻...</a></li>
+					  <li><span>2019-01-15</span><a href="/openness/detail/content/5c3da618da3293213aa09212.html" target="_blank" title="【发布实录】蒙城县公安局召开关于2018年扫黑除恶专项行动有关情况的新闻发布会">【发布实录】蒙城县公安局召开关于2018年扫黑除恶...</a></li>
+					  <li><span>2018-12-31</span><a href="/openness/detail/content/5c36e07eda3293701e773947.html" target="_blank" title="【发布实录】蒙城县2018年1-11月份经济运行情况新闻发布会">【发布实录】蒙城县2018年1-11月份经济运行情...</a></li>
+					  <li><span>2018-12-30</span><a href="/openness/detail/content/5c36e2a3da32938631952d2f.html" target="_blank" title="【发布实录】蒙城县2018年乡村文化旅游建设新闻发布会">【发布实录】蒙城县2018年乡村文化旅游建设新闻发...</a></li>
+					  <li><span>2018-12-28</span><a href="/openness/detail/content/5c418fa2da32934a3abb1d41.html" target="_blank" title="【发布实录】蒙城县市场监督管理局召开质量工作新闻发布会">【发布实录】蒙城县市场监督管理局召开质量工作新闻发...</a></li>
+					  <li><span>2018-12-23</span><a href="/openness/detail/content/5c232888da32936a2cb210f0.html" target="_blank" title="【发布实录】蒙城县2018年公共资源交易监管工作成效新闻发布会">【发布实录】蒙城县2018年公共资源交易监管工作成...</a></li>
+					  <li><span>2018-12-14</span><a href="/openness/detail/content/5c232414da3293b803631d9d.html" target="_blank" title="【发布实录】蒙城县2018年秋种新闻发布会实录">【发布实录】蒙城县2018年秋种新闻发布会实录</a></li>
+					</ul>
+				  </div>
+				</div>
+			  </div>
+			</div>
+			<div class="ztzl-wrapper">
+				<div class="title"><a href="/special/" target="_blank">专题专栏</a></div>
+				<ul class="m-zttp owl-carousel">
+					<li class="item"><a href="" target="_blank"><img src="../media/images/static/mc.png" alt=""></a></li>
+					<li class="item"><a href="" target="_blank"><img src="../media/images/static/ztzl-img1.jpg" alt=""></a></li>
+					<li class="item"><a href="" target="_blank"><img src="../media/images/static/ztzl-img2.jpg" alt=""></a></li>
+					<li class="item"><a href="" target="_blank"><img src="../media/images/static/ztzl-img3.jpg" alt=""></a></li>
+					<li class="item"><a href="" target="_blank"><img src="../media/images/static/ztzl-img4.jpg" alt=""></a></li>
+					<li class="item"><a href="" target="_blank"><img src="../media/images/static/shuanggongshi.png" alt=""></a></li>
+					<li class="item"><a href="" target="_blank"><img src="../media/images/static/niandubaogao.png" alt=""></a></li>
+					<li class="item"><a href="" target="_blank"><img src="../media/images/static/yujuesuan.png" alt=""></a></li>
+					<li class="item"><a href="" target="_blank"><img src="../media/images/static/xingzhenquanli.png" alt=""></a></li>
+				</ul>
+			</div>
+			<div class="zdly-wrapper">
+				<div class="title">
+					<div class="title-icon"></div>
+					<h2>重点领域信息公开</h2>
+					<a href="/opennessPoint/" class="go">走进专栏</a>
+				</div>
+				<div class="box">
+					<div class="hd">
+						<ul>
+							<li><a href="/opennessContent/?branch_id=53fe9198cbb812e0d509f770&column_code=17000000" target="_blank">公共资源配置</a></li>
+							<li><a href="/opennessContent/?branch_id=53fe9198cbb812e0d509f770&column_code=180000" target="_blank">公共服务与民生</a></li>
+							<li><a href="/opennessContent/?branch_id=53fe9198cbb812e0d509f770&column_code=190000" target="_blank">公共监管信息</a></li>
+							<li><a href="/opennessContent/?branch_id=53fe9198cbb812e0d509f770&column_code=150000" target="_blank">财政资金</a></li>
+							<li><a href="/opennessContent/?branch_id=53fe9198cbb812e0d509f770&column_code=70000" target="_blank">行政权力</a></li>
+						</ul>
+					</div>
+					<div class="bd">
+						<div class="zdly-box">
+							<p>公共资源配置信息公开专栏的建设情况；重点公开棚户区改造建设项目信息、保障性住房分配信息；大力做好棚户区改造用地年度供应计划、供地时序、宗地规划条件和土地使用要求等信息公开；全面做好国有土地上房屋征收决定、补助奖励政策和标准、初步评估结果、补偿方案、标准和结果等信息公开。</p>
+							<ul class="zdly-lists">
+							  <li class="col-xs-4 col-md-3"><a href="/opennessContent/?branch_id=53fe9198cbb812e0d509f770&column_code=17010000" target="_blank">土地征收</a></li>
+							  <li class="col-xs-4 col-md-3"><a href="/opennessContent/?branch_id=53fe9198cbb812e0d509f770&column_code=17030000" target="_blank">国有建设用地使用权出让</a></li>
+							  <li class="col-xs-4 col-md-3"><a href="/opennessContent/?branch_id=53fe9198cbb812e0d509f770&column_code=17040000" target="_blank">矿业权出让</a></li>
+							  <li class="col-xs-4 col-md-3"><a href="/opennessContent/?branch_id=53fe9198cbb812e0d509f770&column_code=17050000" target="_blank">房屋征收与补偿</a></li>
+							  <li class="col-xs-4 col-md-3"><a href="/opennessContent/?branch_id=53fe9198cbb812e0d509f770&column_code=17220100" target="_blank">保障性住房</a></li>
+							  <li class="col-xs-4 col-md-3"><a href="/opennessContent/?branch_id=53fe9198cbb812e0d509f770&column_code=17220300" target="_blank">棚户区改造</a></li>
+							  <li class="col-xs-4 col-md-3"><a href="/opennessContent/?branch_id=53fe9198cbb812e0d509f770&column_code=17220200" target="_blank">农村危房改造</a></li>
+							  <li class="col-xs-4 col-md-3"><a href="/opennessContent/?branch_id=53fe9198cbb812e0d509f770&column_code=17110000" target="_blank">政府采购</a></li>
+							  <li class="col-xs-4 col-md-3"><a href="/opennessContent/?branch_id=53fe9198cbb812e0d509f770&column_code=17220400" target="_blank">住房公积金管理</a></li>
+							  <li class="col-xs-4 col-md-3"><a href="/opennessContent/?branch_id=53fe9198cbb812e0d509f770&column_code=17170000" target="_blank">公立医疗机构采购</a></li>
+							  <li class="col-xs-4 col-md-3"><a href="/opennessContent/?branch_id=53fe9198cbb812e0d509f770&column_code=17190000" target="_blank">国有产权交易</a></li>
+							  <li class="col-xs-4 col-md-3"><a href="/opennessContent/?branch_id=53fe9198cbb812e0d509f770&column_code=17220000" target="_blank">住房保障</a></li>
+							  <li class="col-xs-4 col-md-3"><a href="/opennessContent/?branch_id=53fe9198cbb812e0d509f770&column_code=17230000" target="_blank">公共资源交易目录</a></li>
+							</ul>
+						</div>
+						<div class="zdly-box">
+							<p>公共服务信息公开专栏的建设情况；推进社会保险信息公开，定期公开各项社会保险参保情况、待遇支付情况和水平，社会保险基金收支、结余和收益情况等信息；推进教育领域信息公开，公开招录咨询、申诉渠道、重大违规处理结果、录取新生复查结果等信息公开，加大学校财务公开力度；深化医疗卫生领域信息公开，重点公开重大突发公共卫生事件等信息，全面公开各类医疗机构的服务、价格、收费等信息。</p>
+							<ul class="zdly-lists">  
+							  <li class="col-xs-4 col-md-3"><a href="/opennessContent/?branch_id=53fe9198cbb812e0d509f770&column_code=180200" target="_blank">税收优惠和减免政策</a></li> 
+							  <li class="col-xs-4 col-md-3"><a href="/opennessContent/?branch_id=53fe9198cbb812e0d509f770&column_code=180600" target="_blank">社会保险</a></li>
+							  <li class="col-xs-4 col-md-3"><a href="/opennessContent/?branch_id=53fe9198cbb812e0d509f770&column_code=180700" target="_blank">就业创业</a></li>
+							  <li class="col-xs-4 col-md-3"><a href="/opennessContent/?branch_id=53fe9198cbb812e0d509f770&column_code=181200" target="_blank">社会组织</a></li>
+							  <li class="col-xs-4 col-md-3"><a href="/opennessContent/?branch_id=53fe9198cbb812e0d509f770&column_code=181100" target="_blank">户政服务</a></li>
+							  <li class="col-xs-4 col-md-3"><a href="/opennessContent/?branch_id=53fe9198cbb812e0d509f770&column_code=180100" target="_blank">促进消费升级</a></li>
+							  <li class="col-xs-4 col-md-3"><a href="/opennessContent/?branch_id=53fe9198cbb812e0d509f770&column_code=181400" target="_blank">市政服务</a></li>
+							  <li class="col-xs-4 col-md-3"><a href="/opennessContent/?branch_id=53fe9198cbb812e0d509f770&column_code=181700" target="_blank">司法行政</a></li>
+							  
+							</ul>
+						</div>
+						<div class="zdly-box">
+							<p>环境保护信息公开专栏的建设情况；做好环境重点监管对象名录和区域环境质量状况公开，加大环境执法检查依据、内容、标准、程序和结果公开力度；加强突发环境事件信息公开，及时公布应对情况及调查结果。</p>
+							<ul class="zdly-lists">
+							  <li class="col-xs-4 col-md-3"><a href="/opennessContent/?branch_id=53fe9198cbb812e0d509f770&column_code=190200" target="_blank">安全生产</a></li>
+							  <li class="col-xs-4 col-md-3"><a href="/opennessContent/?branch_id=53fe9198cbb812e0d509f770&column_code=190300" target="_blank">国有企业信息</a></li>
+							  <li class="col-xs-4 col-md-3"><a href="/opennessContent/?branch_id=53fe9198cbb812e0d509f770&column_code=190400" target="_blank">食品和药品安全</a></li>
+							  <li class="col-xs-4 col-md-3"><a href="/opennessContent/?branch_id=53fe9198cbb812e0d509f770&column_code=190500" target="_blank">产品质量监管</a></li>
+							  <li class="col-xs-4 col-md-3"><a href="/opennessContent/?branch_id=53fe9198cbb812e0d509f770&column_code=190600" target="_blank">旅游市场监管</a></li>
+							  <li class="col-xs-4 col-md-3"><a href="/opennessContent/?branch_id=53fe9198cbb812e0d509f770&column_code=190700" target="_blank">知识产权监管</a></li>
+							  <li class="col-xs-4 col-md-3"><a href="/opennessContent/?branch_id=53fe9198cbb812e0d509f770&column_code=190800" target="_blank">信用信息</a></li>
+							  <li class="col-xs-4 col-md-3"><a href="/opennessContent/?branch_id=53fe9198cbb812e0d509f770&column_code=191000" target="_blank">金融市场监管</a></li>
+							  <li class="col-xs-4 col-md-3"><a href="/opennessContent/?branch_id=53fe9198cbb812e0d509f770&column_code=191100" target="_blank">房地产市场监管</a></li>
+							  <li class="col-xs-4 col-md-3"><a href="/opennessContent/?branch_id=53fe9198cbb812e0d509f770&column_code=191600" target="_blank">交通运输监管</a></li>
+							  <li class="col-xs-4 col-md-3"><a href="/opennessContent/?branch_id=53fe9198cbb812e0d509f770&column_code=192100" target="_blank">物业管理</a></li>
+							</ul>
+						</div>
+						<div class="zdly-box">
+							<p>财政资金信息公开专栏的建设情况；细化预决算公开内容；细化"三公"经费预决算公开；及时完整公开政府采购项目信息、采购文件、中标或成交结果、采购合同、投诉处理结果等信息。</p>
+							<ul class="zdly-btns">
+							<!--   <li class="b1"><a href="/opennessContent/?branch_id=53fe9198cbb812e0d509f770&column_code=150700" target="_blank"><i></i>政府性基金目录清单</a></li> -->
+							  <li class="b2 col-xs-4 col-md-3"><a href="/opennessContent/?branch_id=53fe9198cbb812e0d509f770&column_code=150800" target="_blank"><i></i>政府债务</a></li>
+							  <li class="b3 col-xs-4 col-md-3"><a href="/opennessContent/?branch_id=53fe9198cbb812e0d509f770&column_code=150900" target="_blank"><i></i>财政收支情况</a></li>
+							  <li class="b4 col-xs-4 col-md-3"><a href="/opennessContent/?branch_id=53fe9198cbb812e0d509f770&column_code=150300" target="_blank"><i></i>县政府年度财政预决算</a></li>
+							  <li class="b5 col-xs-4 col-md-3"><a href="/opennessContent/?branch_id=53fe9198cbb812e0d509f770&column_code=150200" target="_blank"><i></i>“三公”经费预决算情况</a></li>
+							</ul>
+						</div>
+						<div class="zdly-box">
+							<p>行政权力清单公开专栏的建设情况；公开政府部门的行政职权及其法律依据、实施主体、运行流程、监督方式等信息；及时公开服务指南，列明设定依据、申请条件、申请材料、基本流程、审批时限、收费依据及标准、审批决定证件、年检要素、注意事项等审批事项以及受理、进展情况、结果等信息。</p>
+							<ul class="zdly-btns zdly-btns1">
+							  <li class="b1 col-xs-4 col-md-3"><a href="/opennessContent/?branch_id=53fe9198cbb812e0d509f770&column_code=70100" target="_blank"><i></i>权力和责任清单</a></li>
+							  <li class="b2 col-xs-4 col-md-3"><a href="/opennessContent/?branch_id=53fe9198cbb812e0d509f770&column_code=70200" target="_blank"><i></i>清理与调整职权</a></li>
+							  <!-- <li class="b3"><a href="/opennessContent/?branch_id=53fe9198cbb812e0d509f770&column_code=70300" target="_blank"><i></i>公共服务<br>清单</a></li> -->
+							  <li class="b4 col-xs-4 col-md-3"><a href="/opennessContent/?branch_id=53fe9198cbb812e0d509f770&column_code=70400" target="_blank"><i></i>涉企收费<br>清单</a></li>
+							  <li class="b5 col-xs-4 col-md-3"><a href="/opennessPublicitymc/" target="_blank"><i></i>双公示</a></li>
+							  <li class="b6 col-xs-4 col-md-3"><a href="/opennessRightmc/?parent_branch_id=53feeeb19a05c211390341fc" target="_blank"><i></i>职权目录及办理情况</a></li>
+							</ul>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="zfgb-wrapper f-left">
+			    <div class="title">
+					<div class="title-icon"></div>
+					<h2><a href="/gazette/" target="_blank">政府公报</a></h2>
+			    </div>
+			    <div class="box">
+					<a href="/gazette/" target="_blank"><img src="../media/images/static/zfgb-img.jpg" alt=""></a>
+			    </div>
+			</div>
+			<div class="m-tabs-box  m-benji f-right">
+				<div class="hd tabA">
+				    <div class="title-icon"></div>
+					<ul>
+                       <li class="on"><a href="">政策解读</a></li>
+					   <li><a href="">回应关切</a></li>
+					   <li><a href="">公众参与</a></li>
+					</ul>
+				</div>
+				<div class="bd">
+				    <div class="ej m-zcjd">
+					    <div class="u-hd tabA1">
+							<ul>
+								<li class="on"><a href="">上级政策解读</a></li>
+								<li><a href="">本级政策解读</a></li>
+							</ul>
+						</div>
+						<div class="u-bd f-list">
+							<ul>
+								<li><span class="date">2011-11-11</span><a href="#" class="u-h">宣州｜水东镇坚持全域全景 推进古镇旅游新发展</a></li>
+								<li><span class="date">2011-11-11</span><a href="#" class="u-h">宣城市召开2019年“扫黄打非”工作会议</a></li>
+								<li><span class="date">2011-11-11</span><a href="#" class="u-h">我市深入推进旅游厕所建设</a></li>
+								<li><span class="date">2011-11-11</span><a href="#" class="u-h">我市开展全国,数理化老师竟也看学习资料？</a></li>
+								<li><span class="date">2011-11-11</span><a href="#" class="u-h">宣城市召开2019年“扫黄打非”工作会议</a></li>
+								<li><span class="date">2011-11-11</span><a href="#" class="u-h">我市深入推进旅游厕所建设</a></li>
+							</ul>
+							<ul style="display:none;">
+								<li><span class="date">2011-11-11</span><a href="#" class="u-h">宣州｜水东镇坚持全域全景 推进古镇旅游新发展</a></li>
+								<li><span class="date">2011-11-11</span><a href="#" class="u-h">宣城市召开2019年“扫黄打非”工作会议</a></li>
+								<li><span class="date">2011-11-11</span><a href="#" class="u-h">我市深入推进旅游厕所建设</a></li>
+								<li><span class="date">2011-11-11</span><a href="#" class="u-h">我市开展全国,数理化老师竟也看学习资料？</a></li>
+								<li><span class="date">2011-11-11</span><a href="#" class="u-h">宣城市召开2019年“扫黄打非”工作会议</a></li>
+								<li><span class="date">2011-11-11</span><a href="#" class="u-h">我市深入推进旅游厕所建设</a></li>
+							</ul>
+						</div>
+					</div>
+					<ul class="ej f-list">
+						<li><span class="date">2011-11-11</span><a href="#" class="u-h">宣州｜水东镇坚持全域全景 推进古镇旅游新发展</a></li>
+						<li><span class="date">2011-11-11</span><a href="#" class="u-h">宣城市召开2019年“扫黄打非”工作会议</a></li>
+						<li><span class="date">2011-11-11</span><a href="#" class="u-h">我市深入推进旅游厕所建设</a></li>
+						<li><span class="date">2011-11-11</span><a href="#" class="u-h">我市开展全国,数理化老师竟也看学习资料？</a></li>
+						<li><span class="date">2011-11-11</span><a href="#" class="u-h">宣城市召开2019年“扫黄打非”工作会议</a></li>
+						<li><span class="date">2011-11-11</span><a href="#" class="u-h">我市深入推进旅游厕所建设</a></li>
+					</ul>
+					<ul class="ej f-list">
+						<li><span class="date">2011-11-11</span><a href="#" class="u-h">宣州｜水东镇坚持全域全景 推进古镇旅游新发展</a></li>
+						<li><span class="date">2011-11-11</span><a href="#" class="u-h">宣城市召开2019年“扫黄打非”工作会议</a></li>
+						<li><span class="date">2011-11-11</span><a href="#" class="u-h">我市深入推进旅游厕所建设</a></li>
+						<li><span class="date">2011-11-11</span><a href="#" class="u-h">我市开展全国,数理化老师竟也看学习资料？</a></li>
+						<li><span class="date">2011-11-11</span><a href="#" class="u-h">宣城市召开2019年“扫黄打非”工作会议</a></li>
+						<li><span class="date">2011-11-11</span><a href="#" class="u-h">我市深入推进旅游厕所建设</a></li>
+					</ul>
+				</div>
+			</div>
+			<div class="zfgb-wrapper tjsj-wrapper f-left">
+				<div class="title">
+					<div class="title-icon"></div>
+					<h2><a style="cursor: default;" target="_blank">统计数据</a></h2>
+				</div>
+				<div class="box ranks-box">
+					<div class="hd">
+						<ul>
+							<!--  <li><a href="/opennessmonth/" target="_blank">按月份统计</a></li>
+							<li><a href="/opennessyear/" target="_blank">按年份统计</a></li> -->
+							<li><a style="cursor: default;" target="_blank">按月份统计</a></li>
+							<li><a style="cursor: default;" target="_blank">按年份统计</a></li>
+						</ul>
+					</div>
+					<div class="bd">
+						<ul class="rank-list">
+							<li><span>567</span>蒙城县政府（办公室）</li>
+							<li><span>178</span>蒙城县商务局</li>
+							<li><span>132</span>蒙城县坛城镇</li>
+							<li><span>130</span>蒙城县民政局</li>
+							<li><span>97</span>蒙城县人力资源和社会保障局</li>
+						</ul>
+						<ul class="rank-list">
+							<li><span>3559</span>蒙城县政府（办公室）</li>
+							<li><span>1071</span>蒙城县商务局</li>
+							<li><span>835</span>蒙城县民政局</li>
+							<li><span>692</span>蒙城县坛城镇</li>
+							<li><span>421</span>蒙城县人力资源和社会保障局</li>
+						</ul>
+					</div>
+				</div>
+			</div>
+			<div class="gkfb-wrapper jdbz-wrapper f-left">
+				<div class="hd">
+					<div class="title-icon"></div>
+					<a href="/opennessContent/?branch_id=53fe9198cbb812e0d509f770&column_code=890000" target="_blank"><h2>监督保障</h2></a>
+					<ul>
+					  <li class="col-xs-3"><a href="/opennessContent/?branch_id=53fe9198cbb812e0d509f770&column_code=890900" target="_blank">工作动态<i></i></a></li>
+					  <li class="col-xs-3"><a href="/opennessContent/?branch_id=53fe9198cbb812e0d509f770&column_code=890700" target="_blank">经验交流<i></i></a></li>
+					  <li class="col-xs-3"><a href="/opennessContent/?branch_id=53fe9198cbb812e0d509f770&column_code=890800" target="_blank">考核培训<i></i></a></li>
+					  <li class="col-xs-3"><a href="/opennessContent/?branch_id=53fe9198cbb812e0d509f770&column_code=890600" target="_blank">主题活动<i></i></a></li>
+					</ul>
+				</div>
+
+				<div class="bd">
+					<ul class="f-list">
+						<li><span>2019-06-14</span><a href="/openness/detail/content/5d02eb2207b4be7d6a8b456b.html" target="_blank" title="开发区组织召开2019年第二季度在建项目安全生产暨扬尘治理专项工作会议">开发区组织召开2019年第二季度在建项目安全生产暨扬尘治理专项工...</a></li>
+						<li><span>2019-06-06</span><a href="/openness/detail/content/5cf884ef3c22062b488b456b.html" target="_blank" title="关于印发《2019年省级流通业发展专项资金项目申报指南》的通知">关于印发《2019年省级流通业发展专项资金项目申报指南》的通知</a></li>
+						<li><span>2019-06-05</span><a href="/openness/detail/content/5cf729603c220657098b4567.html" target="_blank" title="中共蒙城县委审计委员会第一次会议举行">中共蒙城县委审计委员会第一次会议举行</a></li>
+						<li><span>2019-06-04</span><a href="/openness/detail/content/5cf639a707b4be15058b4567.html" target="_blank" title="县委副书记怀颖带队赴江苏招商引资">县委副书记怀颖带队赴江苏招商引资</a></li>
+						<li><span>2019-05-31</span><a href="/openness/detail/content/5cf0784f07b4beee718b4567.html" target="_blank" title="蒙城县商务局深入推进农村电商发展">蒙城县商务局深入推进农村电商发展</a></li>
+						<li><span>2019-05-31</span><a href="/openness/detail/content/5cf07a4307b4be71768b4567.html" target="_blank" title="我县1-4月份实际利用外资取得好成绩">我县1-4月份实际利用外资取得好成绩</a></li>
+					</ul>
+					<ul class="f-list">
+						<li><span>2018-04-24</span><a href="/openness/detail/content/5c2080d7da32931526a52a58.html" target="_blank" title="宁波江北区考察团来蒙学习“两化”试点工作">宁波江北区考察团来蒙学习“两化”试点工作</a></li>
+						<li><span>2018-03-29</span><a href="/openness/detail/content/5c19feadda3293c960cda79c.html" target="_blank" title="山东省临沂市政府办来蒙学习考察政务公开工作">山东省临沂市政府办来蒙学习考察政务公开工作</a></li>
+					</ul>
+					<ul class="f-list">
+						<li><span>2019-06-04</span><a href="/openness/detail/content/5cf63bea3c2206f2328b4567.html" target="_blank" title="县委组织部对开发区第三批非公党建指导员进行考核">县委组织部对开发区第三批非公党建指导员进行考核</a></li>
+						<li><span>2019-05-20</span><a href="/openness/detail/content/5ce2594d07b4be4a368b4569.html" target="_blank" title="我县召开政府网站集约化平台建设专题会">我县召开政府网站集约化平台建设专题会</a></li>
+						<li><span>2019-03-22</span><a href="/openness/detail/content/5cafed8eda3293984d91aad3.html" target="_blank" title="蒙城县人民政府办公室关于2018年度全县政务公开政府网站考核情况的通报">蒙城县人民政府办公室关于2018年度全县政务公开政府网站考核情况...</a></li>
+						<li><span>2019-01-23</span><a href="/openness/detail/content/5c6e49c3da32938e4f5df48a.html" target="_blank" title="蒙城县人民政府办公室关于开展2018年度政务公开政府网站考评工作的通知">蒙城县人民政府办公室关于开展2018年度政务公开政府网站考评工作...</a></li>
+						<li><span>2018-12-07</span><a href="/openness/detail/content/5c2492e6da32939e4aaa9d43.html" target="_blank" title=" 我县举办基层政务公开业务培训班"> 我县举办基层政务公开业务培训班</a></li>
+						<li><span>2018-12-05</span><a href="/openness/detail/content/5c07226cda329393178041d7.html" target="_blank" title="县商务局积极参加“12.4”法制宣传日活动">县商务局积极参加“12.4”法制宣传日活动</a></li>
+					</ul>
+					<ul class="f-list">
+						<li><span>2019-05-24</span><a href="/openness/detail/content/5ce79a293c220660538b456d.html" target="_blank" title="开发区中嘉铝模等项目进行消防验收">开发区中嘉铝模等项目进行消防验收</a></li>
+						<li><span>2019-04-15</span><a href="/openness/detail/content/5cb3e4a9da3293946b9ddd36.html" target="_blank" title="县商务局开展廉政警示教育活动">县商务局开展廉政警示教育活动</a></li>
+						<li><span>2019-04-10</span><a href="/openness/detail/content/5cad3eb4da32933064949443.html" target="_blank" title="蒙城县商务局开展“扫黑除恶 党员有责”主题党日活动">蒙城县商务局开展“扫黑除恶 党员有责”主题党日活动</a></li>
+						<li><span>2019-03-19</span><a href="/openness/detail/content/5c9048b8da32937d2a347a8c.html" target="_blank" title="商务局开展 “严规矩、强监督、转作风”专项行动学习动员会">商务局开展 “严规矩、强监督、转作风”专项行动学习动员会</a></li>
+						<li><span>2019-03-15</span><a href="/openness/detail/content/5cac40deda329324228734c4.html" target="_blank" title="【媒体发布】车照启专题调研房地产领域风险防范工作 ">【媒体发布】车照启专题调研房地产领域风险防范工作 </a></li>
+						<li><span>2019-03-06</span><a href="/openness/detail/content/5c7f22d1da32933f117c4909.html" target="_blank" title="商务局认真学习贯彻《中华人民共和国政府信息公开条例》">商务局认真学习贯彻《中华人民共和国政府信息公开条例》</a></li>
+					</ul>
+				</div>
+			</div>
+			<div class="btns-box f-right">
+			  <ul>
+				<li class="b1"><a href="/opennessYishenqing/" target="_blank"><i></i>依申请公开</a></li>
+				<li class="b2"><a href="/xxgkzhidu/" target="_blank"><i></i>信息公开制度</a></li>
+				<li class="b3"><a href="/yearReport/" target="_blank"><i></i>信息公开年报</a></li>
+			  </ul>
+			</div>
+		</div>
+		<div class="m-flink-box">
+			<h2>站点导航</h2>
+			<div class="hd">
+				<ul>
+				  <li class="on">县政府部门<i></i></li>
+				  <li>乡镇街道<i></i></li> 
+				<!--  <a href="/opennessBranch/?parent_branch_id=53feeeb19a05c211390341fc"><li class="on">县政府部门<i></i></li></a>
+				   <a href="/opennessBranch/?parent_branch_id=53feeef19a05c2fa43509ed8"><li>乡镇街道<i></i></li></a> -->
+				</ul>
+			</div>
+		
+			<div class="bd">
+				<ul>
+				 <li class="col-md-2 col-sm-3 col-xs-4"><a href="/opennessContent/?branch_id=53fe9198cbb812e0d509f779" title="蒙城县民政局" target="_blank">蒙城县民政局</a></li>
+				 <li class="col-md-2 col-sm-3 col-xs-4"><a href="/opennessContent/?branch_id=53fe9198cbb812e0d509f775" title="蒙城县科技局" target="_blank">蒙城县科技局</a></li>
+				 <li class="col-md-2 col-sm-3 col-xs-4"><a href="/opennessContent/?branch_id=53fe9198cbb812e0d509f786" title="蒙城县卫生健康委员会" target="_blank">蒙城县卫生健康委员...</a></li>
+				 <li class="col-md-2 col-sm-3 col-xs-4"><a href="/opennessContent/?branch_id=53fe9198cbb812e0d509f774" title="蒙城县教育局" target="_blank">蒙城县教育局</a></li>
+				 <li class="col-md-2 col-sm-3 col-xs-4"><a href="/opennessContent/?branch_id=53fe9198cbb812e0d509f7a1" title="蒙城县城管局" target="_blank">蒙城县城管局</a></li>
+				 <li class="col-md-2 col-sm-3 col-xs-4"><a href="/opennessContent/?branch_id=53fe9198cbb812e0d509f772" title="蒙城县发改委" target="_blank">蒙城县发改委</a></li>
+				 <li class="col-md-2 col-sm-3 col-xs-4"><a href="/opennessContent/?branch_id=53fe9198cbb812e0d509f77c" title="蒙城县人力资源和社会保障局" target="_blank">蒙城县人力资源和社...</a></li>
+				 <li class="col-md-2 col-sm-3 col-xs-4"><a href="/opennessContent/?branch_id=53fe9198cbb812e0d509f77f" title="蒙城县住房和城乡建设局" target="_blank">蒙城县住房和城乡建...</a></li>
+				 <li class="col-md-2 col-sm-3 col-xs-4"><a href="/opennessContent/?branch_id=53fe9198cbb812e0d509f78e" title="蒙城县市场监督管理局" target="_blank">蒙城县市场监督管理...</a></li>
+				 <li class="col-md-2 col-sm-3 col-xs-4"><a href="/opennessContent/?branch_id=53fe9198cbb812e0d509f78f" title="蒙城县应急管理局" target="_blank">蒙城县应急管理局</a></li>
+				 <li class="col-md-2 col-sm-3 col-xs-4"><a href="/opennessContent/?branch_id=53fe9198cbb812e0d509f79f" title="中国人民银行蒙城县支行" target="_blank">中国人民银行蒙城县...</a></li>
+				 <li class="col-md-2 col-sm-3 col-xs-4"><a href="/opennessContent/?branch_id=53fe9198cbb812e0d509f7a0" title="蒙城县残联" target="_blank">蒙城县残联</a></li>
+				 <li class="col-md-2 col-sm-3 col-xs-4"><a href="/opennessContent/?branch_id=53fe9198cbb812e0d509f7a3" title="蒙城县经开区管委会" target="_blank">蒙城县经开区管委会</a></li>
+				 <li class="col-md-2 col-sm-3 col-xs-4"><a href="/opennessContent/?branch_id=53fe9198cbb812e0d509f7a8" title="蒙城县科学技术协会" target="_blank">蒙城县科学技术协会</a></li>
+				 <li class="col-md-2 col-sm-3 col-xs-4"><a href="/opennessContent/?branch_id=53fe9198cbb812e0d509f7a9" title="蒙城县文联" target="_blank">蒙城县文联</a></li>
+				 <li class="col-md-2 col-sm-3 col-xs-4"><a href="/opennessContent/?branch_id=53fe9198cbb812e0d509f773" title="蒙城县经济和信息化局" target="_blank">蒙城县经济和信息化...</a></li>
+				 <li class="col-md-2 col-sm-3 col-xs-4"><a href="/opennessContent/?branch_id=53fe9198cbb812e0d509f777" title="蒙城县公安局" target="_blank">蒙城县公安局</a></li>
+				 <li class="col-md-2 col-sm-3 col-xs-4"><a href="/opennessContent/?branch_id=53fe9198cbb812e0d509f77a" title="蒙城县司法局" target="_blank">蒙城县司法局</a></li>
+				 <li class="col-md-2 col-sm-3 col-xs-4"><a href="/opennessContent/?branch_id=53fe9198cbb812e0d509f77b" title="蒙城县财政局" target="_blank">蒙城县财政局</a></li>
+				 <li class="col-md-2 col-sm-3 col-xs-4"><a href="/opennessContent/?branch_id=53fe9198cbb812e0d509f77e" title="蒙城县自然资源规划局" target="_blank">蒙城县自然资源规划...</a></li>
+				 <li class="col-md-2 col-sm-3 col-xs-4"><a href="/opennessContent/?branch_id=53fe9198cbb812e0d509f780" title="蒙城县交通运输局" target="_blank">蒙城县交通运输局</a></li>
+				 <li class="col-md-2 col-sm-3 col-xs-4"><a href="/opennessContent/?branch_id=53fe9198cbb812e0d509f781" title="蒙城县农业农村局" target="_blank">蒙城县农业农村局</a></li>
+				 <li class="col-md-2 col-sm-3 col-xs-4"><a href="/opennessContent/?branch_id=53fe9198cbb812e0d509f782" title="蒙城县水利局" target="_blank">蒙城县水利局</a></li>
+				 <li class="col-md-2 col-sm-3 col-xs-4"><a href="/opennessContent/?branch_id=53fe9198cbb812e0d509f784" title="蒙城县商务局" target="_blank">蒙城县商务局</a></li>
+				 <li class="col-md-2 col-sm-3 col-xs-4"><a href="/opennessContent/?branch_id=53fe9198cbb812e0d509f785" title="蒙城县文化旅游体育局" target="_blank">蒙城县文化旅游体育...</a></li>
+				 <li class="col-md-2 col-sm-3 col-xs-4"><a href="/opennessContent/?branch_id=53fe9198cbb812e0d509f788" title="蒙城县审计局" target="_blank">蒙城县审计局</a></li>
+				 <li class="col-md-2 col-sm-3 col-xs-4"><a href="/opennessContent/?branch_id=53fe9198cbb812e0d509f78a" title="蒙城县生态环境分局" target="_blank">蒙城县生态环境分局</a></li>
+				 <li class="col-md-2 col-sm-3 col-xs-4"><a href="/opennessContent/?branch_id=53fe9198cbb812e0d509f78c" title="蒙城县统计局" target="_blank">蒙城县统计局</a></li>
+				 <li class="col-md-2 col-sm-3 col-xs-4"><a href="/opennessContent/?branch_id=53fe9198cbb812e0d509f798" title="蒙城县信访局" target="_blank">蒙城县信访局</a></li>
+				 <li class="col-md-2 col-sm-3 col-xs-4"><a href="/opennessContent/?branch_id=53fe9198cbb812e0d509f79a" title="蒙城县供销社" target="_blank">蒙城县供销社</a></li>
+				 <li class="col-md-2 col-sm-3 col-xs-4"><a href="/opennessContent/?branch_id=53fe9198cbb812e0d509f79c" title="蒙城县税务局" target="_blank">蒙城县税务局</a></li>
+				 <li class="col-md-2 col-sm-3 col-xs-4"><a href="/opennessContent/?branch_id=53fe9198cbb812e0d509f79e" title="蒙城县烟草专卖局" target="_blank">蒙城县烟草专卖局</a></li>
+				 <li class="col-md-2 col-sm-3 col-xs-4"><a href="/opennessContent/?branch_id=53fe9198cbb812e0d509f7a4" title="蒙城县房产局" target="_blank">蒙城县房产局</a></li>
+				 <li class="col-md-2 col-sm-3 col-xs-4"><a href="/opennessContent/?branch_id=53fe9198cbb812e0d509f7a5" title="蒙城县地方海事局" target="_blank">蒙城县地方海事局</a></li>
+				 <li class="col-md-2 col-sm-3 col-xs-4"><a href="/opennessContent/?branch_id=53fe9198cbb812e0d509f7a6" title="蒙城县总工会" target="_blank">蒙城县总工会</a></li>
+				 <li class="col-md-2 col-sm-3 col-xs-4"><a href="/opennessContent/?branch_id=53fe9198cbb812e0d509f7a7" title="蒙城县妇联" target="_blank">蒙城县妇联</a></li>
+				 <li class="col-md-2 col-sm-3 col-xs-4"><a href="/opennessContent/?branch_id=53fe9198cbb812e0d509f7aa" title="蒙城县农机局" target="_blank">蒙城县农机局</a></li>
+				 <li class="col-md-2 col-sm-3 col-xs-4"><a href="/opennessContent/?branch_id=53fe9198cbb812e0d509f7ab" title="蒙城县招商局" target="_blank">蒙城县招商局</a></li>
+				 <li class="col-md-2 col-sm-3 col-xs-4"><a href="/opennessContent/?branch_id=53fe9198cbb812e0d509f8bd" title="蒙城县畜牧兽医局" target="_blank">蒙城县畜牧兽医局</a></li>
+				 <li class="col-md-2 col-sm-3 col-xs-4"><a href="/opennessContent/?branch_id=53fe9198cbb812e0d509f8bc" title="蒙城县气象局" target="_blank">蒙城县气象局</a></li>
+				 <li class="col-md-2 col-sm-3 col-xs-4"><a href="/opennessContent/?branch_id=5cdbdc3607b4be6f778b456b" title="蒙城县退役军人事务局" target="_blank">蒙城县退役军人事务...</a></li>
+				 <li class="col-md-2 col-sm-3 col-xs-4"><a href="/opennessContent/?branch_id=5cdbdc6707b4bec7778b456b" title="蒙城县医疗保障局" target="_blank">蒙城县医疗保障局</a></li>
+				 <li class="col-md-2 col-sm-3 col-xs-4"><a href="/opennessContent/?branch_id=5cdbde993c2206d8118b4571" title="蒙城县扶贫开发局" target="_blank">蒙城县扶贫开发局</a></li>
+				</ul>
+				<ul>
+				 <li class="col-md-2 col-sm-3 col-xs-4"><a href="/opennessContent/?branch_id=53fe9198cbb812e0d509f7c7" title="蒙城县城关街道办事处" target="_blank">蒙城县城关街道办事...</a></li>
+				 <li class="col-md-2 col-sm-3 col-xs-4"><a href="/opennessContent/?branch_id=53fe9198cbb812e0d509f7c8" title="蒙城县庄周街道办事处" target="_blank">蒙城县庄周街道办事...</a></li>
+				 <li class="col-md-2 col-sm-3 col-xs-4"><a href="/opennessContent/?branch_id=53fe9198cbb812e0d509f7cf" title="蒙城县楚村镇" target="_blank">蒙城县楚村镇</a></li>
+				 <li class="col-md-2 col-sm-3 col-xs-4"><a href="/opennessContent/?branch_id=53fe9198cbb812e0d509f7ca" title="蒙城县双涧镇" target="_blank">蒙城县双涧镇</a></li>
+				 <li class="col-md-2 col-sm-3 col-xs-4"><a href="/opennessContent/?branch_id=53fe9198cbb812e0d509f7c9" title="蒙城县漆园办事处" target="_blank">蒙城县漆园办事处</a></li>
+				 <li class="col-md-2 col-sm-3 col-xs-4"><a href="/opennessContent/?branch_id=53fe9198cbb812e0d509f7cb" title="蒙城县小涧镇" target="_blank">蒙城县小涧镇</a></li>
+				 <li class="col-md-2 col-sm-3 col-xs-4"><a href="/opennessContent/?branch_id=53fe9198cbb812e0d509f7cc" title="蒙城县小辛集乡" target="_blank">蒙城县小辛集乡</a></li>
+				 <li class="col-md-2 col-sm-3 col-xs-4"><a href="/opennessContent/?branch_id=53fe9198cbb812e0d509f7cd" title="蒙城县三义镇" target="_blank">蒙城县三义镇</a></li>
+				 <li class="col-md-2 col-sm-3 col-xs-4"><a href="/opennessContent/?branch_id=53fe9198cbb812e0d509f7ce" title="蒙城县篱笆镇" target="_blank">蒙城县篱笆镇</a></li>
+				 <li class="col-md-2 col-sm-3 col-xs-4"><a href="/opennessContent/?branch_id=53fe9198cbb812e0d509f7d0" title="蒙城县乐土镇" target="_blank">蒙城县乐土镇</a></li>
+				 <li class="col-md-2 col-sm-3 col-xs-4"><a href="/opennessContent/?branch_id=53fe9198cbb812e0d509f7d1" title="蒙城县立仓镇" target="_blank">蒙城县立仓镇</a></li>
+				 <li class="col-md-2 col-sm-3 col-xs-4"><a href="/opennessContent/?branch_id=53fe9198cbb812e0d509f7d3" title="蒙城县板桥集镇" target="_blank">蒙城县板桥集镇</a></li>
+				 <li class="col-md-2 col-sm-3 col-xs-4"><a href="/opennessContent/?branch_id=53fe9198cbb812e0d509f7d4" title="蒙城县许疃镇" target="_blank">蒙城县许疃镇</a></li>
+				 <li class="col-md-2 col-sm-3 col-xs-4"><a href="/opennessContent/?branch_id=53fe9198cbb812e0d509f7d5" title="蒙城县坛城镇" target="_blank">蒙城县坛城镇</a></li>
+				 <li class="col-md-2 col-sm-3 col-xs-4"><a href="/opennessContent/?branch_id=53fe9198cbb812e0d509f7d7" title="蒙城县岳坊镇" target="_blank">蒙城县岳坊镇</a></li>
+				 <li class="col-md-2 col-sm-3 col-xs-4"><a href="/opennessContent/?branch_id=53fe9198cbb812e0d509f7d8" title="蒙城县王集乡" target="_blank">蒙城县王集乡</a></li>
+				 <li class="col-md-2 col-sm-3 col-xs-4"><a href="/opennessContent/?branch_id=54ae52d57f8b9ab85968e938" title="蒙城县马集镇" target="_blank">蒙城县马集镇</a></li>
+				</ul>
+			</div>
+		</div>
+		<div class="is-foot">
+			 <div class="fxlist">
+				<ul>
+					<li class="fx1"><a href="" target="_blank"></a></li>
+					<li class="fx2"><a href="" target="_blank"></a></li>
+					<li class="fx3"><a href="" target="_blank"></a></li>
+					<li class="fx4"><a href="" target="_blank"></a></li>
+					<li class="fx5"><a href="" target="_blank"></a></li>
+					<li class="fx6"><a href="" target="_blank"></a></li>
+				</ul>
+			 </div>
+			<div class="m-footer">
+			    <div class="m-middle">
+				    <p class="fl">版权所有：蒙城县人民政府   主办单位：蒙城县人民政府办公室 <br/>E-mail： mcxzwgk@163.com   备案号：皖ICP备05015246号  网站标识码：3416220001<br/><a class="wgw">皖公网安备34162202000016号</a></p>
+					<ul class="fl">
+					    <li class="f1"><a href="">网站地图</a></li>
+					    <li class="f2"><a href="">隐私申明</a></li>
+					    <li class="f3"><a href="">使用说明</a></li>
+					    <li class="f4"><a href="">联系方式</a></li>
+					</ul>
+					<script id="_jiucuo_" sitecode='3416220001' src='http://pucha.kaipuyun.cn/exposure/jiucuo.js'></script>
+					<script type="text/javascript">document.write(unescape("%3Cspan id='_ideConac' %3E%3C/span%3E%3Cscript src='http://dcs.conac.cn/js/13/198/1564/60621165/CA131981564606211650001.js' type='text/javascript'%3E%3C/script%3E"));</script>
+				</div>
+			</div>
+		 </div>
+	    <script src="../media/js/bootstrap.min.js"></script>
+	    <script type="text/javascript" src="../media/js/jquery.SuperSlide.2.1.1.js"></script>
+	    <script type="text/javascript" src="../media/js/traditional.js"></script>
+	    <script type="text/javascript" src="../media/js/common.js"></script>
+	    <script>
+		  $(function () {
+		    jQuery(".gkfb-wrapper").slide({});
+		    jQuery(".zdly-wrapper").slide({});
+		    jQuery(".m-benji").slide({});
+		    jQuery(".m-zcjd").slide({});
+		    jQuery(".ranks-box").slide({});
+		    jQuery(".m-flink-box").slide({});
+			$('.m-zttp').owlCarousel({
+					loop:true,
+					margin:20,
+					autoplay: true,
+					nav:false,
+                    autoplayTimeout: 1500,
+					responsive:{
+						0:{
+							items:2
+						},
+						480:{
+						    items:2
+						},
+						600:{
+							items:3
+						},
+						1000:{
+							items:4
+						}
+					}
+				})
+		  })
+	    </script>
+	</body>
+</html>

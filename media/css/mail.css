@@ -1,0 +1,60 @@
+@charset "utf-8";
+/*
+* @Author: Tech050
+* @Date:   2019-06-16 10:12:06
+* @Last Modified by:   Tech050
+* @Last Modified time: 2019-06-16 12:11:43
+*/
+.is-main{font-size:16px;}
+.m-mailsbox{padding: 6px 0 20px; background: #fff;}
+.m-maildesc{margin-top: 10px;}
+.m-mailinfos{margin: 1px 0 0; padding: 10px 38px 20px; background: #f5f5f5; line-height: 38px; text-align: justify;}
+.u-nologin{padding: 15px; font-size: 14px;}
+.u-nologin a{margin: 0 4px; color: #d00d0d;}
+.m-mailfmbox{padding: 0 156px;}
+.m-mailfmbox label{font-size: 14px; font-weight: normal;}
+.u-mailone{padding-bottom: 12px; margin-bottom: 24px; border-bottom: 1px dashed #ddd;}
+.m-mailfmbox .radio-inline{margin: 0 5px 0 20px;}
+.m-mailfmbox .u-mlcode{width: 120px; height: 34px;}
+.m-mailfmbox .text-center{margin: 20px 0;}
+.m-mailfmbox .btn-danger,.m-mailfmbox .btn-primary{margin: 0 15px; padding: 6px 30px;}
+.m-mailfmbox .btn-primary{background: #ebebeb; border-color: #ebebeb; color: #999;}
+.m-mailbds .m-mlbds{background:#f5f5f5;}
+
+.m-mlbds{padding: 35px 120px;width:100%;margin:0 auto;}
+.m-mlbds label{font-size: 14px; font-weight: normal;}
+.m-zxtslist .m-titstyle3{margin-bottom: 1px;}
+.m-zxtslist table thead{background: #f8f8f8;}
+.m-zxtslist table thead th{border-bottom: none; font-weight: bold;}
+.m-zxtslist table tbody td{border-top: 1px dashed #ddd;}
+
+
+
+
+/*超大PC屏幕下的专用样式*/
+@media screen and (min-width:1200px) {
+	.m-mailfmbox label,.m-mlbds label{padding-left: 0; padding-right: 0;}
+
+}
+/*中等PC屏幕下的专用样式*/
+@media screen and (min-width:992px) and (max-width: 1199px) {
+	.m-mailfmbox,.m-mlbds{padding: 0 50px;}
+
+}
+/*PAD屏幕下的专用样式*/
+@media screen and (min-width: 768px) and (max-width: 991px ){
+	.m-mailfmbox,.m-mlbds{padding: 10px;}
+
+}
+/*PHONE屏幕下的专用样式*/
+@media screen and (min-width: 639px) and (max-width: 767px) {
+	.m-mailfmbox,.m-mlbds{padding: 10px;}
+
+}
+
+@media screen and (max-width: 638px) {
+	body{font-size: 14px;}
+	.m-mailinfos{padding: 10px; line-height: 26px;}
+	.m-mailfmbox,.m-mlbds{padding: 10px;}
+
+}

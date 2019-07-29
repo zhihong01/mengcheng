@@ -1,0 +1,205 @@
+<!DOCTYPE html>
+<html lang="zh-cn">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>蒙城县人民政府</title>
+    <link rel="shortcut icon" type="image/x-icon" href="../favicon.ico">
+    <link rel="stylesheet" href="../media/css/bootstrap.min.css">
+    <link rel="stylesheet" href="../media/css/owl.carousel.min.css">
+	<link rel="stylesheet" href="../media/css/owl.theme.default.min.css">
+    <link rel="stylesheet" href="../media/css/public.css">
+    <link rel="stylesheet" href="../media/css/mail.css">
+    <!--[if lt IE 9]>
+    <script src="../media/js/html5shiv.js"></script>
+    <script src="../media/js/respond.min.js"></script>
+    <![endif]-->
+</head>
+<body>
+	<!-- 头部 end -->
+    <div class="is-header">
+		<div class="m-top">
+			<div class="logo"><img src="../media/images/public/logo.png" alt="" class="img-responsive"></div>
+			<div class="wt">
+				<span><script src="../media/js/time.js"></script></span>
+				<!-- <span><iframe allowtransparency="true" frameborder="0" width="180" height="36" scrolling="no" src="//tianqi.2345.com/plugin/widget/index.htm?s=3&z=2&t=0&v=0&d=3&bd=0&k=&f=&ltf=009944&htf=cc0000&q=1&e=1&a=0&c=60596&w=180&h=36&align=center"></iframe></span> -->
+			</div>
+			<div class="u-link">
+				<ul class="xian">
+					<li><a href="" target="_blank">县政协</a></li>
+					<li><a href="" target="_blank">县政府</a>|</li>
+					<li><a href="" target="_blank">县人大</a>|</li>
+					<li><a href="" target="_blank">县委</a>|</li>
+				</ul>
+				<ul class="fx">
+					<li class="fx1"><a href="">注册</a></li>
+					<li class="fx2"><a href="">登录</a></li>
+					<li class="fx3"><a href="">RSS订阅</a></li>
+					<li class="fx4"><a href="">无障碍浏览</a></li>
+					<li class="fx5"><a href="">简繁体</a></li>
+				</ul>
+			</div>
+		</div>
+		<div class="m-search">
+			<form method="GET" action="/index.php?c=search">
+				<input type="text" name="keywords" placeholder="-请输入检索关键字-" value="" class="u-searchtext fl" x-webkit-speech="" autocomplete="off">
+				<input name="" type="submit" value="" class="u-searchbtn fl">
+				<input name="c" type="hidden" value="search">
+				<a class="fl u-goodser" href="" title="" target="_blank">高级搜索</a>
+			</form>
+		</div>
+		<div class="m-nav navbar navbar-default" role="navigation">
+			<div class="container-fluid"> 
+				<div class="navbar-header">
+					<button type="button" class="navbar-toggle" data-toggle="collapse"
+							data-target="#example-navbar-collapse">
+						<span class="sr-only">切换导航</span>
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+					</button>
+					<a class="navbar-brand" href="#">网站首页</a>
+				</div>
+				<div class="collapse navbar-collapse" id="example-navbar-collapse">
+					<ul class="nav navbar-nav">
+						<li><a href=""><i class="u-icv1"></i> 网站首页</a></li>
+						<li><a href=""><i class="u-icv2"></i> 魅力蒙城</a></li>
+						<li><a href=""><i class="u-icv3"></i> 新闻中心</a></li>
+						<li><a href=""><i class="u-icv4"></i> 政务公开</a></li>
+						<li><a href=""><i class="u-icv5"></i> 解读回应</a></li>
+						<li><a href=""><i class="u-icv6"></i> 办事服务</a></li>
+						<li><a href=""><i class="u-icv7"></i> 互动交流</a></li>
+						<li><a href=""><i class="u-icv8"></i> 数据开放</a></li>
+					</ul> 
+				</div>
+			</div>
+		</div>
+	 </div>
+    <!-- 头部 end -->
+    <!-- 主体 on -->
+	<div class="is-main container f-mb20">
+		<section class="m-mailsbox">
+			<div class="m-location">
+                <a href="">网站首页</a> &gt;
+				<a href="">互动交流</a> &gt;
+				<span>我要写信</span>
+			</div>
+			<div class="m-maildesc">
+                <h1 class="m-titstyle3"><span class="u-tit fl">我要写信</span><span class="fr u-xlist"><a href="">信件列表</a></span></h1>
+                <div class="m-mailinfos">
+                    <p id="write_konw" name="write_konw"><strong>写信须知：</strong></p>
+                    <p>一、本信箱欢迎公民、法人或者其他组织在政治建设、经济建设、文化建设、社会建设等方面反映情况、提出意见和建议。对有合理诉求的初信、有价值的意见或建议，我们将督促责任单位在法定期限内尽快办理、回复。</p>
+                    <p>根据《信访条例》规定，信访工作坚持“属地管理、分级负责，谁主管、谁负责”原则。提出投诉请求的，建议您先向依法有权处理的本级或其上一级行政机关提出。若有关责任单位应当受理而未受理，或未按规定办理时，再向本信箱反映。检举、揭发行政机关及其工作人员的，建议您通过纪检监察渠道反映，提供具体的事实、证据或线索。此类事项适用纪检监察相关规定，网上不回复。</p>
+                    <p>二、根据《信访条例》有关规定，以下来信可不予回复:</p>
+                    <p>（一）姓名及住址、电话等联系方式不真实的来信；</p>
+                    <p>（二）反映党委、人大、政协、法院、检察院及其工作人员职务行为的来信；</p>
+                    <p>（三）反映的问题已经或者依法应当通过诉讼、仲裁等法定途径解决的来信；</p>
+                    <p>（四）信访事项已经依法处理终结，不能提出新的事实或理由的来信；</p>
+                    <p>（五）无实质内容的来信，以及不属行政机关受理职责的其他来信。</p>
+                    <p>三、向本信箱反映问题，公民、法人或者其他组织应当做到：</p>
+                    <p>（一）对注册信息及反映问题的真实性负责；</p>
+                    <p>（二）认为正当权益受到侵犯，从而提出投诉请求的，应当写明具体请求、事实（包含时间、地点、侵权行为、行政责任单位等基本内容）和理由；</p>
+                    <p>（三）写信时应当表述清楚，内容完整，文字简炼，详略得当；</p>
+                    <p>（四）不得捏造、歪曲事实，不得诬告、陷害他人。</p>
+                </div>
+            </div>
+            <div class="m-mailform"  id="write_form" name="write_form">
+                <div class="u-nologin text-center">对不起，必须是注册用户才能进行写信。用户<a href="">登录</a><a href="">注册</a></div>
+                <div class="m-mailfmbox">
+                    <form action="" role="form" class="form-horizontal">
+                        <div class="row u-mailone">
+                            <div class="col-md-6">
+                                <div class="form-group">
+                                    <label class="col-lg-2 control-label" for="name">你的昵称：</label>
+                                    <div class="col-lg-10">
+                                        <input type="text" class="form-control" id="name" placeholder="请填写您的昵称">
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-6">
+                                <div class="form-group">
+                                    <label class="col-lg-2 control-label" for="tel">联系电话：</label>
+                                    <div class="col-lg-10">
+                                        <input type="text" class="form-control" id="tel" placeholder="请填写您的联系电话">
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-md-6">
+                                <div class="form-group">
+                                    <label class="col-lg-2 control-label" for="que">问题类型：</label>
+                                    <div class="col-lg-10">
+                                        <select class="form-control" id="que">
+                                            <option>-请选择问题类型-</option>
+                                            <option>1</option>
+                                            <option>2</option>
+                                        </select>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-6">
+                                <div class="form-group">
+                                    <label class="col-lg-2 control-label">是否公开：</label>
+                                    <div class="col-lg-10">
+                                        <label class="radio-inline">
+                                            <input type="radio" name="public" value="option1"> 公开
+                                        </label>
+                                        <label class="radio-inline">
+                                            <input type="radio" name="public" value="option2" checked> 不公开
+                                        </label>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-12">
+                                <div class="form-group">
+                                    <label class="col-lg-1 control-label" for="title">信件标题：</label>
+                                    <div class="col-lg-11">
+                                        <input type="text" class="form-control" id="title" placeholder="请填写您的信件标题">
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-12">
+                                <div class="form-group">
+                                    <label class="col-lg-1 control-label">信件内容：</label>
+                                    <div class="col-lg-11">
+                                        <textarea class="form-control" rows="10" placeholder="请填写您的信件内容"></textarea>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-12">
+                                <div class="form-group">
+                                    <label class="col-lg-1 control-label" for="code">验 证 码：</label>
+                                    <div class="col-lg-3">
+                                        <input type="text" class="form-control" id="code" placeholder="请填写验证码">
+                                    </div>
+                                    <div>
+                                        <img class="u-mlcode" src="../media/images/public/yz.png" alt="">
+                                        <a href="">看不清？换一张</a>
+                                    </div>
+                                   
+                                    
+                                </div>
+                            </div>
+                        </div>
+                        <div class="text-center">
+                            <input type="submit" value="提交" class="btn btn-danger">
+                            <input type="reset" value="重置" class="btn btn-primary">
+                        </div>
+                    </form>
+                </div>
+            </div>
+		</section>
+	</div>
+	<!-- 主体 end -->
+	<!-- 底部 on -->
+    <div class="is-footer">
+        
+    </div>
+    <!-- 底部 end -->
+	<script src="../media/js/jquery.js"></script>
+    <script src="../media/js/bootstrap.min.js"></script>
+    <script src="../media/js/base.js"></script>
+</body>
+</html>

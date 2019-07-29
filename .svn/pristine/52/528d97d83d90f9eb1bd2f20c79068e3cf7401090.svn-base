@@ -1,0 +1,514 @@
+<!DOCTYPE html>
+<html lang="zh-cn">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>蒙城县人民政府</title>
+    <link rel="shortcut icon" type="image/x-icon" href="../favicon.ico">
+    <link rel="stylesheet" href="../../media/css/bootstrap.min.css">
+    <link rel="stylesheet" href="../../media/css/owl.carousel.min.css">
+	<link rel="stylesheet" href="../../media/css/owl.theme.default.min.css">
+    <link rel="stylesheet" href="../../media/css/public.css">
+    <link rel="stylesheet" href="../../media/css/sjfb.css">
+    <!--[if lt IE 9]>
+    <script src="../media/js/html5shiv.js"></script>
+    <script src="../media/js/respond.min.js"></script>
+    <![endif]-->
+</head>
+<body>
+	<!-- 头部 end -->
+    <div class="is-header">
+		<div class="m-top">
+			<div class="logo"><img src="../../media/images/public/logo.png" alt="" class="img-responsive"></div>
+			<div class="wt">
+				<span><script src="../../media/js/time.js"></script></span>
+				<!-- <span><iframe allowtransparency="true" frameborder="0" width="180" height="36" scrolling="no" src="//tianqi.2345.com/plugin/widget/index.htm?s=3&z=2&t=0&v=0&d=3&bd=0&k=&f=&ltf=009944&htf=cc0000&q=1&e=1&a=0&c=60596&w=180&h=36&align=center"></iframe></span> -->
+			</div>
+			<div class="u-link">
+				<ul class="xian">
+					<li><a href="" target="_blank">县政协</a></li>
+					<li><a href="" target="_blank">县政府</a>|</li>
+					<li><a href="" target="_blank">县人大</a>|</li>
+					<li><a href="" target="_blank">县委</a>|</li>
+				</ul>
+				<ul class="fx">
+					<li class="fx1"><a href="">注册</a></li>
+					<li class="fx2"><a href="">登录</a></li>
+					<li class="fx3"><a href="">RSS订阅</a></li>
+					<li class="fx4"><a href="">无障碍浏览</a></li>
+					<li class="fx5"><a href="">简繁体</a></li>
+				</ul>
+			</div>
+		</div>
+		<div class="m-search">
+			<form method="GET" action="/index.php?c=search">
+				<input type="text" name="keywords" placeholder="-请输入检索关键字-" value="" class="u-searchtext fl" x-webkit-speech="" autocomplete="off">
+				<input name="" type="submit" value="" class="u-searchbtn fl">
+				<input name="c" type="hidden" value="search">
+				<a class="fl u-goodser" href="" title="" target="_blank">高级搜索</a>
+			</form>
+		</div>
+		<div class="m-nav navbar navbar-default" role="navigation">
+			<div class="container-fluid"> 
+				<div class="navbar-header">
+					<button type="button" class="navbar-toggle" data-toggle="collapse"
+							data-target="#example-navbar-collapse">
+						<span class="sr-only">切换导航</span>
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+					</button>
+					<a class="navbar-brand" href="#">网站首页</a>
+				</div>
+				<div class="collapse navbar-collapse" id="example-navbar-collapse">
+					<ul class="nav navbar-nav">
+						<li><a href=""><i class="u-icv1"></i> 网站首页</a></li>
+						<li><a href=""><i class="u-icv2"></i> 魅力蒙城</a></li>
+						<li><a href=""><i class="u-icv3"></i> 新闻中心</a></li>
+						<li><a href=""><i class="u-icv4"></i> 政务公开</a></li>
+						<li><a href=""><i class="u-icv5"></i> 解读回应</a></li>
+						<li><a href=""><i class="u-icv6"></i> 办事服务</a></li>
+						<li><a href=""><i class="u-icv7"></i> 互动交流</a></li>
+						<li><a href=""><i class="u-icv8"></i> 数据开放</a></li>
+					</ul> 
+				</div>
+			</div>
+		</div>
+	 </div>
+    <!-- 头部 end -->
+    <!-- 主体 on -->
+	<div class="is-main container f-mb20">
+		<section class="m-sjfbbox">
+			<div class="m-location f-mb20">
+				<a href="">网站首页</a> &gt;
+				<span>数据发布</span>
+			</div>
+			<div class="m-sjfbdb">
+				<h1 class="m-titstyle3"><a class="u-tit fl" href="" title="" target="_blank">最新数据</a></h1>
+				<div class="m-sjfbtab1 f-clearfix tit-switch">
+					<ul>
+						<li class="u-active"><a href="" title="" target="_blank">地区生产总值</a></li>
+						<li><a href="" title="" target="_blank">人口</a></li>
+						<li><a href="" title="" target="_blank">自然资源</a></li>
+						<li><a href="" title="" target="_blank">经济</a></li>
+						<li><a href="" title="" target="_blank">农业</a></li>
+						<li><a href="" title="" target="_blank">工业</a></li>
+						<li><a href="" title="" target="_blank">服务业</a></li>
+						<li><a href="" title="" target="_blank">财政金融</a></li>
+						<li><a href="" title="" target="_blank">民生保障</a></li>
+					</ul>
+				</div>
+				<div class="list-switch">
+					<div class="m-sjfbtab2 f-clearfix tit-switch">
+						<ul>
+							<li class="u-active"><a href="" title="" target="_blank">GDP (亿元)</a></li>
+							<li><a href="" title="" target="_blank">规模以上工业增加值累计增速(%)</a></li>
+							<li><a href="" title="" target="_blank">规模以上工业增加值累计增速(%)</a></li>
+							<li><a href="" title="" target="_blank">规模以上工业增加值累计增速(%)</a></li>
+							<li><a href="" title="" target="_blank">规模以上工业增加值累计增速(%)</a></li>
+							<li><a href="" title="" target="_blank">规模以上工业增加值累计增速(%)</a></li>
+						</ul>
+					</div>
+					<div class="m-chart list-switch" id="chart1"></div>
+					<div class="m-chart list-switch " id="chart2"></div>
+					<div class="m-chart list-switch " id="chart3"></div>
+					<div class="m-chart list-switch " id="chart4"></div>
+				</div>
+				<div class="list-switch ">
+					<div class="m-sjfbtab2 f-clearfix tit-switch">
+						<ul>
+							<li class="u-active"><a href="" title="" target="_blank">GDP (亿元)</a></li>
+							<li><a href="" title="" target="_blank">第一产业 (亿元)</a></li>
+							<li><a href="" title="" target="_blank">第二产业 (亿元)</a></li>
+							<li><a href="" title="" target="_blank">第三产业 (亿元)</a></li>
+						</ul>
+					</div>
+					<div class="m-chart list-switch">
+						
+					</div>
+					<div class="m-chart list-switch "></div>
+					<div class="m-chart list-switch "></div>
+					<div class="m-chart list-switch "></div>
+				</div>
+				<div class="list-switch ">
+					<div class="m-sjfbtab2 f-clearfix tit-switch">
+						<ul>
+							<li class="u-active"><a href="" title="" target="_blank">GDP (亿元)</a></li>
+							<li><a href="" title="" target="_blank">第一产业 (亿元)</a></li>
+							<li><a href="" title="" target="_blank">第二产业 (亿元)</a></li>
+							<li><a href="" title="" target="_blank">第三产业 (亿元)</a></li>
+						</ul>
+					</div>
+					<div class="m-chart list-switch">
+						
+					</div>
+					<div class="m-chart list-switch "></div>
+					<div class="m-chart list-switch "></div>
+					<div class="m-chart list-switch "></div>
+				</div>
+				<div class="list-switch ">
+					<div class="m-sjfbtab2 f-clearfix tit-switch">
+						<ul>
+							<li class="u-active"><a href="" title="" target="_blank">GDP (亿元)</a></li>
+							<li><a href="" title="" target="_blank">第一产业 (亿元)</a></li>
+							<li><a href="" title="" target="_blank">第二产业 (亿元)</a></li>
+							<li><a href="" title="" target="_blank">第三产业 (亿元)</a></li>
+						</ul>
+					</div>
+					<div class="m-chart list-switch">
+						
+					</div>
+					<div class="m-chart list-switch "></div>
+					<div class="m-chart list-switch "></div>
+					<div class="m-chart list-switch "></div>
+				</div>
+				<div class="list-switch ">
+					<div class="m-sjfbtab2 f-clearfix tit-switch">
+						<ul>
+							<li class="u-active"><a href="" title="" target="_blank">GDP (亿元)</a></li>
+							<li><a href="" title="" target="_blank">第一产业 (亿元)</a></li>
+							<li><a href="" title="" target="_blank">第二产业 (亿元)</a></li>
+							<li><a href="" title="" target="_blank">第三产业 (亿元)</a></li>
+						</ul>
+					</div>
+					<div class="m-chart list-switch">
+						
+					</div>
+					<div class="m-chart list-switch "></div>
+					<div class="m-chart list-switch "></div>
+					<div class="m-chart list-switch "></div>
+				</div>
+				<div class="list-switch ">
+					<div class="m-sjfbtab2 f-clearfix tit-switch">
+						<ul>
+							<li class="u-active"><a href="" title="" target="_blank">GDP (亿元)</a></li>
+							<li><a href="" title="" target="_blank">第一产业 (亿元)</a></li>
+							<li><a href="" title="" target="_blank">第二产业 (亿元)</a></li>
+							<li><a href="" title="" target="_blank">第三产业 (亿元)</a></li>
+						</ul>
+					</div>
+					<div class="m-chart list-switch">
+						
+					</div>
+					<div class="m-chart list-switch "></div>
+					<div class="m-chart list-switch "></div>
+					<div class="m-chart list-switch "></div>
+				</div>
+				<div class="list-switch ">
+					<div class="m-sjfbtab2 f-clearfix tit-switch">
+						<ul>
+							<li class="u-active"><a href="" title="" target="_blank">GDP (亿元)</a></li>
+							<li><a href="" title="" target="_blank">第一产业 (亿元)</a></li>
+							<li><a href="" title="" target="_blank">第二产业 (亿元)</a></li>
+							<li><a href="" title="" target="_blank">第三产业 (亿元)</a></li>
+						</ul>
+					</div>
+					<div class="m-chart list-switch">
+						
+					</div>
+					<div class="m-chart list-switch "></div>
+					<div class="m-chart list-switch "></div>
+					<div class="m-chart list-switch "></div>
+				</div>
+				<div class="list-switch ">
+					<div class="m-sjfbtab2 f-clearfix tit-switch">
+						<ul>
+							<li class="u-active"><a href="" title="" target="_blank">GDP (亿元)</a></li>
+							<li><a href="" title="" target="_blank">第一产业 (亿元)</a></li>
+							<li><a href="" title="" target="_blank">第二产业 (亿元)</a></li>
+							<li><a href="" title="" target="_blank">第三产业 (亿元)</a></li>
+						</ul>
+					</div>
+					<div class="m-chart list-switch">
+						
+					</div>
+					<div class="m-chart list-switch "></div>
+					<div class="m-chart list-switch "></div>
+					<div class="m-chart list-switch "></div>
+				</div>
+				<div class="list-switch ">
+					<div class="m-sjfbtab2 f-clearfix tit-switch">
+						<ul>
+							<li class="u-active"><a href="" title="" target="_blank">GDP (亿元)</a></li>
+							<li><a href="" title="" target="_blank">第一产业 (亿元)</a></li>
+							<li><a href="" title="" target="_blank">第二产业 (亿元)</a></li>
+							<li><a href="" title="" target="_blank">第三产业 (亿元)</a></li>
+						</ul>
+					</div>
+					<div class="m-chart list-switch">
+						
+					</div>
+					<div class="m-chart list-switch "></div>
+					<div class="m-chart list-switch "></div>
+					<div class="m-chart list-switch "></div>
+				</div>
+			</div>
+
+			<div class="m-sjfbdb">
+				<h1 class="m-titstyle3"><a class="u-tit fl" href="" title="" target="_blank">年度数据</a></h1>
+				<div class="m-sjfbtab1 f-clearfix tit-switch">
+					<ul>
+						<li class="u-active"><a href="" title="" target="_blank">地区生产总值</a></li>
+						<li><a href="" title="" target="_blank">人口</a></li>
+						<li><a href="" title="" target="_blank">自然资源</a></li>
+						<li><a href="" title="" target="_blank">经济</a></li>
+						<li><a href="" title="" target="_blank">农业</a></li>
+						<li><a href="" title="" target="_blank">工业</a></li>
+						<li><a href="" title="" target="_blank">服务业</a></li>
+						<li><a href="" title="" target="_blank">财政金融</a></li>
+						<li><a href="" title="" target="_blank">民生保障</a></li>
+					</ul>
+				</div>
+				<div class="list-switch">
+					<div class="m-sjfbtab2 f-clearfix tit-switch">
+						<ul>
+							<li class="u-active"><a href="" title="" target="_blank">GDP (亿元)</a></li>
+							<li><a href="" title="" target="_blank">第一产业 (亿元)</a></li>
+							<li><a href="" title="" target="_blank">第二产业 (亿元)</a></li>
+							<li><a href="" title="" target="_blank">第三产业 (亿元)</a></li>
+						</ul>
+					</div>
+					<div class="m-chart list-switch">
+						
+					</div>
+					<div class="m-chart list-switch ">
+					
+					</div>
+					<div class="m-chart list-switch ">
+					
+					</div>
+					<div class="m-chart list-switch ">
+					
+					</div>
+				</div>
+				<div class="list-switch ">
+					<div class="m-sjfbtab2 f-clearfix tit-switch">
+						<ul>
+							<li class="u-active"><a href="" title="" target="_blank">GDP (亿元)</a></li>
+							<li><a href="" title="" target="_blank">第一产业 (亿元)</a></li>
+							<li><a href="" title="" target="_blank">第二产业 (亿元)</a></li>
+							<li><a href="" title="" target="_blank">第三产业 (亿元)</a></li>
+						</ul>
+					</div>
+					<div class="m-chart list-switch">
+						
+					</div>
+					<div class="m-chart list-switch "></div>
+					<div class="m-chart list-switch "></div>
+					<div class="m-chart list-switch "></div>
+				</div>
+				<div class="list-switch ">
+					<div class="m-sjfbtab2 f-clearfix tit-switch">
+						<ul>
+							<li class="u-active"><a href="" title="" target="_blank">GDP (亿元)</a></li>
+							<li><a href="" title="" target="_blank">第一产业 (亿元)</a></li>
+							<li><a href="" title="" target="_blank">第二产业 (亿元)</a></li>
+							<li><a href="" title="" target="_blank">第三产业 (亿元)</a></li>
+						</ul>
+					</div>
+					<div class="m-chart list-switch">
+						
+					</div>
+					<div class="m-chart list-switch "></div>
+					<div class="m-chart list-switch "></div>
+					<div class="m-chart list-switch "></div>
+				</div>
+				<div class="list-switch ">
+					<div class="m-sjfbtab2 f-clearfix tit-switch">
+						<ul>
+							<li class="u-active"><a href="" title="" target="_blank">GDP (亿元)</a></li>
+							<li><a href="" title="" target="_blank">第一产业 (亿元)</a></li>
+							<li><a href="" title="" target="_blank">第二产业 (亿元)</a></li>
+							<li><a href="" title="" target="_blank">第三产业 (亿元)</a></li>
+						</ul>
+					</div>
+					<div class="m-chart list-switch">
+						
+					</div>
+					<div class="m-chart list-switch "></div>
+					<div class="m-chart list-switch "></div>
+					<div class="m-chart list-switch "></div>
+				</div>
+				<div class="list-switch ">
+					<div class="m-sjfbtab2 f-clearfix tit-switch">
+						<ul>
+							<li class="u-active"><a href="" title="" target="_blank">GDP (亿元)</a></li>
+							<li><a href="" title="" target="_blank">第一产业 (亿元)</a></li>
+							<li><a href="" title="" target="_blank">第二产业 (亿元)</a></li>
+							<li><a href="" title="" target="_blank">第三产业 (亿元)</a></li>
+						</ul>
+					</div>
+					<div class="m-chart list-switch">
+						
+					</div>
+					<div class="m-chart list-switch "></div>
+					<div class="m-chart list-switch "></div>
+					<div class="m-chart list-switch "></div>
+				</div>
+				<div class="list-switch ">
+					<div class="m-sjfbtab2 f-clearfix tit-switch">
+						<ul>
+							<li class="u-active"><a href="" title="" target="_blank">GDP (亿元)</a></li>
+							<li><a href="" title="" target="_blank">第一产业 (亿元)</a></li>
+							<li><a href="" title="" target="_blank">第二产业 (亿元)</a></li>
+							<li><a href="" title="" target="_blank">第三产业 (亿元)</a></li>
+						</ul>
+					</div>
+					<div class="m-chart list-switch">
+						
+					</div>
+					<div class="m-chart list-switch "></div>
+					<div class="m-chart list-switch "></div>
+					<div class="m-chart list-switch "></div>
+				</div>
+				<div class="list-switch ">
+					<div class="m-sjfbtab2 f-clearfix tit-switch">
+						<ul>
+							<li class="u-active"><a href="" title="" target="_blank">GDP (亿元)</a></li>
+							<li><a href="" title="" target="_blank">第一产业 (亿元)</a></li>
+							<li><a href="" title="" target="_blank">第二产业 (亿元)</a></li>
+							<li><a href="" title="" target="_blank">第三产业 (亿元)</a></li>
+						</ul>
+					</div>
+					<div class="m-chart list-switch">
+						
+					</div>
+					<div class="m-chart list-switch "></div>
+					<div class="m-chart list-switch "></div>
+					<div class="m-chart list-switch "></div>
+				</div>
+				<div class="list-switch ">
+					<div class="m-sjfbtab2 f-clearfix tit-switch">
+						<ul>
+							<li class="u-active"><a href="" title="" target="_blank">GDP (亿元)</a></li>
+							<li><a href="" title="" target="_blank">第一产业 (亿元)</a></li>
+							<li><a href="" title="" target="_blank">第二产业 (亿元)</a></li>
+							<li><a href="" title="" target="_blank">第三产业 (亿元)</a></li>
+						</ul>
+					</div>
+					<div class="m-chart list-switch">
+						
+					</div>
+					<div class="m-chart list-switch "></div>
+					<div class="m-chart list-switch "></div>
+					<div class="m-chart list-switch "></div>
+				</div>
+				<div class="list-switch ">
+					<div class="m-sjfbtab2 f-clearfix tit-switch">
+						<ul>
+							<li class="u-active"><a href="" title="" target="_blank">GDP (亿元)</a></li>
+							<li><a href="" title="" target="_blank">第一产业 (亿元)</a></li>
+							<li><a href="" title="" target="_blank">第二产业 (亿元)</a></li>
+							<li><a href="" title="" target="_blank">第三产业 (亿元)</a></li>
+						</ul>
+					</div>
+					<div class="m-chart list-switch">
+						
+					</div>
+					<div class="m-chart list-switch "></div>
+					<div class="m-chart list-switch "></div>
+					<div class="m-chart list-switch "></div>
+				</div>
+			</div>
+
+		</section>
+	</div>
+	<!-- 主体 end -->
+	<!-- 底部 on -->
+    <div class="is-footer">
+        
+    </div>
+    <!-- 底部 end -->
+	<script src="../../media/js/jquery.js"></script>
+    <script src="../../media/js/bootstrap.min.js"></script>
+    <script src="../../media/js/base.js"></script>
+	<script src="../../media/js/echarts.min.js"></script>
+	<script>
+	    var myChart = echarts.init(document.getElementById('chart1'));
+		option = {
+		   baseOption: { 
+				legend: {},
+				tooltip: {},
+				title:{
+					text:"frhgfdghfhhbgfh)fdsfadsafdsfadsaf",
+					x:'center',
+					textStyle: {
+						fontSize: 30,
+						fontWeight:700
+					}
+					
+				},		
+				xAxis: {
+					type: 'category',
+					data: ['2015.06', '2015.09', '2015.12', '2016.03']
+				},
+				yAxis: {
+					type: 'value'
+				},
+				toolbox: {
+					itemSize: 25,
+					right:20,
+					feature: {
+						dataView: {show: false, readOnly: false},
+						magicType: {show: true, type: ['line', 'bar']},
+						restore: {show: false},
+						saveAsImage: {show: false}
+					},
+					emphasis:{
+					   iconStyle:{
+							color:"#d00d0d",
+							borderColor:"#d00d0d"
+						}
+					}
+					
+				},
+				series: [
+					{
+					itemStyle:{
+						normal: {
+							color: new echarts.graphic.LinearGradient(
+								0, 0, 0, 1,
+								[ 
+									{offset: 0, color: '#D98728'},
+									{offset: 1, color: '#FF7A4B'}
+								]
+							)
+						},
+						emphasis: {
+							color: new echarts.graphic.LinearGradient(
+								0, 0, 0, 1,
+								[
+									{offset: 0, color: '#FF7A4B'},
+									{offset: 1, color: '#D98728'}
+								]
+							)
+						}
+					},
+					data: [524394, 344394, 194394, 994394],
+					type: 'bar',
+				},
+				
+			   ]
+			},
+			media: [ 
+				{
+					query: { maxWidth: 600},  
+					option: {       
+						title:{
+							text:"frhgfdghfhhbgfh)",
+							x:'left',
+							textStyle: {
+								fontSize: 15,
+								fontWeight:700
+							}
+							
+						}
+					}
+				}
+			]
+		};
+		 myChart.setOption(option);
+	</script>
+</body>
+</html>

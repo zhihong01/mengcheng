@@ -1,0 +1,137 @@
+@charset "utf-8";
+/*
+* @Author: Tech050
+* @Date:   2019-06-16 13:52:26
+* @Last Modified by:   Tech050
+* @Last Modified time: 2019-06-16 16:29:18
+*/
+
+html,body,h1,h2,h3,h4,h5,h6,div,dl,dt,dd,ul,ol,li,p,blockquote,pre,hr,figure,table,caption,th,td,form,fieldset,legend,input,button,textarea,menu{margin: 0; padding: 0;}
+header,footer,section,article,aside,nav,hgroup,address,figure,figcaption,menu,details{display: block;}
+html {overflow-y: scroll;}
+:root {overflow-y: auto; overflow-x: hidden;}
+table{border-collapse: collapse; border-spacing: 0;}
+caption,th{font-weight: normal;}
+html,body,fieldset,iframe,abbr{border: 0;}
+i,cite,em,var,address,dfn{font-style: normal;}
+[hidefocus],summary{outline: 0;}
+ul,ol,ul li,li,ol li{list-style: none;}
+h1,h2,h3,h4,h5,h6,small{font-size: 100%;}
+sup,sub{font-size: 83%;}
+pre,code,kbd,samp{font-family: inherit;}
+q:before,q:after{content: none;}
+textarea{overflow: auto; resize: none;}
+label,summary{cursor: default;}
+a,button{cursor: pointer;}
+h1,h2,h3,h4,h5,h6,em,strong,b{font-weight: bold;}
+ins,u,s,a,a:hover{text-decoration: none;}
+body,textarea,input,button,select,keygen,legend{font-family: "微软雅黑"; font-size: 16px; color: #454545; outline: 0;}
+a{color: #3d3d3d; border: none; text-decoration: none; outline: none; hide-focus: expression(this.hideFocus=true);}
+a:focus{outline: 0; -moz-outline-style: none;}
+a:hover{text-decoration: none; color: #cd0000;}
+img{border: 0 none; width: auto\9; height: auto; vertical-align: top; -ms-interpolation-mode: bicubic;}
+button,input,select,textarea{font-size: 100%; font-family: tahoma; margin: 0; outline: 0 none; vertical-align: baseline; _overflow: visible; *vertical-align: middle; *overflow: visible;}
+.f-fl{float: left;}
+.f-fr{float: right;}
+.f-clear{margin: 0; overflow: hidden; visibility: hidden; font-size: 0; content: "."; clear: both; height: 0; padding: 0;}
+.f-clearfix:after{visibility: hidden; display: block; font-size: 0; content:" "; clear: both; height: 0;}
+* html .clearfix{zoom: 1;}
+*:first-child+html .clearfix{zoom: 1;}
+.f-dn{display: none;}
+.f-ofh{overflow: hidden;}
+.f-toe{overflow:hidden; word-wrap: normal; white-space: nowrap; text-overflow: ellipsis;}
+.f-pr{position: relative;}
+.f-pa{position: absolute;}
+.f-tac{text-align: center;}
+.f-bgw{background: #fff;}
+.f-mb20{margin-bottom: 20px!important;}
+.f-mt10{margin-top: 10px!important;}
+.f-npr{padding-right: 0;}
+.red{color: #cd0000;}
+
+
+
+.is-header{padding: 40px 0 20px;}
+.is-header .row{margin: 0 -10px;}
+.is-header .u-logo,.m-searchform{padding: 0 10px;}
+.is-header .u-logo img{display: block; width: 100%;}
+.m-selection li{float: left; padding: 7px 15px; font-size: 18px; cursor: pointer;}
+.m-selection li.u-active{background: #cd0000; color: #fff;}
+.g-searchform{margin: 10px 0;}
+.g-searchform .u-shform,.g-searchform .u-deep{padding: 0 10px;}
+.u-shform .input-group-btn .btn-lg{padding: 10px 14px 10px 52px; font-size: 18px; color: #fff; background: url(../images/icon-search.png) #cd0000 19px center no-repeat;}
+.g-searchform .u-deep{padding-top: 12px;}
+.g-searchform .u-deep a{color: #cd0000;}
+.m-hots li{float: left; margin-right:10px; font-size: 14px;}
+.m-condition strong{display: block; text-align: center;}
+.m-condition table tbody tr td{padding: 10px 8px;}
+.m-condition li{float: left; padding: 4px 0;}
+.m-condition li a{display: block; padding: 0 16px; height: 14px; line-height: 1; border-right: 1px solid #ddd; font-size: 14px;}
+.m-condition li:last-child a{border: none;}
+.m-condition li.u-active a{color: #cd0000;}
+.m-keyword{margin-bottom: 20px; padding: 10px; background: #f0f0f0;}
+.u-key{line-height: 34px; font-size: 14px;}
+.u-key span{color: #cd0000;}
+.m-keyword .input-group{width: 308px;}
+.m-keyword .input-group .btn{background: #cd0000; color: #fff;}
+.g-result{width: 100%;}
+.m-rstbox{margin-right: 255px;}
+.m-rstboxul{border-bottom: 1px solid #ddd;}
+.m-rstboxul li{margin-bottom: 15px;}
+.m-rstboxul li h1{padding: 10px 0;}
+.m-rstboxul li h1 a{font-size: 18px; color: #1e70bf; font-weight: normal;}
+.m-rstboxul li .m-rstinfo{line-height: 1.5; font-size: 14px;}
+.m-rstboxul li .m-rstfuns{padding: 10px 0; font-size: 12px; color: #158709;}
+.m-rstboxul li .m-rstfuns p{float: left; margin-right: 10px;}
+.m-rstboxul li .m-rstfuns a{color: #1e70bf; font-size: 12px;}
+.m-rstbox .pagination{font-size: 14px;}
+.m-history{padding-left: 20px; width: 235px; min-height: 440px; margin-left: -235px; border-left: 1px solid #ddd;}
+.m-history h1{padding: 10px 0; line-height: 20px;}
+.u-delete{display: block; width: 18px; height: 20px; background: url(../images/icon-delete.png) no-repeat;}
+.m-history li{float: left; margin: 5px 15px 5px 0; line-height: 30px;}
+.m-history li a{display: block; padding: 0 8px; border-radius: 5px; background: #f0f0f0; font-size: 14px;}
+.is-footer{border-top: 2px solid #d00d0d; background: #fff;}
+.m-footer{padding: 15px 0 20px;}
+.m-footer .container{padding: 0 200px;}
+.m-ftfuns{line-height: 32px; padding: 5px 0;}
+.m-ftfuns,.m-ftfuns a{color: #525252; font-size: 14px;}
+.m-copyright p{line-height: 30px; font-size: 14px;}
+.m-copyright p img{vertical-align: middle;}
+#_ideConac{position: absolute; left: 100px; top: 20px;}
+#_span_jiucuo{position: absolute; right: 68px; top: 23px;}
+
+
+/*超大PC屏幕下的专用样式*/
+@media screen and (min-width:1200px) {
+    .container{padding: 0; width: 1200px;}
+
+}
+/*中等PC屏幕下的专用样式*/
+@media screen and (max-width: 1199px) {
+	.is-header .u-logo{margin-top: 30px;}
+
+}
+/*PAD屏幕下的专用样式*/
+@media screen and (max-width: 991px ){
+	.is-header .u-logo{margin: 0 30px 10px;}
+	.g-searchform .u-deep{padding-top: 12px;}
+	.u-key{padding-bottom: 5px; line-height: 1.5; float: none;}
+	.m-keyword .input-group{float: none; width: 100%;}
+	.m-rstbox{margin-right: 0;}
+	.m-footer .container{padding: 0 15px;}
+	#_ideConac,#_span_jiucuo{display: none;}
+
+}
+/*PHONE屏幕下的专用样式*/
+@media screen and (max-width: 767px) {
+	.m-selection li{padding: 5px 8px; font-size: 16px; border-radius: 4px;}
+	.g-searchform .u-deep{padding-top: 5px;}
+    
+}
+
+@media screen and (max-width: 638px) {
+	body{font-size: 14px;}
+	.m-selection li{font-size: 14px;}
+
+    
+}

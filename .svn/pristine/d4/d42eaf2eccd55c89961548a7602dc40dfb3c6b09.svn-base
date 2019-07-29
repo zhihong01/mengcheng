@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="zh-cn">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>蒙城县人民政府 </title>
+	<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
+	<link rel="stylesheet" href="../media/css/bootstrap.min.css">
+	<link rel="stylesheet" href="../media/css/public.css">
+    <link rel="stylesheet" href="../media/css/page.css">
+	<script src="../media/js/jquery.js"></script>
+	<script src="../media/js/bootstrap.min.js"></script>
+	<!--[if lt IE 9]>
+	<script src="../media/js/html5shiv.js"></script>
+	<script src="../media/js/respond.min.js"></script>
+	<![endif]-->
+	<style>
+	    .is-footer{margin-top:25px;}
+	</style>
+</head>
+<body>
+	<!-- 头部 end -->
+    <div class="is-header">
+		<div class="m-top">
+			<div class="logo"><img src="../media/images/public/logo.png" alt="" class="img-responsive"></div>
+			<div class="wt">
+				<span><script src="../media/js/time.js"></script></span>
+				<span><iframe allowtransparency="true" frameborder="0" width="180" height="36" scrolling="no" src="//tianqi.2345.com/plugin/widget/index.htm?s=3&z=2&t=0&v=0&d=3&bd=0&k=&f=&ltf=009944&htf=cc0000&q=1&e=1&a=0&c=60596&w=180&h=36&align=center"></iframe></span>
+			</div>
+			<div class="u-link">
+				<ul class="xian">
+					<li><a href="" target="_blank">县政协</a></li>
+					<li><a href="" target="_blank">县政府</a>|</li>
+					<li><a href="" target="_blank">县人大</a>|</li>
+					<li><a href="" target="_blank">县委</a>|</li>
+				</ul>
+				<ul class="fx">
+					<li class="fx1"><a href="">注册</a></li>
+					<li class="fx2"><a href="">登录</a></li>
+					<li class="fx3"><a href="">RSS订阅</a></li>
+					<li class="fx4"><a href="">无障碍</a></li>
+					<li class="fx5"><a href="">简繁体</a></li>
+				</ul>
+			</div>
+		</div>
+		<div class="m-search">
+			<form method="GET" action="/index.php?c=search">
+				<input type="text" name="keywords" placeholder="-请输入检索关键字-" value="" class="u-searchtext fl" x-webkit-speech="" autocomplete="off">
+				<input name="" type="submit" value="" class="u-searchbtn fl">
+				<input name="c" type="hidden" value="search">
+				<a class="fl u-goodser" href="" title="" target="_blank">高级搜索</a>
+			</form>
+		</div>
+		<div class="m-nav navbar navbar-default" role="navigation">
+			<div class="container-fluid"> 
+				<div class="navbar-header">
+					<button type="button" class="navbar-toggle" data-toggle="collapse"
+							data-target="#example-navbar-collapse">
+						<span class="sr-only">切换导航</span>
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+					</button>
+					<a class="navbar-brand" href="#"><img src="../media/images/public/home.png" /></a>
+				</div>
+				<div class="collapse navbar-collapse" id="example-navbar-collapse">
+					<ul class="nav navbar-nav">
+						<li class="current"><a href=""><i class="u-icv1"></i> 网站首页</a></li>
+						<li><a href=""><i class="u-icv2"></i> 魅力蒙城</a></li>
+						<li><a href=""><i class="u-icv3"></i> 新闻中心</a></li>
+						<li><a href=""><i class="u-icv4"></i> 政务公开</a></li>
+						<li><a href=""><i class="u-icv5"></i> 解读回应</a></li>
+						<li><a href=""><i class="u-icv6"></i> 办事服务</a></li>
+						<li><a href=""><i class="u-icv7"></i> 互动交流</a></li>
+						<li><a href=""><i class="u-icv8"></i> 数据开放</a></li>
+					</ul> 
+				</div>
+			</div>
+		</div>
+	 </div>
+    <!-- 头部 end -->
+    <!-- 主体 on -->
+	<div class="is-main container f-mb20">
+		<section class="m-detailbox">
+			<div class="m-location f-mb20">
+				<a href="">网站首页</a> &gt;
+				<span>新闻中心</span> &gt;
+				<span>今日蒙城</span>
+			</div>
+			<div class="ftgk">
+			    <div class="gonggao m-gytit">
+					<h1><a href="">访谈公告</a></h1>
+					<p>2018年，县住建委进一步推进项目建设，逐步启动黑臭水体治理，加大建筑市场监管，加快提升城乡污水处理能力和农村卫生厕所改造，为全县经济社会发展提供了良好环境。</p>
+				</div>
+				<div class="huigu m-gytit">
+					<h1><a href="">访谈回顾</a></h1>
+					<div class="hgxx">
+						<a href="" class="fl hgtp"><img src="../media/images/home/ft.jpg"></a>
+						<div class="hglr" class="fr">
+							<h3><a href="">2019《百姓对话》县安监局  </a></h3>
+							<p>访谈日期：2019年3月15日</p>
+							<p>访谈嘉宾：县安监局党组书记、局长张乾民，县安监局党组成员、副局长王书军，县安监局党组成员、副局长徐磊，县安监局执法大队大队长刘洪永，县安监局副主任科员李梅</p>
+							<p>直播地点：百姓对话演播厅</p>
+							<p>主办单位：县纪委 县委宣传部 县监察委</p>
+							<p>访谈简介：2018年，县安监局强化安全生产“红线”意识和底线思维，严格落实责任，协调联动，狠抓各项重点工作措施落实，全县安全生产形势持续稳定向好。</p>
+						</div>
+					</div>
+				</div>
+				<div class="m-pagelist"></div>
+			</div>
+		</section>
+	</div>
+	<!-- 主体 end -->
+    <!-- 底部 on -->
+    <div class="is-footer">
+       
+    </div>
+    <!-- 底部 end -->
+    <script src="../media/js/base.js"></script>
+    <script>
+    	
+    </script>
+</body>
+</html>

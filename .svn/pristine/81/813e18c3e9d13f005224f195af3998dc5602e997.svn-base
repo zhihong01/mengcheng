@@ -1,0 +1,333 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">	
+		<meta name="SiteName" content="" />
+		<meta name="SiteDomain" content="" />
+		<meta name="SiteIDCode" content="" />
+		<meta name="keywords" content="" />
+		<meta name="description" content="" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+		<title>蒙城县人民政府 </title>
+		<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
+		<link rel="stylesheet" href="../../media/css/bootstrap.min.css">
+	    <script src="../../media/js/jquery.js"></script>
+	    <script src="../../media/js/bootstrap.min.js"></script>
+		<link rel="stylesheet" href="../../media/css/public.css">
+		<link rel="stylesheet" href="../../media/css/jdhy.css">
+		<link rel="stylesheet" href="../../media/css/owl.carousel.min.css">
+		<link rel="stylesheet" href="../../media/css/owl.theme.default.min.css">
+		<script src="../../media/js/owl.carousel.min.js"></script>
+	</head>
+	<body>
+		<div class="is-header">
+		 	<div class="m-top">
+		 		<div class="logo"><img src="../../media/images/public/logo.png" alt="" class="img-responsive"></div>
+		 		<div class="wt">
+				    <span><script src="../../media/js/time.js"></script></span>
+					<!-- <span><iframe allowtransparency="true" frameborder="0" width="180" height="36" scrolling="no" src="//tianqi.2345.com/plugin/widget/index.htm?s=3&z=2&t=0&v=0&d=3&bd=0&k=&f=&ltf=009944&htf=cc0000&q=1&e=1&a=0&c=60596&w=180&h=36&align=center"></iframe></span> -->
+				</div>
+		 		<div class="u-link">
+		 			<ul class="xian">
+		 				<li><a href="" target="_blank">县政协</a></li>
+		 				<li><a href="" target="_blank">县政府</a>|</li>
+		 				<li><a href="" target="_blank">县人大</a>|</li>
+		 				<li><a href="" target="_blank">县委</a>|</li>
+		 			</ul>
+		 			<ul class="fx">
+		 				<li class="fx1"><a href="">注册</a></li>
+		 				<li class="fx2"><a href="">登录</a></li>
+		 				<li class="fx3"><a href="">RSS订阅</a></li>
+		 				<li class="fx4"><a href="">无障碍浏览</a></li>
+		 				<li class="fx5"><a href="">简繁体</a></li>
+		 			</ul>
+		 		</div>
+		 	</div>
+	 		<div class="m-search">
+				<form method="GET" action="/index.php?c=search">
+					<input type="text" name="keywords" placeholder="-请输入检索关键字-" value="" class="u-searchtext fl" x-webkit-speech="" autocomplete="off">
+					<input name="" type="submit" value="" class="u-searchbtn fl">
+					<input name="c" type="hidden" value="search">
+					<a class="fl u-goodser" href="" title="" target="_blank">高级搜索</a>
+				</form>
+			</div>
+            <div class="m-nav navbar navbar-default" role="navigation">
+				<div class="container-fluid"> 
+					<div class="navbar-header">
+						<button type="button" class="navbar-toggle" data-toggle="collapse"
+								data-target="#example-navbar-collapse">
+							<span class="sr-only">切换导航</span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+						</button>
+						<a class="navbar-brand" href="#">网站首页</a>
+					</div>
+					<div class="collapse navbar-collapse" id="example-navbar-collapse">
+						<ul class="nav navbar-nav">
+				            <li><a href=""><i class="u-icv1"></i> 网站首页</a></li>
+				            <li><a href=""><i class="u-icv2"></i> 走进利辛</a></li>
+				            <li><a href=""><i class="u-icv3"></i> 新闻中心</a></li>
+				            <li><a href=""><i class="u-icv4"></i> 政务公开</a></li>
+				            <li><a href=""><i class="u-icv5"></i> 解读回应</a></li>
+				            <li><a href=""><i class="u-icv6"></i> 办事服务</a></li>
+				            <li><a href=""><i class="u-icv7"></i> 互动交流</a></li>
+				            <li><a href=""><i class="u-icv8"></i> 数据开放</a></li>
+				        </ul> 
+					</div>
+				</div>
+            </div>
+		 </div>
+		 <div class="is-main">
+		     <div class="m-adv">
+			     <img src="../../media/images/jdhy/jd.jpg" class="img-responsive">
+			 </div>
+			 <div class="m-content1">
+			     <div class="m-zcjd">
+				     <h1><a href="">政策解读</a></h1>
+				     <div class="m-listbox m-shangji fl">
+						<div class="hd">
+							<ul><li class="on"><a href="">上级政策解读</a></li></ul>
+						</div>
+						<div class="bd">
+							<ul>
+								<li><span class="date">2011-11-11</span><a href="#" class="u-h">宣州｜水东镇坚持全域全景 推进古镇旅游新发展</a><a href="" style="color:#d00d0d;">|文件</a></li>
+								<li><span class="date">2011-11-11</span><a href="#" class="u-h">宣城市召开2019年“扫黄打非”工作会议</a><a href="" style="color:#d00d0d;">|文件</a></li>
+								<li><span class="date">2011-11-11</span><a href="#" class="u-h">我市深入推进旅游厕所建设</a><a href="" style="color:#d00d0d;">|文件</a></li>
+								<li><span class="date">2011-11-11</span><a href="#" class="u-h">我市开展全国,数理化老师竟也看学习资料？</a><a href="" style="color:#d00d0d;">|文件</a></li>
+								<li><span class="date">2011-11-11</span><a href="#" class="u-h">宣城市召开2019年“扫黄打非”工作会议</a><a href="" style="color:#d00d0d;">|文件</a></li>
+								<li><span class="date">2011-11-11</span><a href="#" class="u-h">我市深入推进旅游厕所建设</a><a href="" style="color:#d00d0d;">|文件</a></li>
+								<li><span class="date">2011-11-11</span><a href="#" class="u-h">我市深入推进旅游厕所建设</a><a href="" style="color:#d00d0d;">|文件</a></li>
+							</ul>
+						</div>
+					</div>
+					<div class="m-listbox2 m-benji fr">
+						<div class="hd">
+							<ul><li class="on"><a href="">本级政策解读</a></li></ul>
+						</div>
+						<div class="bd">
+							<div class="u-hd">
+								<ul>
+								    <li class="on"><a href="">文字解读</a></li>
+									<li><a href="">专家解读</a></li>
+									<li><a href="">领导解读</a></li>
+									<li><a href="">部门解读</a></li>
+									<li><a href="">媒体解读</a></li>
+								</ul>
+							</div>
+							<div class="u-bd">
+								<ul>
+									<li><span class="date">2011-11-11</span><a href="#" class="u-h">宣州｜水东镇坚持全域全景 推进古镇旅游新发展</a><a href="" style="color:#d00d0d;">|文件</a></li>
+									<li><span class="date">2011-11-11</span><a href="#" class="u-h">宣城市召开2019年“扫黄打非”工作会议</a><a href="" style="color:#d00d0d;">|文件</a></li>
+									<li><span class="date">2011-11-11</span><a href="#" class="u-h">我市深入推进旅游厕所建设</a><a href="" style="color:#d00d0d;">|文件</a></li>
+									<li><span class="date">2011-11-11</span><a href="#" class="u-h">我市开展全国,数理化老师竟也看学习资料？</a><a href="" style="color:#d00d0d;">|文件</a></li>
+									<li><span class="date">2011-11-11</span><a href="#" class="u-h">宣城市召开2019年“扫黄打非”工作会议</a><a href="" style="color:#d00d0d;">|文件</a></li>
+									<li><span class="date">2011-11-11</span><a href="#" class="u-h">我市深入推进旅游厕所建设</a><a href="" style="color:#d00d0d;">|文件</a></li>
+								</ul>
+								<ul>
+									<li><span class="date">2011-11-11</span><a href="#" class="u-h">宣州｜水东镇坚持全域全景 推进古镇旅游新发展</a><a href="" style="color:#d00d0d;">|文件</a></li>
+									<li><span class="date">2011-11-11</span><a href="#" class="u-h">宣城市召开2019年“扫黄打非”工作会议</a><a href="" style="color:#d00d0d;">|文件</a></li>
+									<li><span class="date">2011-11-11</span><a href="#" class="u-h">我市深入推进旅游厕所建设</a><a href="" style="color:#d00d0d;">|文件</a></li>
+									<li><span class="date">2011-11-11</span><a href="#" class="u-h">我市开展全国,数理化老师竟也看学习资料？</a><a href="" style="color:#d00d0d;">|文件</a></li>
+									<li><span class="date">2011-11-11</span><a href="#" class="u-h">宣城市召开2019年“扫黄打非”工作会议</a><a href="" style="color:#d00d0d;">|文件</a></li>
+									<li><span class="date">2011-11-11</span><a href="#" class="u-h">我市深入推进旅游厕所建设</a><a href="" style="color:#d00d0d;">|文件</a></li>
+								</ul>
+								<ul>
+									<li><span class="date">2011-11-11</span><a href="#" class="u-h">宣州｜水东镇坚持全域全景 推进古镇旅游新发展</a><a href="" style="color:#d00d0d;">|文件</a></li>
+									<li><span class="date">2011-11-11</span><a href="#" class="u-h">宣城市召开2019年“扫黄打非”工作会议</a><a href="" style="color:#d00d0d;">|文件</a></li>
+									<li><span class="date">2011-11-11</span><a href="#" class="u-h">我市深入推进旅游厕所建设</a><a href="" style="color:#d00d0d;">|文件</a></li>
+									<li><span class="date">2011-11-11</span><a href="#" class="u-h">我市开展全国,数理化老师竟也看学习资料？</a><a href="" style="color:#d00d0d;">|文件</a></li>
+									<li><span class="date">2011-11-11</span><a href="#" class="u-h">宣城市召开2019年“扫黄打非”工作会议</a><a href="" style="color:#d00d0d;">|文件</a></li>
+									<li><span class="date">2011-11-11</span><a href="#" class="u-h">我市深入推进旅游厕所建设</a><a href="" style="color:#d00d0d;">|文件</a></li>
+								</ul>
+								<ul>
+									<li><span class="date">2011-11-11</span><a href="#" class="u-h">宣州｜水东镇坚持全域全景 推进古镇旅游新发展</a><a href="" style="color:#d00d0d;">|文件</a></li>
+									<li><span class="date">2011-11-11</span><a href="#" class="u-h">宣城市召开2019年“扫黄打非”工作会议</a><a href="" style="color:#d00d0d;">|文件</a></li>
+									<li><span class="date">2011-11-11</span><a href="#" class="u-h">我市深入推进旅游厕所建设</a><a href="" style="color:#d00d0d;">|文件</a></li>
+									<li><span class="date">2011-11-11</span><a href="#" class="u-h">我市开展全国,数理化老师竟也看学习资料？</a><a href="" style="color:#d00d0d;">|文件</a></li>
+									<li><span class="date">2011-11-11</span><a href="#" class="u-h">宣城市召开2019年“扫黄打非”工作会议</a><a href="" style="color:#d00d0d;">|文件</a></li>
+									<li><span class="date">2011-11-11</span><a href="#" class="u-h">我市深入推进旅游厕所建设</a><a href="" style="color:#d00d0d;">|文件</a></li>
+								</ul>
+								<ul>
+									<li><span class="date">2011-11-11</span><a href="#" class="u-h">宣州｜水东镇坚持全域全景 推进古镇旅游新发展</a><a href="" style="color:#d00d0d;">|文件</a></li>
+									<li><span class="date">2011-11-11</span><a href="#" class="u-h">宣城市召开2019年“扫黄打非”工作会议</a><a href="" style="color:#d00d0d;">|文件</a></li>
+									<li><span class="date">2011-11-11</span><a href="#" class="u-h">我市深入推进旅游厕所建设</a><a href="" style="color:#d00d0d;">|文件</a></li>
+									<li><span class="date">2011-11-11</span><a href="#" class="u-h">我市开展全国,数理化老师竟也看学习资料？</a><a href="" style="color:#d00d0d;">|文件</a></li>
+									<li><span class="date">2011-11-11</span><a href="#" class="u-h">宣城市召开2019年“扫黄打非”工作会议</a><a href="" style="color:#d00d0d;">|文件</a></li>
+									<li><span class="date">2011-11-11</span><a href="#" class="u-h">我市深入推进旅游厕所建设</a><a href="" style="color:#d00d0d;">|文件</a></li>
+								</ul>
+						    </div>
+						</div>
+					</div>
+					<div class="m-zctj">
+					    <h3><a href="">政策图解</a></h3>
+					    <div class="m-tujie owl-carousel">
+						    <div class="item"><img src="../../media/images/jdhy/zt1.jpg"></div>
+						    <div class="item"><img src="../../media/images/jdhy/zt1.jpg"></div>
+						    <div class="item"><img src="../../media/images/jdhy/zt1.jpg"></div>
+						    <div class="item"><img src="../../media/images/jdhy/zt1.jpg"></div>
+						    <div class="item"><img src="../../media/images/jdhy/zt1.jpg"></div>
+						</div>
+					</div>
+				 </div>
+			 </div>
+			 <div class="m-content2">
+			     <div class="m-wjguifan fl">
+				     <h1><a href="">规范性文件</a></h1>
+				     <div class="m-listbox">
+						<div class="hd">
+							<ul><li class="on"><a href="">规范性文件立发布</a></li><li><a href="">规范性文件立改废</a></li></ul>
+						</div>
+						<div class="bd">
+							<ul>
+								<li><span class="date">2011-11-11</span><a href="#" class="u-h">宣州｜水东镇坚持全域全景 推进古镇旅游</a><a href="" style="color:#d00d0d;">|解读</a></li>
+								<li><span class="date">2011-11-11</span><a href="#" class="u-h">宣城市召开2019年“扫黄打非”工作会议</a><a href="" style="color:#d00d0d;">|解读</a></li>
+								<li><span class="date">2011-11-11</span><a href="#" class="u-h">我市深入推进旅游厕所建设</a><a href="" style="color:#d00d0d;">|解读</a></li>
+								<li><span class="date">2011-11-11</span><a href="#" class="u-h">我市开展全国,数理化老师竟也看学习资料？</a><a href="" style="color:#d00d0d;">|解读</a></li>
+								<li><span class="date">2011-11-11</span><a href="#" class="u-h">宣城市召开2019年“扫黄打非”工作会议</a><a href="" style="color:#d00d0d;">|解读</a></li>
+								<li><span class="date">2011-11-11</span><a href="#" class="u-h">我市深入推进旅游厕所建设</a><a href="" style="color:#d00d0d;">|解读</a></li>
+								<li><span class="date">2011-11-11</span><a href="#" class="u-h">我市深入推进旅游厕所建设</a><a href="" style="color:#d00d0d;">|解读</a></li>
+							</ul>
+							<ul>
+								<li><span class="date">2011-11-11</span><a href="#" class="u-h">宣州｜水东镇坚持全域全景 推进古镇旅游</a><a href="" style="color:#d00d0d;">|解读</a></li>
+								<li><span class="date">2011-11-11</span><a href="#" class="u-h">宣城市召开2019年“扫黄打非”工作会议</a><a href="" style="color:#d00d0d;">|解读</a></li>
+								<li><span class="date">2011-11-11</span><a href="#" class="u-h">我市深入推进旅游厕所建设</a><a href="" style="color:#d00d0d;">|解读</a></li>
+								<li><span class="date">2011-11-11</span><a href="#" class="u-h">我市开展全国,数理化老师竟也看学习资料？</a><a href="" style="color:#d00d0d;">|解读</a></li>
+								<li><span class="date">2011-11-11</span><a href="#" class="u-h">宣城市召开2019年“扫黄打非”工作会议</a><a href="" style="color:#d00d0d;">|解读</a></li>
+								<li><span class="date">2011-11-11</span><a href="#" class="u-h">我市深入推进旅游厕所建设</a><a href="" style="color:#d00d0d;">|解读</a></li>
+								<li><span class="date">2011-11-11</span><a href="#" class="u-h">我市深入推进旅游厕所建设</a><a href="" style="color:#d00d0d;">|解读</a></li>
+							</ul>
+						</div>
+					</div>
+				 </div>
+				 <div class="m-wjqita fr">
+				     <h1><a href="">其他文件</a></h1>
+				     <div class="m-listbox2">
+						<div class="bd">
+							<ul>
+								<li><span class="date">2011-11-11</span><a href="#" class="u-h">宣州｜水东镇坚持全域全景 推进古镇旅游</a></li>
+								<li><span class="date">2011-11-11</span><a href="#" class="u-h">宣城市召开2019年“扫黄打非”工作会议</a></li>
+								<li><span class="date">2011-11-11</span><a href="#" class="u-h">我市深入推进旅游厕所建设</a></li>
+								<li><span class="date">2011-11-11</span><a href="#" class="u-h">我市开展全国,数理化老师竟也看学习资料？</a></li>
+								<li><span class="date">2011-11-11</span><a href="#" class="u-h">宣城市召开2019年“扫黄打非”工作会议</a></li>
+								<li><span class="date">2011-11-11</span><a href="#" class="u-h">我市深入推进旅游厕所建设</a></li>
+								<li><span class="date">2011-11-11</span><a href="#" class="u-h">我市深入推进旅游厕所建设</a></li>
+							</ul>
+						</div>
+					</div>
+				 </div>
+			 </div>
+			 <div class="m-content3">
+			     <div class="m-wjguifan fl">
+				     <h1><a href="">回应关切</a></h1>
+				     <div class="m-listbox">
+						<div class="hd">
+							<ul>
+							    <li class="on"><a href="">主动回应</a></li>
+								<li><a href="">热点回应</a></li>
+								<li><a href="">互动回应</a></li>
+								<li><a href="">民生回应</a></li>
+							</ul>
+						</div>
+						<div class="bd">
+							<ul>
+								<li><span class="date">2011-11-11</span><a href="#" class="u-h">宣州｜水东镇坚持全域全景 推进古镇旅游</a></li>
+								<li><span class="date">2011-11-11</span><a href="#" class="u-h">宣城市召开2019年“扫黄打非”工作会议</a></li>
+								<li><span class="date">2011-11-11</span><a href="#" class="u-h">我市深入推进旅游厕所建设</a></li>
+								<li><span class="date">2011-11-11</span><a href="#" class="u-h">我市开展全国,数理化老师竟也看学习资料？</a></li>
+								<li><span class="date">2011-11-11</span><a href="#" class="u-h">宣城市召开2019年“扫黄打非”工作会议</a></li>
+								<li><span class="date">2011-11-11</span><a href="#" class="u-h">我市深入推进旅游厕所建设</a></li>
+								<li><span class="date">2011-11-11</span><a href="#" class="u-h">我市深入推进旅游厕所建设</a></li>
+							</ul>
+							<ul>
+								<li><span class="date">2011-11-11</span><a href="#" class="u-h">宣州｜水东镇坚持全域全景 推进古镇旅游</a></li>
+								<li><span class="date">2011-11-11</span><a href="#" class="u-h">宣城市召开2019年“扫黄打非”工作会议</a></li>
+								<li><span class="date">2011-11-11</span><a href="#" class="u-h">我市深入推进旅游厕所建设</a></li>
+								<li><span class="date">2011-11-11</span><a href="#" class="u-h">我市开展全国,数理化老师竟也看学习资料？</a></li>
+								<li><span class="date">2011-11-11</span><a href="#" class="u-h">宣城市召开2019年“扫黄打非”工作会议</a></li>
+								<li><span class="date">2011-11-11</span><a href="#" class="u-h">我市深入推进旅游厕所建设</a></li>
+								<li><span class="date">2011-11-11</span><a href="#" class="u-h">我市深入推进旅游厕所建设</a></li>
+							</ul>
+							<ul>
+								<li><span class="date">2011-11-11</span><a href="#" class="u-h">宣州｜水东镇坚持全域全景 推进古镇旅游</a></li>
+								<li><span class="date">2011-11-11</span><a href="#" class="u-h">宣城市召开2019年“扫黄打非”工作会议</a></li>
+								<li><span class="date">2011-11-11</span><a href="#" class="u-h">我市深入推进旅游厕所建设</a></li>
+								<li><span class="date">2011-11-11</span><a href="#" class="u-h">我市开展全国,数理化老师竟也看学习资料？</a></li>
+								<li><span class="date">2011-11-11</span><a href="#" class="u-h">宣城市召开2019年“扫黄打非”工作会议</a></li>
+								<li><span class="date">2011-11-11</span><a href="#" class="u-h">我市深入推进旅游厕所建设</a></li>
+								<li><span class="date">2011-11-11</span><a href="#" class="u-h">我市深入推进旅游厕所建设</a></li>
+							</ul>
+							<ul>
+								<li><span class="date">2011-11-11</span><a href="#" class="u-h">宣州｜水东镇坚持全域全景 推进古镇旅游</a></li>
+								<li><span class="date">2011-11-11</span><a href="#" class="u-h">宣城市召开2019年“扫黄打非”工作会议</a></li>
+								<li><span class="date">2011-11-11</span><a href="#" class="u-h">我市深入推进旅游厕所建设</a></li>
+								<li><span class="date">2011-11-11</span><a href="#" class="u-h">我市开展全国,数理化老师竟也看学习资料？</a></li>
+								<li><span class="date">2011-11-11</span><a href="#" class="u-h">宣城市召开2019年“扫黄打非”工作会议</a></li>
+								<li><span class="date">2011-11-11</span><a href="#" class="u-h">我市深入推进旅游厕所建设</a></li>
+								<li><span class="date">2011-11-11</span><a href="#" class="u-h">我市深入推进旅游厕所建设</a></li>
+							</ul>
+						</div>
+					</div>
+				 </div>
+				 <div class="m-wjguifan fr">
+				     <h1><a href="">新闻发布会</a></h1>
+				     <div class="m-listbox">
+						<div class="hd">
+							<ul>
+							    <li class="on"><a href="">制度安排</a></li>
+								<li><a href="">新闻发布会实录</a></li>
+							</ul>
+						</div>
+						<div class="bd">
+							<ul>
+								<li><span class="date">2011-11-11</span><a href="#" class="u-h">宣州｜水东镇坚持全域全景 推进古镇旅游</a></li>
+								<li><span class="date">2011-11-11</span><a href="#" class="u-h">宣城市召开2019年“扫黄打非”工作会议</a></li>
+								<li><span class="date">2011-11-11</span><a href="#" class="u-h">我市深入推进旅游厕所建设</a></li>
+								<li><span class="date">2011-11-11</span><a href="#" class="u-h">我市开展全国,数理化老师竟也看学习资料？</a></li>
+								<li><span class="date">2011-11-11</span><a href="#" class="u-h">宣城市召开2019年“扫黄打非”工作会议</a></li>
+								<li><span class="date">2011-11-11</span><a href="#" class="u-h">我市深入推进旅游厕所建设</a></li>
+								<li><span class="date">2011-11-11</span><a href="#" class="u-h">我市深入推进旅游厕所建设</a></li>
+							</ul>
+							<ul>
+								<li><span class="date">2011-11-11</span><a href="#" class="u-h">宣州｜水东镇坚持全域全景 推进古镇旅游</a></li>
+								<li><span class="date">2011-11-11</span><a href="#" class="u-h">宣城市召开2019年“扫黄打非”工作会议</a></li>
+								<li><span class="date">2011-11-11</span><a href="#" class="u-h">我市深入推进旅游厕所建设</a></li>
+								<li><span class="date">2011-11-11</span><a href="#" class="u-h">我市开展全国,数理化老师竟也看学习资料？</a></li>
+								<li><span class="date">2011-11-11</span><a href="#" class="u-h">宣城市召开2019年“扫黄打非”工作会议</a></li>
+								<li><span class="date">2011-11-11</span><a href="#" class="u-h">我市深入推进旅游厕所建设</a></li>
+								<li><span class="date">2011-11-11</span><a href="#" class="u-h">我市深入推进旅游厕所建设</a></li>
+							</ul>
+						</div>
+					</div>
+				 </div>
+			 </div>
+		 </div>
+		 <!--底部开始-->
+		 <div class="is-foot">
+		 
+		 </div>
+		 <!--底部结束-->
+		 <script src="../../media/js/jquery.SuperSlide.2.1.js"></script>
+		 <script>
+		     jQuery(".m-benji .bd").slide({ titCell:".u-hd li", mainCell:".u-bd", targetCell:".more a", autoPlay:false});
+			 jQuery(".m-listbox").slide({ titCell:".hd li", mainCell:".bd", targetCell:".more a", autoPlay:false});
+			 $('.m-tujie').owlCarousel({
+					loop:true,
+					margin:15,
+					autoplay: true,
+                    autoplayTimeout: 1500,
+					responsive:{
+						0:{
+							items:1
+						},
+						600:{
+							items:3
+						},
+						1000:{
+							items:5
+						}
+					}
+				})
+		 </script>
+	</body>

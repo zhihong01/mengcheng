@@ -1,0 +1,240 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">	
+		<meta name="SiteName" content="" />
+		<meta name="SiteDomain" content="" />
+		<meta name="SiteIDCode" content="" />
+		<meta name="keywords" content="" />
+		<meta name="description" content="" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+		<title>蒙城县人民政府 </title>
+		<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
+		<link rel="stylesheet" href="https://cdn.staticfile.org/twitter-bootstrap/3.3.7/css/bootstrap.min.css">
+	    <script src="https://cdn.staticfile.org/jquery/2.1.1/jquery.min.js"></script>
+	    <script src="https://cdn.staticfile.org/twitter-bootstrap/3.3.7/js/bootstrap.min.js"></script>
+		<link rel="stylesheet" href="../../media/css/public.css">
+		<link rel="stylesheet" href="../../media/css/about.css">
+	</head>
+	<body>
+		<div class="is-header">
+		 	<div class="m-top">
+		 		<div class="logo"><img src="../../media/images/public/logo.png" alt="" class="img-responsive"></div>
+		 		<div class="wt">
+				    <span><script src="../../media/js/time.js"></script></span>
+					<!-- <span><iframe allowtransparency="true" frameborder="0" width="180" height="36" scrolling="no" src="//tianqi.2345.com/plugin/widget/index.htm?s=3&z=2&t=0&v=0&d=3&bd=0&k=&f=&ltf=009944&htf=cc0000&q=1&e=1&a=0&c=60596&w=180&h=36&align=center"></iframe></span> -->
+				</div>
+		 		<div class="u-link">
+		 			<ul class="xian">
+		 				<li><a href="" target="_blank">县政协</a></li>
+		 				<li><a href="" target="_blank">县政府</a>|</li>
+		 				<li><a href="" target="_blank">县人大</a>|</li>
+		 				<li><a href="" target="_blank">县委</a>|</li>
+		 			</ul>
+		 			<ul class="fx">
+		 				<li class="fx1"><a href="">注册</a></li>
+		 				<li class="fx2"><a href="">登录</a></li>
+		 				<li class="fx3"><a href="">RSS订阅</a></li>
+		 				<li class="fx4"><a href="">无障碍浏览</a></li>
+		 				<li class="fx5"><a href="">简繁体</a></li>
+		 			</ul>
+		 		</div>
+		 	</div>
+	 		<div class="m-search">
+				<form method="GET" action="/index.php?c=search">
+					<input type="text" name="keywords" placeholder="-请输入检索关键字-" value="" class="u-searchtext fl" x-webkit-speech="" autocomplete="off">
+					<input name="" type="submit" value="" class="u-searchbtn fl">
+					<input name="c" type="hidden" value="search">
+					<a class="fl u-goodser" href="" title="" target="_blank">高级搜索</a>
+				</form>
+			</div>
+            <div class="m-nav navbar navbar-default" role="navigation">
+				<div class="container-fluid"> 
+					<div class="navbar-header">
+						<button type="button" class="navbar-toggle" data-toggle="collapse"
+								data-target="#example-navbar-collapse">
+							<span class="sr-only">切换导航</span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+						</button>
+						<a class="navbar-brand" href="#">网站首页</a>
+					</div>
+					<div class="collapse navbar-collapse" id="example-navbar-collapse">
+						<ul class="nav navbar-nav">
+				            <li><a href=""><i class="u-icv1"></i> 网站首页</a></li>
+				            <li><a href=""><i class="u-icv2"></i> 走进利辛</a></li>
+				            <li><a href=""><i class="u-icv3"></i> 新闻中心</a></li>
+				            <li><a href=""><i class="u-icv4"></i> 政务公开</a></li>
+				            <li><a href=""><i class="u-icv5"></i> 解读回应</a></li>
+				            <li><a href=""><i class="u-icv6"></i> 办事服务</a></li>
+				            <li><a href=""><i class="u-icv7"></i> 互动交流</a></li>
+				            <li><a href=""><i class="u-icv8"></i> 数据开放</a></li>
+				        </ul> 
+					</div>
+				</div>
+            </div>
+		 </div> 
+		 <div class="is-main">
+		    <div class="m-content1">
+			     <div class="mc-intro fl">
+	                <p>蒙城，隶属亳州市，总面积2091平方公里，耕地183万亩，辖17个乡镇（街道）、1个省级经济开发区，人口142万。蒙城是庄子故里、中国楹联之乡、省级历史文化名城，也是国家园林县城、全国粮食生产先进县、全国绿化先进县、全国科普示范县、全省文明县、全省园林县城、全省教育强县。蒙城历史悠久，文化底蕴丰厚。蒙城始建于殷商，是先哲庄子和孔子“七十二贤”之一陈亢的故里。境内有万佛塔、文庙、庄子祠、九鼎灵山寺等名胜古迹。尉迟寺新石器文化遗址被称为“中华原始第一村”，和北宋古塔万佛塔一起被列为国家级重点文物保护单位。蒙城非物质文化遗产丰富，被誉...  <a href="" style="color:#d00d0d;">[详细]</a></p>
+                    <ul>
+					    <li class="mc01"><a href=""><i></i> 区域划分</a></li>
+					    <li class="mc02"><a href=""><i></i> 自然地理</a></li>
+					    <li class="mc03"><a href=""><i></i> 学在蒙城</a></li>
+					</ul>					
+				 </div>
+				 <div class="m-video fr">
+				    <video controls="controls" autoplay="autoplay">
+					  <source src="movie.ogg" type="video/ogg" />
+					  <source src="movie.mp4" type="video/mp4" />
+					   浏览器版本过低！
+					</video> 
+				 </div>
+			</div>
+			<div class="m-content2">
+			    <div class="m-mcsoft m-listbox">
+				    <h2><a href="">经济发展</a></h2>
+					<a class="u-imgbox"><img src="../../media/images/about/ml1.jpg" class="img-responsive"></a>
+					<ul>
+					    <li><span class="date">2011-11-11</span><a href="#">县委召开审计委员会、财经委...</a></li>
+						<li><span class="date">2011-11-11</span><a href="#">我县与市供电公司举行工作... </a></li>
+						<li><span class="date">2011-11-11</span><a href="#">我县召开全县财政暨民生工程... </a></li>
+						<li><span class="date">2011-11-11</span><a href="#">我县收听收看市委理论学习中</a></li>
+						<li><span class="date">2011-11-11</span><a href="#">推进古镇旅游新发展</a></li>
+					</ul>
+				</div>
+				<div class="m-mcsoft m-listbox">
+				    <h2><a href="">蒙城历史</a></h2>
+					<a class="u-imgbox"><img src="../../media/images/about/ml2.jpg" class="img-responsive"></a>
+					<ul>
+					    <li><span class="date">2011-11-11</span><a href="#">县委召开审计委员会、财经委...</a></li>
+						<li><span class="date">2011-11-11</span><a href="#">我县与市供电公司举行工作... </a></li>
+						<li><span class="date">2011-11-11</span><a href="#">我县召开全县财政暨民生工程... </a></li>
+						<li><span class="date">2011-11-11</span><a href="#">我县收听收看市委理论学习中</a></li>
+						<li><span class="date">2011-11-11</span><a href="#">推进古镇旅游新发展</a></li>
+					</ul>
+				</div>
+				<div class="m-mcsoft m-listbox">
+				    <h2><a href="">文化蒙城</a></h2>
+					<a class="u-imgbox"><img src="../../media/images/about/ml3.jpg" class="img-responsive"></a>
+					<ul>
+					    <li><span class="date">2011-11-11</span><a href="#">县委召开审计委员会、财经委...</a></li>
+						<li><span class="date">2011-11-11</span><a href="#">我县与市供电公司举行工作... </a></li>
+						<li><span class="date">2011-11-11</span><a href="#">我县召开全县财政暨民生工程... </a></li>
+						<li><span class="date">2011-11-11</span><a href="#">我县收听收看市委理论学习中</a></li>
+						<li><span class="date">2011-11-11</span><a href="#">推进古镇旅游新发展</a></li>
+					</ul>
+				</div>
+			</div>
+			<div class="m-content3">
+			    <h1><a href="">旅游蒙城</a></h1>
+				<ul class="m-mctravel">
+				    <li class="ly01"><a href=""><i>吃</i></a></li>
+				    <li class="ly02"><a href=""><i>住</i></a></li>
+				    <li class="ly03"><a href=""><i>行</i></a></li>
+				    <li class="ly04"><a href=""><i>娱</i></a></li>
+				    <li class="ly05"><a href=""><i>购</i></a></li>
+				    <li class="ly06"><a href=""><i>学</i></a></li>
+				</ul>
+			</div>
+			<div class="m-content4">
+			    <h1><a href="">投资蒙城</a></h1>
+				<div class="m-listbox m-touzi fl">
+					<div class="hd">
+						<ul><li class="on"><a href="">经济统计</a></li><li><a href="">重点项目</a></li><li><a href="">优惠政策</a></li></ul>
+					</div>
+					<div class="bd">
+						<ul>
+							<li><span class="date">2011-11-11</span><a href="#">宣州｜水东镇坚持全域全景 推进古镇旅游新发展   </a></li>
+							<li><span class="date">2011-11-11</span><a href="#">宣城市召开2019年“扫黄打非”工作会议</a></li>
+							<li><span class="date">2011-11-11</span><a href="#">我市深入推进旅游厕所建设</a></li>
+							<li><span class="date">2011-11-11</span><a href="#">我市开展全国,数理化老师竟也看学习资料？</a></li>
+							<li><span class="date">2011-11-11</span><a href="#">宣城市召开2019年“扫黄打非”工作会议</a></li>
+							<li><span class="date">2011-11-11</span><a href="#">我市深入推进旅游厕所建设</a></li>
+						</ul>
+						<ul>
+							<li><span class="date">2011-11-11</span><a href="#">我市深入推进旅游厕所建设</a></li>
+							<li><span class="date">2011-11-11</span><a href="#">我市开展全国,数理化老师竟也看学习资料？</a></li>
+							<li><span class="date">2011-11-11</span><a href="#">名师教作文：３妙招巧写高分</a></li>
+							<li><span class="date">2011-11-11</span><a href="#">耶鲁小子：教你备考SAT</a></li>
+							<li><span class="date">2011-11-11</span><a href="#">施强：高端专业语言教学</a></li>
+							<li><span class="date">2011-11-11</span><a href="#">数理化老师竟也看学习资料？</a></li>
+						</ul>	
+					</div>
+				</div>
+				<div class="m-listbox m-touzi fr">
+					<div class="hd">
+						<ul><li class="on"><a href="">产业规划</a></li><li><a href="">主导产业</a></li><li><a href="">园区建设</a></li><li><a href="">工业经济</a></li></ul>
+					</div>
+					<div class="bd">
+						<ul>
+							<li><span class="date">2011-11-11</span><a href="#">宣州｜水东镇坚持全域全景 推进古镇旅游新发展   </a></li>
+							<li><span class="date">2011-11-11</span><a href="#">宣城市召开2019年“扫黄打非”工作会议</a></li>
+							<li><span class="date">2011-11-11</span><a href="#">我市深入推进旅游厕所建设</a></li>
+							<li><span class="date">2011-11-11</span><a href="#">我市开展全国,数理化老师竟也看学习资料？</a></li>
+							<li><span class="date">2011-11-11</span><a href="#">宣城市召开2019年“扫黄打非”工作会议</a></li>
+							<li><span class="date">2011-11-11</span><a href="#">我市深入推进旅游厕所建设</a></li>
+						</ul>
+						<ul>
+							<li><span class="date">2011-11-11</span><a href="#">我市深入推进旅游厕所建设</a></li>
+							<li><span class="date">2011-11-11</span><a href="#">我市开展全国,数理化老师竟也看学习资料？</a></li>
+							<li><span class="date">2011-11-11</span><a href="#">名师教作文：３妙招巧写高分</a></li>
+							<li><span class="date">2011-11-11</span><a href="#">耶鲁小子：教你备考SAT</a></li>
+							<li><span class="date">2011-11-11</span><a href="#">施强：高端专业语言教学</a></li>
+							<li><span class="date">2011-11-11</span><a href="#">数理化老师竟也看学习资料？</a></li>
+						</ul>	
+					</div>
+				</div>
+			</div>
+			<div class="m-content5">
+			    <h1><a href=""></a></h1>
+				<ul class="m-yinxiang">
+				    <li class="yx01"><a href=""><img src="../../media/images/about/mlmc_30.jpg"><span><i>纪念馆</i></span></a></li>
+				    <li class="yx02"><a href=""><img src="../../media/images/about/mlmc_30.jpg"><span><i>纪念馆</i></span></a></li>
+				    <li class="yx03"><a href=""><img src="../../media/images/about/mlmc_30.jpg"><span><i>纪念馆</i></span></a></li>
+				    <li class="yx04"><a href=""><img src="../../media/images/about/mlmc_30.jpg"><span><i>纪念馆</i></span></a></li>
+				    <li class="yx05"><a href=""><img src="../../media/images/about/mlmc_30.jpg"><span><i>纪念馆</i></span></a></li>
+
+				</ul>
+			</div>
+		 </div>
+		 <!--底部开始-->
+		 <div class="is-foot">
+			 <div class="fxlist">
+				<ul>
+					<li class="fx1"><a href="" target="_blank"></a><img src="../media/images/public/ucode.png"></li>
+					<li class="fx2"><a href="" target="_blank"></a><img src="../media/images/public/ucode.png"></li>
+					<li class="fx3"><a href="" target="_blank"></a><img src="../media/images/public/ucode.png"></li>
+					<li class="fx4"><a href="" target="_blank"></a></li>
+					<li class="fx5"><a href="" target="_blank"></a></li>
+					<li class="fx6"><a href="" target="_blank"></a></li>
+				</ul>
+			 </div>
+			<div class="m-footer">
+				<div class="m-middle">
+					<div class="fl"><p>版权所有：蒙城县人民政府   主办单位：蒙城县人民政府办公室 </p><p>E-mail： mcxzwgk@163.com 备案号：皖ICP备05015246号 网站标识码：3416220001</p>  <p><a class="wgw">皖公网安备34162202000016号</a></p></div>
+					<ul class="fl">
+						<li class="f1"><a href="">网站地图</a></li>
+						<li class="f2"><a href="">隐私申明</a></li>
+						<li class="f3"><a href="">使用说明</a></li>
+					    <li class="f4"><a href="">联系我们</a></li>
+					</ul>
+					<script id="_jiucuo_" sitecode='3416220001' src='http://pucha.kaipuyun.cn/exposure/jiucuo.js'></script>
+					<script type="text/javascript">document.write(unescape("%3Cspan id='_ideConac' %3E%3C/span%3E%3Cscript src='http://dcs.conac.cn/js/13/198/1564/60621165/CA131981564606211650001.js' type='text/javascript'%3E%3C/script%3E"));</script>
+				</div>
+			</div>
+		 </div>
+		 <!--底部结束-->
+		 <script src="../../media/js/jquery.SuperSlide.2.1.js"></script>
+		 <script>
+		     jQuery(".m-listbox").slide({ titCell:".hd li", mainCell:".bd", targetCell:".more a", autoPlay:false});
+		 </script>
+	</body>
+	
+	
+	
+	
+	

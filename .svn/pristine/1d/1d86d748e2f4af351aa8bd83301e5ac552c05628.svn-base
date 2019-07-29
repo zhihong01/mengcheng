@@ -1,0 +1,332 @@
+<!DOCTYPE html>
+<html lang="zh-cn">
+<head>
+	<meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>蒙城县人民政府</title>
+    <link rel="shortcut icon" type="image/x-icon" href="../favicon.ico">
+    <link rel="stylesheet" href="../media/css/bootstrap.min.css">
+	<link rel="stylesheet" href="../media/font/iconfont.css">
+    <link rel="stylesheet" href="../media/css/public.css">
+    <link rel="stylesheet" href="../media/css/page.css">
+    <!--[if lt IE 9]>
+    <script src="../media/js/html5shiv.js"></script>
+    <script src="../media/js/respond.min.js"></script>
+    <![endif]-->
+</head>
+<body>
+<!-- 头部 on -->
+<div class="is-header">
+	<div class="top-wrapper">
+		<div class="top-content">
+			<div class="f-left">
+				<a href="http://www.mengcheng.gov.cn/" target="_blank">返回主站</a>
+				|
+				<a href="http://xxgk.bozhou.gov.cn" target="_blank">亳州市政府政务公开</a>
+			</div>
+			<div class="f-right">
+				<a href="javascript:StranBody()" id="StranLink" title="繁體版">繁體版</a>
+				|
+				<a href="javascript:;" title="无障碍浏览" onclick="kqNav();">无障碍浏览</a>
+			</div>
+		</div>
+	</div>
+	<div class="banner-wrapper">
+		<div class="banner-content">
+			<div class="banner-logo">
+				<img src="../media/images/common/logo.png" alt="">
+			</div>
+			<div class="banner-img">
+				<img src="../media/images/common/flv.png" alt="">
+			</div>
+		</div>
+	</div>
+	<div class="m-nav navbar navbar-default" role="navigation">
+		<div class="container-fluid"> 
+			<div class="navbar-header">
+				<button type="button" class="navbar-toggle" data-toggle="collapse"
+						data-target="#example-navbar-collapse">
+					<span class="sr-only">切换导航</span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+				</button>
+				<a class="navbar-brand" href="#">网站首页</a>
+			</div>
+			<div class="collapse navbar-collapse" id="example-navbar-collapse">
+				<ul class="nav navbar-nav row">
+					<li class="nav1"><a href="">网站首页</a></li>
+					<li class="nav2"><a href="">公开年报</a></li>
+					<li class="nav3">
+						<a href="">公开指南与目录</a>
+						<div class="subnav subnav1">
+						  <a href="" target="_blank">县政府部门公开指南与目录</a>
+						  <a href="" target="_blank">乡镇街道公开指南与目录</a>
+						</div>
+					</li>
+					<li class="nav4">
+						<a href="">政策解读</a>
+						<div class="subnav subnav2">
+						  <a href="" target="_blank">上级政策解读</a>
+						  <a href="" target="_blank">本级政策解读</a>         
+						</div>
+					</li>
+					<li class="nav5">
+						<a href="">回应关切</a>
+						<div class="subnav subnav3">
+						  <a href="" target="_blank">主动回应</a>
+						  <a href="" target="_blank">在线访谈</a>
+						  <a href="" target="_blank">县长信箱</a>
+						  <a href="" target="_blank">部门信箱</a>
+						  <a href="" target="_blank">新闻发布会</a>
+						</div>
+					</li>
+					<li class="nav6">
+						<a href="">依申请公开</a>
+						<div class="subnav subnav4">
+						  <a href="" target="_blank">公开目录</a>
+						  <a href="" target="_blank">网上申请</a>
+						  <a href="" target="_blank">办理流程</a>
+						  <a href="" target="_blank">收费标准</a>
+						</div>
+					</li>
+					<li class="nav7">
+						 <a href="">监督保障</a>
+						 <div class="subnav subnav5">
+						  <a href="" target="_blank">宣传培训</a>
+						  <a href="" target="_blank">主题活动</a>
+						  <a href="" target="_blank">工作动态</a>
+						</div>
+					</li>
+				</ul> 
+			</div>
+		</div>
+	</div>
+	<div class="notice-wrapper">
+		<div class="u-date">
+			<script type="text/javascript" src="../media/js/time.js"></script>
+		</div>
+		<div class="u-weather">
+			<iframe src="//www.seniverse.com/weather/weather.aspx?uid=UEE571E5B2&cid=CHAH080300&l=zh-CHS&p=SMART&a=0&u=C&s=4&m=0&x=1&d=0&fc=&bgc=&bc=&ti=0&in=0&li=" frameborder="0" scrolling="no" width="1000" height="27" allowTransparency="true"></iframe>
+		</div>
+
+		<div class="u-search">
+			<form action="/opennessSearch/">
+			  <input type="text" name="keywords" placeholder="--请输入搜索关键字--" class="text">
+			  <input type="submit" class="btn" value="">
+			</form>
+			<a href="/xxgkDeep/" class="deep-search">高级搜索</a>
+		</div>
+	</div>
+</div>
+<!-- 头部 end -->
+<!-- 主体 on -->
+<div class="is-main container">
+	<section class="m-location f-mb14">
+		<span><i class="iconfont">&#xe6ea;</i>您当前所在位置：</span>
+		<a href="">网站首页</a> &gt;
+		<span>依申请公开</span>
+	</section>
+	<section class="f-openbox1 f-mb14">
+		<div class="m-bminfo f-mb10">
+			<ul class="row">
+				<li class="col-md-12">公开单位：<strong>蒙城县政府（办公室）</strong></li>
+				<li class="col-md-6">办公地址：<strong>蒙城县世纪大道监察委大楼</strong></li>
+				<li class="col-md-6">联系电话：<strong>0558-8807896</strong></li>
+			</ul>
+		</div>
+		<div class="m-ysqtab f-clearfix">
+			<ul>
+				<li><a href="">依申请公开目录</a></li>
+				<li><a href="">申请表下载</a></li>
+				<li><a href="">申请信息流程图</a></li>
+				<li><a href="">在线申请</a></li>
+				<li class="u-active"><a href="">依申请公开查询</a></li>
+				<li><a href="">依申请公开统计</a></li>
+			</ul>
+		</div>
+	</section>
+	<section class="f-openbox1">
+		<div class="m-ysqcxform f-mb14">
+			<form class="form-horizontal" role="form">
+				<ul class="row">
+					<li class="col-md-6">
+						<div class="form-group">
+					    	<label for="num" class="col-sm-2 control-label">查询码：</label>
+					    	<div class="col-sm-10">
+					      		<input type="text" class="form-control" id="num" placeholder="请输入查询码">
+					      		<span class="help-block">申请时候的查询密码</span>
+					    	</div>
+					  	</div>
+					</li>
+					<li class="col-md-6">
+						<div class="form-group">
+					    	<label for="code" class="col-sm-2 control-label">验证码：</label>
+					    	<div class="col-sm-10">
+					      		<input type="text" class="form-control f-fl" id="code" placeholder="请输入验证码">
+					      		<img class="f-fl" src="../media/images/home/pic-code.png" alt="">
+					    	</div>
+					  	</div>
+					</li>
+					<li class="col-md-12 text-center">
+						<button type="submit" class="btn btn-default">查询</button>
+					</li>
+				</ul>  	
+			</form>
+		</div>
+		<div class="m-ysqcxinfos table-responsive">
+			<table class="table table-bordered">
+				<thead>
+					<tr>
+						<th width="60">序号</th>
+						<th>申请内容</th>
+						<th width="60">申请人</th>
+						<th>被申请单位</th>
+						<th width="100">申请时间</th>
+						<th width="110">办理结果</th>
+					</tr>
+				</thead>
+				<tbody>
+					<tr>
+						<td>1</td>
+						<td>
+							<a href="" target="_blank">2018年7月10日-2019年5月21日期间玉花苑花鸟鱼虫市场项目登记备案情况（包括备案时间、幢号、房号、房屋面积、总房款等）。</a>
+						</td>
+						<td>赵杰</td>
+						<td>蒙城县住房和城乡建设局</td>
+						<td>2019-05-22</td>
+						<td>已主动公开</td>
+					</tr>
+					<tr>
+						<td>2</td>
+						<td>
+							<a href="" target="_blank">办理教师专业技术资格证书、聘任证书流程</a>
+						</td>
+						<td>李孝婷</td>
+						<td>蒙城县住房和城乡建设局</td>
+						<td>2019-05-22</td>
+						<td>不属于本机关负责公开</td>
+					</tr>
+					<tr>
+						<td>3</td>
+						<td>
+							<a href="" target="_blank">办理教师专业技术资格证书、聘任证书流程</a>
+						</td>
+						<td>李孝婷</td>
+						<td>蒙城县住房和城乡建设局</td>
+						<td>2019-05-22</td>
+						<td>不属于本机关负责公开</td>
+					</tr>
+					<tr>
+						<td>4</td>
+						<td>
+							<a href="" target="_blank">办理教师专业技术资格证书、聘任证书流程</a>
+						</td>
+						<td>赵杰</td>
+						<td>蒙城县住房和城乡建设局</td>
+						<td>2019-05-22</td>
+						<td>不属于本机关负责公开</td>
+					</tr>
+					<tr>
+						<td>5</td>
+						<td>
+							<a href="" target="_blank">办理教师专业技术资格证书、聘任证书流程</a>
+						</td>
+						<td>赵杰</td>
+						<td>蒙城县住房和城乡建设局</td>
+						<td>2019-05-22</td>
+						<td>不属于本机关负责公开</td>
+					</tr>
+					<tr>
+						<td>6</td>
+						<td>
+							<a href="" target="_blank">（高寨村前高庄道路属2016年“一事一议”项目,王市镇财政所按照“一事一议”项目的有关程序进行招标，并由涡阳县鑫阁建筑装饰工程有限公司中标）招标文件。</a>
+						</td>
+						<td>赵杰</td>
+						<td>蒙城县住房和城乡建设局</td>
+						<td>2019-05-22</td>
+						<td>不属于本机关负责公开</td>
+					</tr>
+				</tbody>
+			</table>
+		</div>
+		<div class="f-clearfix">
+			<ul class="pagination f-fr">
+			    <li><a href="#">&laquo;</a></li>
+			    <li class="active"><a href="#">1</a></li>
+			    <li><a href="#">2</a></li>
+			    <li><a href="#">3</a></li>
+			    <li><a href="#">4</a></li>
+			    <li><a href="#">5</a></li>
+			    <li><a href="#">&raquo;</a></li>
+			</ul>
+		</div>
+	</section>
+</div>
+<!-- 主体 end -->
+<!-- 底部 on -->
+<div class="is-foot">
+	 <div class="fxlist">
+		<ul>
+			<li class="fx1"><a href="" target="_blank"></a></li>
+			<li class="fx2"><a href="" target="_blank"></a></li>
+			<li class="fx3"><a href="" target="_blank"></a></li>
+			<li class="fx4"><a href="" target="_blank"></a></li>
+			<li class="fx5"><a href="" target="_blank"></a></li>
+			<li class="fx6"><a href="" target="_blank"></a></li>
+		</ul>
+	 </div>
+	<div class="m-footer">
+		<div class="m-middle">
+			<p class="fl"><p>版权所有：蒙城县人民政府   主办单位：蒙城县人民政府办公室 </p><p>E-mail： mcxzwgk@163.com  电话：0551-62663061 备案号：皖ICP备05015246号</p>  <p>网站标识码：3416220001<a class="wgw">皖公网安备34162202000016号</a></p>
+			<ul class="fl">
+				<li class="f1"><a href="">网站地图</a></li>
+				<li class="f2"><a href="">隐私申明</a></li>
+				<li class="f3"><a href="">使用说明</a></li>
+			   <!--  <li class="f4"><a href="">联系方式</a></li> -->
+			</ul>
+			<script id="_jiucuo_" sitecode='3416220001' src='http://pucha.kaipuyun.cn/exposure/jiucuo.js'></script>
+			<script type="text/javascript">document.write(unescape("%3Cspan id='_ideConac' %3E%3C/span%3E%3Cscript src='http://dcs.conac.cn/js/13/198/1564/60621165/CA131981564606211650001.js' type='text/javascript'%3E%3C/script%3E"));</script>
+		</div>
+	</div>
+ </div>
+<!-- 底部 end -->
+<!-- 右侧悬浮 on -->
+<div class="is-toolbar f-pf visible-md visible-lg">
+	<ul>
+		<li>
+			<a href="" target="_blank">
+				<span><i class="iconfont">&#xe603;</i></span>
+				<p>政务微博</p>
+				<img src="../media/images/public/pic-wbcode.png" alt="">
+			</a>
+		</li>
+		<li>
+			<a href="" target="_blank">
+				<span><i class="iconfont">&#xe60b;</i></span>
+				<p>政务微信</p>
+				<img src="../media/images/public/pic-wxcode.png" alt="">
+			</a>
+		</li>
+		<li>
+			<a href="" target="_blank">
+				<span><i class="iconfont">&#xe683;</i></span>
+				<p>县长信箱</p>
+			</a>
+		</li>
+		<li>
+			<a href="" target="_blank">
+				<span><i class="iconfont">&#xe67d;</i></span>
+				<p>县长热线</p>
+				<img src="../media/images/public/pic-xztel.png" alt="">
+			</a>
+		</li>
+	</ul>
+</div>
+<!-- 右侧悬浮 end -->
+<script src="../media/js/jquery.js"></script>
+<script src="../media/js/bootstrap.min.js"></script>
+<script src="../media/js/base.js"></script>
+</body>
+</html>

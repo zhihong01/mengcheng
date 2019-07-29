@@ -1,0 +1,74 @@
+@charset "utf-8";
+/*
+* @Author: Tech050
+* @Date:   2019-06-26 15:34:30
+* @Last Modified by:   Tech050
+* @Last Modified time: 2019-06-27 08:44:55
+*/
+
+.m-yjzjbox{padding: 6px 0px 20px; background: #fff;font-size:16px;}
+.u-zjtit{padding: 8px 0 20px; font-size: 32px; font-weight: bold; color: #c50e1b;}
+.m-zjsta{padding: 5px; border-bottom: 1px solid #ddd;}
+.m-zjfuns{line-height: 28px;}
+.m-zjfuns p{display: inline-block; margin: 0 30px; font-size: 14px; color: #999;}
+.m-zjfuns p span{color: #d00d0d;}
+.m-yjzjtabs{background: #e6e6e6; overflow: hidden;}
+.m-yjzjtabs li{float: left; width: 170px; text-align: center; line-height: 46px; cursor: pointer;background:url(../images/page/jx2.png) no-repeat ;background-size:100% 100%;margin-left:-10px;}
+.g-yjzj .m-yjzjtabs li.on{background:url(../images/page/jx0.png) no-repeat}
+.m-yjzjtabs li.u-active{background: url(../images/page/jx1.png) no-repeat;background-size:100% 100%; color: #fff;}
+.g-yjzjbox{padding: 20px 0;}
+.m-zjinfo{padding: 0 5px;}    
+.g-zjinfo{line-height: 188%; min-height: 164px;}
+.g-zjinfo h2{font-size:16px;font-weight:bold;line-height:36px;}
+.m-btfuns li{float: left; margin-right: 20px; line-height: 30px;}
+.m-btfuns li a{display: block; font-size: 13px; padding-left: 17px; background: url(../images/page/icon-detail.png) no-repeat;}
+.m-btfuns li.u-gotp a{background-position: 0 0;}
+.m-btfuns li.u-print a{background-position: 0 -30px;}
+.m-btfuns li.u-close a{background-position: 0 -60px;}
+.m-yjzjform{padding-right: 200px;}
+.m-yjzjform label span{color: #d00d0d;}
+.u-lycode{width: 30%; margin-right: 8px;}
+.u-formbtn input{margin: 10px;}
+.m-lylists h1{font-weight: bold; color: #d00d0d; padding: 5px;font-size:16px;}
+.m-lylists li{margin: 20px 0; padding: 20px; border: 1px solid #ddd;}
+.m-lylists li .u-lynames{padding: 0 10px 10px; color: #ff862d;}
+.m-lylists li .u-lybd{text-indent: 2em; font-size: 14px; color: #666;}
+.m-zjrst{padding: 0 80px;}
+.m-zjrst .u-tit{font-weight: bold; color: #d00d0d; padding: 5px;}
+.u-zjsetbs{line-height: 188%; min-height: 164px; text-indent: 2em;}
+
+
+/*超大PC屏幕下的专用样式*/
+@media screen and (min-width:1200px) {
+
+
+}
+/*中等PC屏幕下的专用样式*/
+@media screen and (max-width: 1199px) {
+
+
+}
+/*PAD屏幕下的专用样式*/
+@media screen and (max-width: 991px ){
+	.m-yjzjtabs li{width: 25%;}
+	.m-yjzjtabs li span{display: none;}
+	.m-zjinfo,.m-yjzjform,.m-zjrst{padding: 0 15px;}
+	.m-lylists li{margin: 10px 0; padding: 10px;}
+
+}
+/*PHONE屏幕下的专用样式*/
+@media screen and (max-width: 767px) {
+
+    
+}
+
+@media screen and (max-width: 638px) {
+	body{font-size: 14px;}
+
+    
+}
+@media screen and (max-width: 375px) {
+	.m-yjzjtabs li{width: 27%;}
+
+    
+}

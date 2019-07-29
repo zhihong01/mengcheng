@@ -1,0 +1,37 @@
+
+/**************************Reset***********************/
+body{ font-size:14px; font-family:"Microsoft YaHei"; color:#333; padding: 0; margin: 0; background:#f0f0f0; position:relative;}
+
+a{ color:#333; text-decoration:none;}
+a{blr:expression(this.onFocus=this.blur())}
+:focus{outline:0;}
+h2{font-size: 12px; color: #fff;}
+h2 a{font-size: 12px; font-weight: normal;}
+ul,li,dl,dt,h1,h2,h3,h4,h5,h,input{ margin:0; padding:0; list-style:none;}
+img{border:none; vertical-align:top}
+li{ vertical-align: top; }
+p{ padding: 0; margin: 0;}
+
+.clear{ clear:both; margin:0; overflow:hidden; visibility:hidden;  font-size: 0; content: "."; clear: both; height: 0; padding:0;}
+
+
+
+/************************** main ***********************/
+.is-main{ width:910px; height:328px; margin:240px auto 0;}
+.is-main .title1{ width:256px; height:336px; display:block; float:left; background:url(../images/error/404.png) no-repeat 0 0;}
+.is-main .title2{ width:256px; height:328px; display:block; float:left; background:url(../images/error/500.png) no-repeat 0 0;}
+.is-main .m-main{ width:576px; float:right;}
+.is-main .m-main span{ width:576px; height:108px; display:block; background:url(../images/error/error-bg.png) no-repeat 0 0; margin-top:88px;}
+.is-main .m-main a{ display:block; font-size:24px; color:#0c70ca; line-height:30px; margin-top:40px;}
+
+
+
+
+
+
+
+
+
+
+
+

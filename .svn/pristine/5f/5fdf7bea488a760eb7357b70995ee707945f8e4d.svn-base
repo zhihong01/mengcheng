@@ -1,0 +1,373 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">	
+		<meta name="SiteName" content="" />
+		<meta name="SiteDomain" content="" />
+		<meta name="SiteIDCode" content="" />
+		<meta name="keywords" content="" />
+		<meta name="description" content="" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+		<title>蒙城县人民政府 </title>
+		<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
+		<link rel="stylesheet" href="../../media/css/bootstrap.min.css">
+	    <script src="../../media/js/jquery.js"></script>
+	    <script src="../../media/js/bootstrap.min.js"></script>
+		<link rel="stylesheet" href="../../media/css/public.css">
+		<link rel="stylesheet" href="../../media/css/bsfw.css">
+		<!-- <link rel="stylesheet" href="../../media/css/owl.carousel.min.css">
+		<link rel="stylesheet" href="../../media/css/owl.theme.default.min.css">
+		<script src="../../media/js/owl.carousel.min.js"></script> -->
+		<link rel="stylesheet" href="../../media/OwlCarousel/css/owl.carousel.css">
+		<script src="../../media/OwlCarousel/js/owl.carousel.min.js"></script>
+		<!--[if lt IE 9]>
+	<script src="../../media/js/html5shiv.js"></script>
+	<script src="../../media/js/respond.min.js"></script>
+	<![endif]-->
+	</head>
+	<body>
+		<div class="is-header">
+		 	<div class="m-top">
+		 		<div class="logo"><img src="../../media/images/public/logo.png" alt="" class="img-responsive"></div>
+		 		<div class="wt">
+				    <span><script src="../../media/js/time.js"></script></span>
+					<!-- <span><iframe allowtransparency="true" frameborder="0" width="180" height="36" scrolling="no" src="//tianqi.2345.com/plugin/widget/index.htm?s=3&z=2&t=0&v=0&d=3&bd=0&k=&f=&ltf=009944&htf=cc0000&q=1&e=1&a=0&c=60596&w=180&h=36&align=center"></iframe></span> -->
+				</div>
+		 		<div class="u-link">
+		 			<ul class="xian">
+		 				<li><a href="" target="_blank">县政协</a></li>
+		 				<li><a href="" target="_blank">县政府</a>|</li>
+		 				<li><a href="" target="_blank">县人大</a>|</li>
+		 				<li><a href="" target="_blank">县委</a>|</li>
+		 			</ul>
+		 			<ul class="fx">
+		 				<li class="fx1"><a href="">注册</a></li>
+		 				<li class="fx2"><a href="">登录</a></li>
+		 				<li class="fx3"><a href="">RSS订阅</a></li>
+		 				<li class="fx4"><a href="">无障碍浏览</a></li>
+		 				<li class="fx5"><a href="">简繁体</a></li>
+		 			</ul>
+		 		</div>
+		 	</div>
+	 		<div class="m-search">
+				<form method="GET" action="/index.php?c=search">
+					<input type="text" name="keywords" placeholder="-请输入检索关键字-" value="" class="u-searchtext fl" x-webkit-speech="" autocomplete="off">
+					<input name="" type="submit" value="" class="u-searchbtn fl">
+					<input name="c" type="hidden" value="search">
+					<a class="fl u-goodser" href="" title="" target="_blank">高级搜索</a>
+				</form>
+			</div>
+            <div class="m-nav navbar navbar-default" role="navigation">
+				<div class="container-fluid"> 
+					<div class="navbar-header">
+						<button type="button" class="navbar-toggle" data-toggle="collapse"
+								data-target="#example-navbar-collapse">
+							<span class="sr-only">切换导航</span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+						</button>
+						<a class="navbar-brand" href="#">网站首页</a>
+					</div>
+					<div class="collapse navbar-collapse" id="example-navbar-collapse">
+						<ul class="nav navbar-nav">
+				            <li><a href=""><i class="u-icv1"></i> 网站首页</a></li>
+				            <li><a href=""><i class="u-icv2"></i> 走进利辛</a></li>
+				            <li><a href=""><i class="u-icv3"></i> 新闻中心</a></li>
+				            <li><a href=""><i class="u-icv4"></i> 政务公开</a></li>
+				            <li><a href=""><i class="u-icv5"></i> 解读回应</a></li>
+				            <li><a href=""><i class="u-icv6"></i> 办事服务</a></li>
+				            <li><a href=""><i class="u-icv7"></i> 互动交流</a></li>
+				            <li><a href=""><i class="u-icv8"></i> 数据开放</a></li>
+				        </ul> 
+					</div>
+				</div>
+            </div>
+		 </div>
+		 <div class="is-main">
+		     <div class="m-hotservice m-content1">
+				<h1><a href="">热点服务</a></h1>
+				<div class="m-hotfw owl-carousel">
+					<div class="u-item"><a href="" class="hf1"><i></i>新农保缴费</a></div>
+					<div class="u-item"><a href="" class="hf2"><i></i>住房公积金提...</a></div>
+					<div class="u-item"><a href="" class="hf3"><i></i>健康体检合格...</a></div>
+					<div class="u-item"><a href="" class="hf4"><i></i>80周岁以上老...</a></div>
+					<div class="u-item"><a href="" class="hf5"><i></i>个人参保证明...</a></div>
+					<div class="u-item"><a href="" class="hf6"><i></i>联通光宽带办...</a></div>
+					<div class="u-item"><a href="" class="hf7"><i></i>社保卡办理...</a></div>
+					<div class="u-item"><a href="" class="hf8"><i></i>企业退休人员...</a></div>
+					<div class="u-item"><a href="" class="hf9"><i></i>缴电费</a></div>
+					<div class="u-item"><a href="" class="hf10"><i></i>固话宽带</a></div>	
+					<div class="u-item"><a href="" class="hf11"><i></i>交通违章</a></div>	
+					<div class="u-item"><a href="" class="hf12"><i></i>手机缴费</a></div>	
+				</div>
+				<div class="m-content2">
+				    <div class="m-listbox m-per fl">
+						<div class="hd">
+							<ul><li class="on"><a href="">个人办事</a></li><li><a href="">法人办事</a></li><li><a href="">部门服务</a></li><li><a href="" class="hotserve">热门事项</a></li></ul>
+						</div>
+						<div class="bd">
+							<ul>
+								<li class="per1"><a href=""><i></i>生育收养</a></li>
+								<li class="per2"><a href=""><i></i>户籍办理</a></li>
+								<li class="per3"><a href=""><i></i>民族宗教</a></li>
+								<li class="per4"><a href=""><i></i>教育科研</a></li>
+								<li class="per5"><a href=""><i></i>就业创业</a></li>
+								<li class="per6"><a href=""><i></i>设立变更</a></li>
+								<li class="per7"><a href=""><i></i>准营准办</a></li>
+								<li class="per8"><a href=""><i></i>抵押质押</a></li>
+								<li class="per9"><a href=""><i></i>职业资格</a></li>
+								<li class="per10"><a href=""><i></i>行政缴费</a></li>
+								<li class="per11"><a href=""><i></i>婚姻登记</a></li>
+								<li class="per12"><a href=""><i></i>优待抚恤</a></li>
+								<li class="per13"><a href=""><i></i>规划建设</a></li>
+								<li class="per14"><a href=""><i></i>住房保障</a></li>
+								<li class="per15"><a href=""><i></i>证件办理</a></li>
+								<li class="per16"><a href=""><i></i>交通出行</a></li>
+								<li class="per17"><a href=""><i></i>旅游观光</a></li>
+								<li class="per18"><a href=""><i></i>出境入境</a></li>
+								<li class="per19"><a href=""><i></i>消费维权</a></li>
+								<li class="per20"><a href=""><i></i>公共安全</a></li>
+								<li class="per21"><a href=""><i></i>更多服务</a></li>
+							</ul>
+							<ul class="frbs">
+								<li class="far1"><a href=""><i></i>生育收养</a></li>
+								<li class="far2"><a href=""><i></i>户籍办理</a></li>
+								<li class="far3"><a href=""><i></i>民族宗教</a></li>
+								<li class="far4"><a href=""><i></i>教育科研</a></li>
+								<li class="far5"><a href=""><i></i>就业创业</a></li>
+								<li class="far6"><a href=""><i></i>设立变更</a></li>
+								<li class="far7"><a href=""><i></i>准营准办</a></li>
+								<li class="far8"><a href=""><i></i>抵押质押</a></li>
+								<li class="far9"><a href=""><i></i>职业资格</a></li>
+								<li class="far10"><a href=""><i></i>行政缴费</a></li>
+								<li class="far11"><a href=""><i></i>婚姻登记</a></li>
+								<li class="far12"><a href=""><i></i>优待抚恤</a></li>
+								<li class="far13"><a href=""><i></i>规划建设</a></li>
+								<li class="far14"><a href=""><i></i>住房保障</a></li>
+								<li class="far15"><a href=""><i></i>证件办理</a></li>
+								<li class="far16"><a href=""><i></i>交通出行</a></li>
+								<li class="far17"><a href=""><i></i>旅游观光</a></li>
+								<li class="far18"><a href=""><i></i>出境入境</a></li>
+								<li class="far19"><a href=""><i></i>消费维权</a></li>
+								<li class="far20"><a href=""><i></i>公共安全</a></li>
+								<li class="far21"><a href=""><i></i>更多服务</a></li>
+							</ul>
+							<ul class="bumen">
+								<li class="bumen1"><a href="">县食品药品监管局</a></li>
+								<li class="bumen2"><a href="">户籍办理</a></li>
+								<li class="bumen3"><a href="">民族宗教</a></li>
+								<li class="bumen4"><a href="">教育科研</a></li>
+								<li class="bumen5"><a href="">就业创业</a></li>
+								<li class="bumen6"><a href="">设立变更</a></li>
+								<li class="bumen7"><a href="">准营准办</a></li>
+								<li class="bumen8"><a href="">抵押质押</a></li>
+								<li class="bumen9"><a href="">职业资格</a></li>
+								<li class="bumen10"><a href="">行政缴费</a></li>
+								<li class="bumen11"><a href="">婚姻登记</a></li>
+								<li class="bumen12"><a href="">优待抚恤</a></li>
+								<li class="bumen13"><a href="">规划建设</a></li>
+								<li class="bumen14"><a href="">住房保障</a></li>
+								<li class="bumen15"><a href="">证件办理</a></li>
+								<li class="bumen16"><a href="">交通出行</a></li>
+								<li class="bumen17"><a href="">旅游观光</a></li>
+								<li class="bumen18"><a href="">出境入境</a></li>
+								<li class="bumen19"><a href="">消费维权</a></li>
+								<li class="bumen20"><a href="">公共安全</a></li>
+								<li class="bumen21"><a href="">更多服务</a></li>
+								<li class="bumen21"><a href="">更多服务</a></li>
+								<li class="bumen21"><a href="">更多服务</a></li>
+								<li class="bumen21"><a href="">更多服务</a></li>
+								<li class="bumen21"><a href="">更多服务</a></li>
+								<li class="bumen21"><a href="">更多服务</a></li>
+								<li class="bumen21"><a href="">更多服务</a></li>
+								<li class="bumen21"><a href="">更多服务</a></li>
+							</ul>
+							<ul class="hotserve-list">
+								<li><a href="">企业退休人员养老金资格认证</a></li>
+								<li><a href="">货运车辆年审</a></li>
+								<li><a href="">企业名称预先核准</a></li>
+								<li><a href="">道路货物运输驾驶员从业资格证诚信考核</a></li>
+								<li><a href="">个体工商户注册登记</a></li>
+								<li><a href="">计生家庭个体工商户注册登记</a></li>
+							</ul>
+						</div>
+					</div> 
+                    <div class="m-hoting fr">
+						<h3><a href="">热门事项</a></h3>
+						<ul>
+							<li class="hot1"><a href="">企业退休人员养老金资格认证</a></li>
+							<li class="hot2"><a href="">货运车辆年审</a></li>
+							<li class="hot3"><a href="">企业名称预先核准</a></li>
+							<li class="hot4"><a href="">道路货物运输驾驶员从业资格证诚信考核</a></li>
+							<li class="hot5"><a href="">个体工商户注册登记</a></li>
+							<li class="hot6"><a href="">计生家庭个体工商户注册登记</a></li>
+						</ul>
+					</div> 					
+				</div>
+			</div>
+            <div class="m-content3">
+			    <div class="m-need fl">
+                    <div>
+					    <img src="../../media/images/bsfw/woyao01.jpg">
+						<ul>
+						    <li><a href="" target="_blank">办事指南</a></li>
+						    <li><a href="" target="_blank">政务服务事项目录清单</a></li>
+						</ul>
+					</div>
+                    <div>
+					    <img src="../../media/images/bsfw/woyao02.jpg">
+					    <ul>
+						    <li><a href="" target="_blank">办事进度</a></li>
+						    <li><a href="" target="_blank">办件公示</a></li>
+						</ul>
+					</div>
+                    <div>
+					    <img src="../../media/images/bsfw/woyao03.jpg">
+						<ul>
+						    <li><a href="" target="_blank">个人办事</a></li>
+						    <li><a href="" target="_blank">法人办事</a></li>
+							<li><a href="" target="_blank">部门服务</a></li>
+						    <li><a href="" target="_blank">便民服务</a></li>
+						
+						</ul>
+					</div>
+					<div>
+					    <img src="../../media/images/bsfw/woyao04.jpg">
+						<ul>
+						    <li><a href="" target="_blank">网上咨询</a></li>
+						    <li><a href="" target="_blank">常见问题</a></li>
+						</ul>
+					</div>
+					<div>
+					    <img src="../../media/images/bsfw/woyao05.jpg">
+						<ul>
+						    <li><a href="" target="_blank">办事评价</a></li>
+						    <li><a href="" target="_blank">意见建议</a></li>
+						</ul>
+					</div>
+				</div>
+				<div class="m-zwfw fr">
+				    <a><img src="../../media/images/bsfw/bs_zw.jpg"></a>
+				</div>
+			</div>
+            <div class="m-content4">
+			    <div class="m-banjian fl">
+				    <h1><a href="">办件公示</a></h1>
+					<div class="table-responsive">
+						<div class="table">
+							<div class="tb-nav">
+								<ul>
+									<li class="n1">受理部门</li>
+									<li class="n2">事项名称</li>
+									<li class="n3">申请时间</li>
+									<li class="n4">办件状态</li>
+								</ul>
+							</div>
+							<div class="tb-list">
+								<ul>
+									<li class="l1">县人社局</li>
+									<li class="l2">人民日报社安徽分社社长朱思雄来我县采访调研</li>
+									<li class="l3">2019-06-04</li>
+									<li class="l4 bj0">办结</li>
+								</ul>
+								<ul>
+									<li class="l1">县教育局</li>
+									<li class="l2">第48个世界环境日：蓝天保卫战 我是行动者</li>
+									<li class="l3">2019-06-04</li>
+									<li class="l4 bj0">办结</li>
+								</ul>
+								<ul>
+									<li class="l1">县公安局</li>
+									<li class="l2">县委召开审计委员会、财经委员会第一次会</li>
+									<li class="l3">2019-06-04</li>
+									<li class="l4 bj0">办结</li>
+								</ul>
+								<ul>
+									<li class="l1">县经信局</li>
+									<li class="l2">县委召开审计委员会、财经委员会第一次会</li>
+									<li class="l3">2019-06-04</li>
+									<li class="l4 bj1">在办</li>
+								</ul>
+								<ul>
+									<li class="l1">县科技局</li>
+									<li class="l2">县委召开审计委员会、财经委员会第一次会</li>
+									<li class="l3">2019-06-04</li>
+									<li class="l4 bj1">在办</li>
+								</ul>
+								<ul>
+									<li class="l1">县人社局</li>
+									<li class="l2">县委召开审计委员会、财经委员会第一次会</li>
+									<li class="l3">2019-06-04</li>
+									<li class="l4 bj1">在办</li>
+								</ul>
+								<ul>
+									<li class="l1">县教育局</li>
+									<li class="l2">县委召开审计委员会、财经委员会第一次会</li>
+									<li class="l3">2019-06-04</li>
+									<li class="l4 bj1">在办</li>
+								</ul>
+							</div>
+						</div>
+					</div>
+				</div> 
+				<div class="m-bianming fr">
+				    <h1><a href="">便民服务</a></h1>
+					<ul class="u-bm1">
+					    <li><a href=""><i></i>交通违法</a></li>
+					    <li><a href=""><i></i>医疗保险</a></li>
+					    <li><a href=""><i></i>公交查询</a></li>
+					    <li><a href=""><i></i>航班查询</a></li>
+					    <li><a href=""><i></i>火车查询</a></li>
+					    <li><a href=""><i></i>天气查询</a></li>
+					</ul>
+					<ul class="u-bm2">
+					    <li class="fl yd1"><a href=""><i></i>皖事通APP</a><img src="../../media/images/bsfw/wst-code.png"></li>
+					    <li class="fr yd2"><a href=""><i></i>微信小程序</a><img src="../../media/images/bsfw/wxxiaochengxu.jpg"></li>
+					    <li class="fl yd3"><a href=""><i></i>微信公众号</a><img src="../../media/images/bsfw/wxgongzhonghao.jpg"></li>
+					    <li class="fr yd4"><a href=""><i></i>我家亳州APP</a><img src="../../media/images/bsfw/wojiabozhouAPP.png"></li>
+					</ul>
+				</div>
+			</div>						
+		 </div>
+		 <div class="is-foot">
+			 <div class="fxlist">
+				<ul>
+					<li class="fx1"><a href="" target="_blank"></a></li>
+					<li class="fx2"><a href="" target="_blank"></a></li>
+					<li class="fx3"><a href="" target="_blank"></a></li>
+					<li class="fx4"><a href="" target="_blank"></a></li>
+					<li class="fx5"><a href="" target="_blank"></a></li>
+					<li class="fx6"><a href="" target="_blank"></a></li>
+				</ul>
+			 </div>
+			<div class="m-footer">
+			    <div class="m-middle">
+				    <p class="fl">版权所有：蒙城县人民政府   主办单位：蒙城县人民政府办公室 <br/>E-mail： mcxzwgk@163.com   备案号：皖ICP备05015246号  网站标识码：3416220001<br/><a class="wgw">皖公网安备34162202000016号</a></p>
+					<ul class="fl">
+					    <li class="f1"><a href="">网站地图</a></li>
+					    <li class="f2"><a href="">隐私申明</a></li>
+					    <li class="f3"><a href="">使用说明</a></li>
+					    <li class="f4"><a href="">联系方式</a></li>
+					</ul>
+					<script id="_jiucuo_" sitecode="3416230019" src="http://pucha.kaipuyun.cn/exposure/jiucuo.js"></script>
+					<script type="text/javascript">document.write(unescape("%3Cspan id='_ideConac' %3E%3C/span%3E%3Cscript src='http://dcs.conac.cn/js/13/212/0000/60407018/CA132120000604070180001.js' type='text/javascript'%3E%3C/script%3E"));</script>
+				</div>
+			</div>
+		 </div>
+		 <script src="../../media/js/jquery.SuperSlide.2.1.js"></script>
+		 <script>
+		     jQuery(".m-benji .bd").slide({ titCell:".u-hd li", mainCell:".u-bd", targetCell:".more a", autoPlay:false});
+			 jQuery(".m-listbox").slide({ titCell:".hd li", mainCell:".bd", targetCell:".more a", autoPlay:false});
+			 jQuery(".table").slide({mainCell:".tb-list",autoPage:true,effect:"topLoop",autoPlay:true,vis:7});
+			 $('.m-hotfw').owlCarousel({
+					items:9,
+					autoPlay:3000,
+					stopOnHover:true,
+					pagination:false,
+					navigation:true,
+					navigationText:["<",">"]
+				})
+		 </script>
+	 </body>
